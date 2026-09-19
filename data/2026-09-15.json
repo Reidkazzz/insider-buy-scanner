@@ -1,0 +1,368 @@
+{
+ "date": "2026-09-15",
+ "generated": "2026-09-19T18:01:31.673Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "CARLSMED, INC.",
+    "ticker": "CARL",
+    "cik": "0001794546"
+   },
+   "owners": [
+    {
+     "name": "Presidio Management Group XII, L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "U.S. Venture Partners XII, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Tansey Casey M",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 200000,
+   "avgPrice": 15,
+   "value": 3000000,
+   "tradeDates": [
+    "2025-07-24"
+   ],
+   "sharesAfter": 200000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1794546/000119312526392111/0001193125-26-392111-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "GENERAL STEEL HOLDINGS INC",
+   "filer": "Alternative Liquidity Index LP",
+   "percentOfClass": 83,
+   "sharesOwned": 225010000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1870412/000187041226000003/0001870412-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "XCF Global, Inc.",
+   "filer": "GL Part SPV II, LLC",
+   "percentOfClass": 6.7,
+   "sharesOwned": 27479983,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "GL II has the right to acquire warrants to purchase up to $99,000,000 of additional shares of XCF Class A Common Stock until December 31, 2026.",
+    "N/A N/A On July 16, 2026, GLI entered into a Warrant Purchase Agreement with XCF giving GL II the right to acquire a total of up to $100,000,000 in warrants to acquire additional shares of XCF Class A Common Stock until December 31, 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2106590/000210659026000003/0002106590-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "JATT II Acquisition Corp.",
+   "filer": "JATT Ventures II L.P.",
+   "percentOfClass": 23.1,
+   "sharesOwned": 1800000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "e Issuer consummated its initial public offering (\"IPO\") and in connection with the consummation, Sponsor purchased an aggregate of 300,000 private placement shares for an aggregate purchase price of $3,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2112446/000121390026100263/0001213900-26-100263-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Korsana Biosciences, Inc.",
+   "filer": "Venrock Healthcare Capital Partners III, L.P.",
+   "percentOfClass": 9.9,
+   "sharesOwned": 4552277,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ferred stock, 37,871,909 shares of Series A preferred stock, 21,936,295 shares of common stock and pre-funded warrants to purchase 15,935,614 shares of common stock for an aggregate purchase price of $134,843,200 (collectively, the \"Old Korsana Securities\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1755237/000173804826000069/0001738048-26-000069-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PetVivo Holdings, Inc.",
+   "filer": "A.L. Sarroff Fund, LLC",
+   "percentOfClass": 38.2,
+   "sharesOwned": 16940839,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Sarroff 580 Open Market Purchase $0.687 09/09/26 Mrs.",
+    "Sarroff 22,160 Open Market Purchase $0.679 09/10/26 Mr.",
+    "Sarroff 10,974 Open Market Purchase $0.677 09/14/26 Mr.",
+    "Sarroff 24,888 Open Market Purchase $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1553209/000109991026000264/0001099910-26-000264-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hyperscale Data, Inc.",
+   "filer": "Ault &amp; Company, Inc.",
+   "percentOfClass": 63.3,
+   "sharesOwned": 317568715,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Ault with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $424,159, including brokerage commissions.",
+    "Horne with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $84,983, including brokerage commissions.",
+    "Nisser with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $46,779, including brokerage commissions.",
+    "Cragun with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $18,654, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1212502/000092189526002550/0000921895-26-002550-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Advanced Flower Capital Inc.",
+   "filer": "Leonard M. Tannenbaum",
+   "percentOfClass": 31.6,
+   "sharesOwned": 7104897,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Tannenbaum Purchase of Common Stock 19,404 $ 3.41 $3.",
+    "Tannenbaum Purchase of Common Stock 15,202 $ 3.46 $3.",
+    "Tannenbaum Purchase of Common Stock 65,752 $ 3.53 $3.",
+    "Tannenbaum Purchase of Common Stock 53,273 $ 3.60 $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1822523/000182912626010121/0001829126-26-010121-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Braemar Hotels &amp; Resorts Inc.",
+   "filer": "Al Shams Investments LTD",
+   "percentOfClass": 9.48,
+   "sharesOwned": 6513000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1765296/000139834426017023/0001398344-26-017023-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BuzzFeed, Inc.",
+   "filer": "Allen Family Digital, LLC",
+   "percentOfClass": 53.5,
+   "sharesOwned": 45700000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ed and supplemented as follows: On September 11, 2026, in connection with the closing of the Offering (as defined below), AFD purchased 1,700,000 shares of Class A Common Stock at a purchase price of $1.06 per share of Class A Common Stock, for aggregate consideration of $1,802,000.",
+    "chase Agreement (the \"September 2026 Share Purchase Agreement\") with AFD, pursuant to which the Issuer agreed to sell to AFD a total of 1,700,000 shares of Class A Common Stock at a purchase price of $1.06 per share of Class A Common Stock (the \"Offering\").",
+    "purchase, and the Seller hereby agrees to sell, transfer, convey and assign to the Purchaser all of the rights, title and interest of the Seller in and to the Shares at a per share purchase price of $1.06 per Share (the Purchase Price ) in accordance with Delaware law."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2136301/000149315226042803/0001493152-26-042803-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Boston Omaha Corporation",
+   "filer": "Magnolia Capital Fund, LP",
+   "percentOfClass": 1.9,
+   "sharesOwned": 580558,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(1) In exercising Class B warrants, MCF purchased 1,262 shares for $10,096.00 and 51,516 shares for $515,160.",
+    "Peterson indirectly purchased 876 shares for his minor children's accounts at a cost basis of $15,017.33 on September 11, 2023.",
+    "1,888,412 shares of the Common Stock were purchased by TMG for the benefit of BOC I at an aggregated price of approximately $44,000,000, and consideration for these shares of Common Stock came from working capital of BOC I.",
+    "Effective as of June 30, 2018, 2,894,120 additional shares of Common Stock were contributed in-kind to BOC I, at an original cost basis at the time of purchase of $33,264,874.98, and consideration for these shares of Common Stock, when originally purchased, came from the working capital of MCF."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1494582/000139834426017012/0001398344-26-017012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "enVVeno Medical Corp",
+   "filer": "Braeden Lichti",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1982476/000121390026100114/0001213900-26-100114-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CPI Card Group Inc.",
+   "filer": "Tricor Pacific Capital Inc.",
+   "percentOfClass": 23.45,
+   "sharesOwned": 2701056,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "N/A On September 14, 2026, Sub purchased from the Selling Funds (defined below) a total of 525,000 Issuer Shares (referred to here as the \"Additional Shares\") for $11,287,500 ($21.50 per Share), funded by Tricor's working capital."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1641614/000110465926108019/0001104659-26-108019-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Conexeu Sciences Inc.",
+   "filer": "Jeffrey Sharpe",
+   "percentOfClass": 5.2,
+   "sharesOwned": 1500000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "orting Person, entered into a consulting services agreement pursuant to which the Reporting Person was granted 2,000,000 Performance Warrants to acquire shares of Common Stock at an exercise price of $0.001 per share, with a term of five years.",
+    "On December 23, 2025, the Reporting Person exercised the vested 500,000 Performance Warrants in full, acquiring 500,000 shares of Common Stock at an exercise price of $0.001 per share, for aggregate consideration of $500."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2066836/000106299326004967/0001062993-26-004967-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "D-MARKET Electronic Services &amp; Trading",
+   "filer": "Joint Stock Company Kaspi.kz",
+   "percentOfClass": 93.51,
+   "sharesOwned": 400841947,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1850235/000119312526391292/0001193125-26-391292-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Dave Inc.",
+   "filer": "Jason Wilk",
+   "percentOfClass": 11.8,
+   "sharesOwned": 1530172,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841408/000119312526392095/0001193125-26-392095-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Designer Brands Inc.",
+   "filer": "Stone House Capital Management, LLC",
+   "percentOfClass": 16.1,
+   "sharesOwned": 7000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1319947/000092189526002548/0000921895-26-002548-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Diameter Dynamic Credit Fund",
+   "filer": "Michael &amp; Susan Dell Foundation",
+   "percentOfClass": 55.4,
+   "sharesOwned": 27648236,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2067955/000119312526392265/0001193125-26-392265-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    ",671 shares of the Issuer's Series A Mandatorily Convertible Preferred Stock (\"Preferred Shares\"), which carry voting rights on an as-converted to Class A Shares basis, for aggregate consideration of $1,667,985.02."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1124460/000174972326000139/0001749723-26-000139-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Eltek Ltd",
+   "filer": "Nistec Golan Ltd.",
+   "percentOfClass": 60.23,
+   "sharesOwned": 4047659,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1024672/000117891326004509/0001178913-26-004509-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "FLOTEK INDUSTRIES, INC.",
+   "filer": "ProFrac Holding Corp.",
+   "percentOfClass": 54.5,
+   "sharesOwned": 20937915,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/928054/000110465926108028/0001104659-26-108028-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Solana Co",
+   "filer": "Daniel W. Morehead",
+   "percentOfClass": 9.76,
+   "sharesOwned": 5997319,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2079712/000121390026100250/0001213900-26-100250-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1124465/000112446526000003/0001124465-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NUTRIBAND INC.",
+   "filer": "Gareth Sheridan",
+   "percentOfClass": 14.2,
+   "sharesOwned": 1786000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1676047/000121390026100103/0001213900-26-100103-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Tessera Defense &amp; Homeland Security Inc.",
+   "filer": "Water IO Ltd.",
+   "percentOfClass": 3.87,
+   "sharesOwned": 156796,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026100121/0001213900-26-100121-index.htm"
+  }
+ ]
+}
