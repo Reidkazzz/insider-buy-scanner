@@ -1,0 +1,333 @@
+{
+ "date": "2026-09-17",
+ "generated": "2026-09-19T18:05:36.128Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Borr Drilling Ltd",
+    "ticker": "BORR",
+    "cik": "0001715497"
+   },
+   "owners": [
+    {
+     "name": "Troim Tor Olav",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 1000000,
+   "avgPrice": 4.2995,
+   "value": 4299500,
+   "tradeDates": [
+    "2026-09-16"
+   ],
+   "sharesAfter": 30385941,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026062396/0001628280-26-062396-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Star Bulk Carriers Corp.",
+    "ticker": "SBLK",
+    "cik": "0001386716"
+   },
+   "owners": [
+    {
+     "name": "Pappa Milena Maria",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 74400,
+   "avgPrice": 28.27,
+   "value": 2103288,
+   "tradeDates": [
+    "2026-09-15"
+   ],
+   "sharesAfter": 3167074,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2113812/000211381226000003/0002113812-26-000003-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Star Bulk Carriers Corp.",
+    "ticker": "SBLK",
+    "cik": "0001386716"
+   },
+   "owners": [
+    {
+     "name": "Pappas Alexandros",
+     "roles": [
+      "Head of Operations"
+     ]
+    }
+   ],
+   "shares": 74400,
+   "avgPrice": 28.27,
+   "value": 2103288,
+   "tradeDates": [
+    "2026-09-15"
+   ],
+   "sharesAfter": 2532150,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2107497/000210749726000002/0002107497-26-000002-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Talos Energy Inc.",
+   "filer": "Carlos Slim Helu",
+   "percentOfClass": 23.4,
+   "sharesOwned": 39079036,
+   "recentTradeShares": 1381000,
+   "avgPrice": 18.5225,
+   "recentTradeValue": 25579622,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1080910/000114036126037026/0001140361-26-037026-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "111, Inc.",
+   "filer": "Gang Yu",
+   "percentOfClass": 20.7,
+   "sharesOwned": 36468362,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "isition of all Class A ordinary shares (including Class A ordinary shares represented by ADSs) not beneficially owned by the Consortium members in a going-private transaction at a purchase price of US$0.226 per Class A ordinary share or US$4.",
+    "ive Contemplated Ownership Percentages immediately after the consummation of the Transaction in light of the following current assumptions the purchase price per Company Share in the Transaction is US$0.226.",
+    "Class A Shares represented by American depositary shares ( ADSs , each representing twenty Class A Shares), that are not currently owned by us in a going-private transaction at a purchase price of US$0.226 per Class A Share or US$4."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1738906/000110465926108394/0001104659-26-108394-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "FibroBiologics, Inc.",
+   "filer": "Hamid Khoja",
+   "percentOfClass": 7.5,
+   "sharesOwned": 630009,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226043112/0001493152-26-043112-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "OraSure Technologies, Inc.",
+   "filer": "Islet Management, LP",
+   "percentOfClass": 0.7,
+   "sharesOwned": 490000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 490,000 Shares beneficially owned by Islet is approximately $1,682,891, including brokerage commissions.",
+    "The aggregate purchase price of the 3,918,634 Shares beneficially owned by YA II is approximately $15,317,013, including brokerage commissions.",
+    "Issuer During the Past 60 Days Nature of the Transaction Securities Purchased/(Sold) Price Per Security($) Date of Purchase/Sale Islet Management, LP Purchase of Cash-Settled Total Return Swap 25,000 $3.7897 07/22/2026 Purchase of Cash-Settled Total Return Swap 10,000 $3.",
+    "9957 07/23/2026 Purchase of Cash-Settled Total Return Swap 20,000 $4.0199 07/24/2026 Purchase of Cash-Settled Total Return Swap 20,000 $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1721508/000094562126001163/0000945621-26-001163-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Tessera Defense and Homeland Security Inc. (formerly BiomX Inc.)",
+   "filer": "Mayers Ventures LLC",
+   "percentOfClass": 4.86,
+   "sharesOwned": 130000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In connection with the purchase, the Issuer also made available to the LLC a convertible loan facility of up to $475,000, bearing interest at 12% per annum, convertible at the Issuer's election into shares of MEA for working capital purposes of MEA."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2155820/000121390026100950/0001213900-26-100950-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VULCAN INFRASTRUCTURE AND POWER INC.",
+   "filer": "Rogers George Ted III",
+   "percentOfClass": 8.5,
+   "sharesOwned": 3017216,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "), pursuant to which, among other things, the Issuer agreed to issue and sell to the Investors an aggregate of 7,818,706 shares of the Issuer's Class A common stock for an aggregate purchase price of $13,370,000.",
+    "Rogers purchased 2,923,976 shares of the Issuer's Class A common stock at a purchase price of $1.71 per share, for an aggregate purchase price of approximately $5,000,000.",
+    "Rogers in March 2021 was $1 million and were purchased using personal funds."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1881667/000092189526002571/0000921895-26-002571-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aurora Innovation, Inc.",
+   "filer": "Uber Technologies, Inc.",
+   "percentOfClass": 9.2,
+   "sharesOwned": 157103800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1828108/000155278126000494/0001552781-26-000494-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "XBP Global Holdings, Inc.",
+   "filer": "Avenue RP Opportunities Fund, L.P.",
+   "percentOfClass": 6.9,
+   "sharesOwned": 981807,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the sale by the Issuer in a private placement (the \"Private Placement\") of an aggregate of 2,275,245 shares (the \"Shares\") of the Issuer's Common Stock, at a weighted purchase price of approximately $2.66 per Share, for aggregate gross proceeds to the Issuer of approximately $6.",
+    "All purchases made by Avenue were made at a per share price of $2.83, which is the consolidated closing bid price of the Common Stock immediately preceding entry into the Private Placement, and the remainder of the Shares were purchased at a per share price of $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1774621/000114036126036981/0001140361-26-036981-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
+   "filer": "BANK OF AMERICA CORP /DE/",
+   "percentOfClass": 79.4,
+   "sharesOwned": 1920,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000468/0000070858-26-000468-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "STURM RUGER &amp; CO INC",
+   "filer": "Beretta Holding S.A.",
+   "percentOfClass": 9.93,
+   "sharesOwned": 1587000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "mber 17, 2026, the Reporting Person commenced a tender offer (the \"Tender Offer\") to purchase up to 2,400,184 shares of the Issuer's issued and outstanding Common Stock, for a cash price per share of $44.80."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2086731/000092189526002570/0000921895-26-002570-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "XBP Global Holdings, Inc.",
+   "filer": "Exela Technologies, Inc.",
+   "percentOfClass": 22.72,
+   "sharesOwned": 3366998,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "urchasers\"), for the sale by XBP in a private placement (the \"Private Placement\") of an aggregate of 2,275,245 shares of XBP Common Stock (the \"Shares\"), at a weighted purchase price of approximately $2.66 per share, for aggregate gross proceeds to XBP of approximately $6.",
+    "HCI, LLC (\"HCI\"), an affiliate of HGM Limited (\"HGM\"), participated as a Purchaser in the Private Placement, purchasing 204,946 Shares at a per share price of $2.83."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/938202/000110465926108645/0001104659-26-108645-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Cheer Holding, Inc.",
+   "filer": "Bing Zhang",
+   "percentOfClass": 0.7,
+   "sharesOwned": 13143,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Zhang, constituting all the issued and outstanding Class B Shares of the Company, for aggregate consideration of US$500.00.",
+    "einafter defined), the Purchaser does hereby purchase from the Seller, and the Seller does hereby sell and transfer to the Purchaser the Sale Shares as fully paid and non-assessable in exchange for US$500.00 (the Consideration )."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1738758/000121390026101030/0001213900-26-101030-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Super Group (SGHC) Limited",
+   "filer": "Chivers Limited",
+   "percentOfClass": 17.7,
+   "sharesOwned": 90174578,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1954552/000101143826000573/0001011438-26-000573-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Diamondback Energy, Inc.",
+   "filer": "SGF FANG Holdings, LP",
+   "percentOfClass": 23.2,
+   "sharesOwned": 64957047,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000114036126037012/0001140361-26-037012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TORM plc",
+   "filer": "Hafnia Limited",
+   "percentOfClass": 18.22,
+   "sharesOwned": 18656061,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1815779/000114036126036989/0001140361-26-036989-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TYRA BIOSCIENCES, INC.",
+   "filer": "RA Capital Management, L.P.",
+   "percentOfClass": 19.9,
+   "sharesOwned": 14130492,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "em 3 of the Statement is hereby amended and supplemented as follows: On September 15, 2026, the Fund purchased Pre-Funded Warrants exercisable for up to 9,078,529 shares of common stock at a price of $22.029 per Pre-Funded Warrant, from the underwriters of the Issuer's public offering (the \"September 2026 Offering\").",
+    "The aggregate purchase price for the Pre-Funded Warrants acquired by the Fund in the September 2026 Offering was $199,990,915.34, which was funded by the working capital of the Fund."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1346824/000134682426000237/0001346824-26-000237-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SharonAI Holdings Inc.",
+   "filer": "Situational Awareness LP",
+   "percentOfClass": 21.1,
+   "sharesOwned": 8070950,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The amount of funds used in purchasing the Issuer's Class A Ordinary Common Stock was $523,883,130.66.",
+    "er: 8,070,950 Shulman: 8,070,950 On September 15, 2026, the Fund exercised prefunded warrants to purchase 2,674,823 shares of the Issuer's Class A Ordinary Common Stock from the Issuer for a price of $0.0001 per share.",
+    "Pursuant to the Purchase Agreement, the Fund acquired a prefunded warrant (the \"Prefunded Warrant\") to purchase 6,374,823 shares of Class A Ordinary Common Stock for a purchase price of $0.0001 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2068385/000093583626000500/0000935836-26-000500-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Swarmer, Inc",
+   "filer": "Philip Wagenheim",
+   "percentOfClass": 4.99,
+   "sharesOwned": 835840,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926108628/0001104659-26-108628-index.htm"
+  }
+ ]
+}
