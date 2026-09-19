@@ -21,6 +21,12 @@ jobs:
       - run: node scripts/scan.mjs ${{ github.event.inputs.date }}
         env:
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+      - name: Politician tracker (House + Senate stock disclosures)
+        if: ${{ github.event.inputs.date == '' }}
+        continue-on-error: true
+        run: |
+          npm ci
+          node scripts/politicians.mjs
       - name: Commit results (safe against parallel runs)
         run: |
           git config user.name "scan-bot"

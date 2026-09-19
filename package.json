@@ -1,0 +1,25 @@
+{
+  "name": "insider-buy-scanner",
+  "version": "1.0.0",
+  "description": "Nightly scan of SEC EDGAR for large insider buying, plus congressional stock disclosures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reidkazzz/insider-buy-scanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Reidkazzz/insider-buy-scanner/issues"
+  },
+  "homepage": "https://github.com/Reidkazzz/insider-buy-scanner#readme",
+  "dependencies": {
+    "fflate": "^0.8.3",
+    "unpdf": "^1.8.1"
+  }
+}
