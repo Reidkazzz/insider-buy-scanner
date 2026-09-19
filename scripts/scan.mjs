@@ -115,7 +115,7 @@ function parse13D(f, txt) {
     const dt = new Date(Date.UTC(+m[3], +m[1] - 1, +m[2]));
     const age = (filed - dt) / 86400000;
     const key = m[0];
-    if (age < -1 || age > 30 || seen.has(key)) continue;
+    if (age < -1 || age > 30) continue;
     seen.add(key);
     const sh = num(m[4]), px = num(m[5]);
     if (sh && px) { tradeShares += sh; tradeValue += sh * px; }
