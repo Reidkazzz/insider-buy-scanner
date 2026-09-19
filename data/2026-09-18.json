@@ -1,0 +1,294 @@
+{
+ "date": "2026-09-18",
+ "generated": "2026-09-19T17:16:07.983Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "5C Lending Partners Corp.",
+    "ticker": "NONE",
+    "cik": "0001998387"
+   },
+   "owners": [
+    {
+     "name": "LIBERTY MUTUAL HOLDING Co INC.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 398774,
+   "avgPrice": 24.48,
+   "value": 9761988,
+   "tradeDates": [
+    "2026-09-17"
+   ],
+   "sharesAfter": 4182050,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1998387/000119312526395720/0001193125-26-395720-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CapsoVision, Inc",
+    "ticker": "cv",
+    "cik": "0001378325"
+   },
+   "owners": [
+    {
+     "name": "Shen Ching Hang",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 878734,
+   "avgPrice": 5.69,
+   "value": 4999996,
+   "tradeDates": [
+    "2026-09-15"
+   ],
+   "sharesAfter": 2926655,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1378325/000210230426000003/0002102304-26-000003-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GRAFTECH INTERNATIONAL LTD",
+   "filer": "Undavia Nilesh",
+   "percentOfClass": 8.5,
+   "sharesOwned": 2211504,
+   "recentTradeShares": 255784,
+   "avgPrice": 7.9189,
+   "recentTradeValue": 2025532,
+   "snippets": [
+    "The Shares were purchased by the Reporting Persons for an aggregate purchase price of approximately $46,135,312.",
+    "w was an open market purchase of Common Stock: The Liliana Arsenio-Undavia 2018 Trust u/a Dated 10/25/2018 Trade Date Number of Shares Price Per Share ($) Aggregate Purchase Price($) 09/08/2026 4,001 $6.72 $26,878.",
+    "00 Total 20,000 $132,575.20 Nilesh Undavia (Charles Schwab IRA) Trade Date Number of Shares Price Per Share ($) Aggregate Purchase Price($) 09/09/2026 4,429 $6.",
+    "36 The Nilesh P Undavia 2018 Trust u/a Dated 10/25/2018 Trade Date Number of Shares Price Per Share ($) Aggregate Purchase Price($) 09/16/2026 225,419 $8.11 $1,827,484."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/931148/000194476126000004/0001944761-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "TROOPS, Inc.",
+   "filer": "JMD CORPORATE SERVICES LIMITED",
+   "percentOfClass": 14.7,
+   "sharesOwned": 18000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Shares were transferred for the consideration of US$16,680,000.",
+    "In addition, pursuant to the terms of the share transfer agreement, the ordinary shares shall be transferred for consideration of US$16,680,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2150677/000110465926108753/0001104659-26-108753-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "New Fortress Energy Inc.",
+   "filer": "Strategic Value Partners, LLC",
+   "percentOfClass": 14.7,
+   "sharesOwned": 19208710,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Rainmaker Worldwide Inc.",
+   "filer": "Michael John O'Connor",
+   "percentOfClass": 16,
+   "sharesOwned": 16055992,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "transfer on July 17, 2025 of 16,518,432 shares from Larchwood to Michael John O'Connor personally for no cash consideration; the sale on August 21, 2025 of 611,330 shares in a private transaction at $0.0347 per share; the sale on December 29, 2025 of 1,000,000 shares in a private transaction at $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2055656/000149315226043321/0001493152-26-043321-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 66.23,
+   "sharesOwned": 3024373.11,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "64 $11.28 BBH* Class S Units of Beneficial Interest Purchase 9/16/2026 85,549.",
+    "65 $11.28 BBH* Class S Units of Beneficial Interest Purchase 9/17/2026 87,378."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003569/0000929638-26-003569-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ATN International, Inc.",
+   "filer": "Cornelius B. Prior, Jr.",
+   "percentOfClass": 28.19,
+   "sharesOwned": 4342128,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Prior committed to gift $5 million to the University for no consideration during the Transaction Period (the \"Planned Gift\").",
+    "On June 25, 2026, VI E-Cell sold 500 shares of Common Stock at a weighted average price of $27.075 per share in open market sales.",
+    "On June 26, 2026, VI E-Cell sold 500 shares of Common Stock at a price of $27.10 per share in open market sales.",
+    "On June 29, 2026, VI E-Cell sold 500 shares of Common Stock at a weighted average price of $27.65 per share in open market sales."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/879585/000110465926108905/0001104659-26-108905-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Blaize Holdings",
+   "filer": "Lane Bess",
+   "percentOfClass": 9,
+   "sharesOwned": 13021985,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "1,500,000 shares of Sponsor Stock were acquired as consideration in connection with Bess Notes (as defined below), pursuant to which Bess Ventures loaned $25,000,000 to the Sponsor (as defined below) to facilitate the Closing."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2068418/000121390026101399/0001213900-26-101399-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "THE ESTEE LAUDER COMPANIES INC.",
+   "filer": "Trust Under Article 2 of The Zinterhofer 2008 Descendants Trust Agreement",
+   "percentOfClass": 1.9,
+   "sharesOwned": 4910594,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000114036126037143/0001140361-26-037143-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Eastern International Ltd.",
+   "filer": "Albert Wong",
+   "percentOfClass": 39.8,
+   "sharesOwned": 5546000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Wong at a price of US$1.00 per share, for an aggregate purchase price of US$200,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2013320/000149315226043373/0001493152-26-043373-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Freedom Holding Corp.",
+   "filer": "Turlov Timur R",
+   "percentOfClass": 64.91,
+   "sharesOwned": 41405112,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/924805/000092963826003570/0000929638-26-003570-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Meridian Holdings Inc./NV",
+   "filer": "Anthony Brian Goodman",
+   "percentOfClass": 5.51,
+   "sharesOwned": 698289,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1672837/000147793226005699/0001477932-26-005699-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JATT II Acquisition Corp.",
+   "filer": "JATT Ventures II L.P.",
+   "percentOfClass": 23.1,
+   "sharesOwned": 1800000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "e Issuer consummated its initial public offering (\"IPO\") and in connection with the consummation, Sponsor purchased an aggregate of 300,000 private placement shares for an aggregate purchase price of $3,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2112446/000121390026101561/0001213900-26-101561-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KKR Real Estate Select Trust Inc.",
+   "filer": "KKR Alternative Assets LLC",
+   "percentOfClass": 29.4,
+   "sharesOwned": 9866525.79,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1820655/000114036126037105/0001140361-26-037105-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Melco Resorts &amp; Entertainment Limited",
+   "filer": "Melco International Development Limited",
+   "percentOfClass": 56.3,
+   "sharesOwned": 687360906,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Melco Leisure purchased 33,750,000 additional Ordinary Shares in May 2009 from the Issuer for $44,887,500 as part of a registered public offering conducted by the Issuer to raise additional capital.",
+    "In February 2017, Melco Leisure purchased 198,000,000 Ordinary Shares for $1.188 billion from Crown Asia Investments Pty.",
+    "In August 2022, the Issuer repurchased 84,995,799 Ordinary Shares from Melco Leisure for an aggregate purchase price of $152,709,118.",
+    "repurchase agreement (\"Share Repurchase Agreement\"), pursuant to which Melco Leisure agreed to sell and the Issuer agreed to repurchase 40,373,076 Ordinary Shares for an aggregate repurchase price of $169,836,073."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1389153/000119312526395000/0001193125-26-395000-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Mistras Group, Inc.",
+   "filer": "Mill Road Capital III, L.P.",
+   "percentOfClass": 6.1,
+   "sharesOwned": 1938316,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "20, 2026 (the date 60 days prior to the filing of this Schedule 13D) to September 18, 2026 (the \"Reporting Period\"): Date of Purchase Shares Purchased (#) Purchase Price per Share ($) 8/12/2026 1,002 $17.0580 The above-listed transaction was conducted in the ordinary course of business on the open market for cash, and the purchase price does not reflect brokerage commissions paid."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1767199/000119312526395732/0001193125-26-395732-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Oscar Health, Inc.",
+   "filer": "Thrive Capital Partners II, L.P.",
+   "percentOfClass": 1.7,
+   "sharesOwned": 4779730,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1568651/000119312526395843/0001193125-26-395843-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Silvia, Inc.",
+   "filer": "Anthony Pompliano",
+   "percentOfClass": 17.37,
+   "sharesOwned": 14647595,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2067990/000149315226043448/0001493152-26-043448-index.htm"
+  }
+ ]
+}

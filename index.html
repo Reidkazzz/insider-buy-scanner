@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Insider Buy Scanner</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#14181f;--muted:#5d6675;--line:#e1e5eb;--accent:#0b6b4d;--warn:#a15c00}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1319;--card:#171d26;--text:#e8ebf0;--muted:#98a2b3;--line:#283040;--accent:#3ecf9a;--warn:#f0b35a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,sans-serif}
+main{max-width:1000px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:22px;margin:0 0 4px}.sub{color:var(--muted);margin:0 0 18px}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:16px}
+label{display:flex;flex-direction:column;font-size:12px;color:var(--muted);gap:4px}
+input,select,button{font:inherit;padding:7px 9px;border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--text)}
+button{cursor:pointer;background:var(--accent);color:#fff;border-color:var(--accent)}
+h2{font-size:16px;margin:24px 0 8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.big{font-size:18px;font-weight:650;color:var(--accent)}
+.tick{font-weight:700}.muted{color:var(--muted);font-size:13px}
+.tag{display:inline-block;font-size:11px;border:1px solid var(--line);border-radius:99px;padding:1px 8px;margin-right:4px;color:var(--muted)}
+.tag.hot{color:var(--accent);border-color:var(--accent)}.tag.warn{color:var(--warn);border-color:var(--warn)}
+.stats{display:flex;gap:18px;flex-wrap:wrap;margin-top:6px}.stats b{display:block;font-size:15px}
+blockquote{margin:8px 0 0;padding-left:10px;border-left:3px solid var(--line);color:var(--muted);font-size:13px}
+a{color:var(--accent)}.empty{color:var(--muted);padding:14px}
+</style>
+</head>
+<body>
+<main>
+<h1>Insider Buy Scanner</h1>
+<p class="sub">Daily SEC EDGAR filings: open-market buys by insiders / 10% owners (Form 4) and 5%+ holder Schedule 13D filings.</p>
+
+<div class="controls">
+  <label>Filing date <input type="date" id="date"></label>
+  <label>Min buy size (USD) <input type="number" id="min" value="10000000" step="1000000" min="0"></label>
+  <label>Scanned dates <select id="recent"></select></label>
+  <button id="go">Scan</button>
+</div>
+<div id="meta" class="muted"></div>
+<div id="out"></div>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const ESC = {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"};
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ESC[c]);
+const usd = (n) => n == null ? "—" : n >= 1e9 ? "$" + (n / 1e9).toFixed(2) + "B" : n >= 1e6 ? "$" + (n / 1e6).toFixed(2) + "M" : "$" + Math.round(n).toLocaleString();
+const px = (n) => n == null ? "—" : "$" + Number(n).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 4});
+const safeUrl = (u) => String(u).indexOf("https://www.sec.gov/") === 0 ? u : "#";
+let data = null;
+
+async function load(date) {
+  $("out").innerHTML = ""; $("meta").textContent = "Loading…";
+  try {
+    const r = await fetch("data/" + date + ".json", {cache: "no-cache"});
+    if (!r.ok) throw new Error("missing");
+    data = await r.json(); render();
+  } catch (e) {
+    data = null; $("meta").textContent = "";
+    $("out").innerHTML = '<div class="card empty">No scan for ' + esc(date) + '. It may be a weekend/holiday, or not run yet. In GitHub: Actions → “Nightly insider scan” → Run workflow, and enter this date.</div>';
+  }
+}
+
+function card13(x) {
+  const amend = x.form.slice(-2) === "/A";
+  return '<div class="card"><div class="row"><div><span class="tick">' + esc(x.subject || "Unknown issuer") + '</span><div class="muted">' + esc(x.filer) + '</div></div>' +
+    '<div class="big">' + (x.recentTradeValue ? usd(x.recentTradeValue) : "size: see filing") + '</div></div>' +
+    '<div class="stats"><div><span class="muted">Stake</span><b>' + (x.percentOfClass != null ? x.percentOfClass + "%" : "—") + (x.sharesOwned ? " · " + x.sharesOwned.toLocaleString() + " sh" : "") + '</b></div>' +
+    '<div><span class="muted">Avg price (recent trades)</span><b>' + px(x.avgPrice) + '</b></div></div>' +
+    x.snippets.slice(0, 3).map((s) => "<blockquote>" + esc(s) + "</blockquote>").join("") +
+    '<div style="margin-top:6px"><span class="tag ' + (amend ? "" : "hot") + '">' + (amend ? "Amendment" : "NEW 13D") + '</span><a href="' + safeUrl(x.url) + '" target="_blank" rel="noopener">SEC filing →</a></div></div>';
+}
+
+function render() {
+  const min = Number($("min").value) || 0;
+  const f4 = data.form4.filter((x) => x.value >= min);
+  const d13 = data.sc13d;
+  $("meta").textContent = "Scanned " + data.date + " · generated " + new Date(data.generated).toLocaleString();
+  let h = "<h2>Insider &amp; 10% owner open-market buys (Form 4) — " + f4.length + " at ≥ " + usd(min) + "</h2>";
+  if (!f4.length) h += '<div class="card empty">No Form 4 purchases at or above this size.</div>';
+  for (const x of f4) {
+    const who = x.owners.map((o) => esc(o.name) + (o.roles.length ? ' <span class="muted">(' + esc(o.roles.join(", ")) + ")</span>" : "")).join("; ");
+    const own10 = x.owners.some((o) => o.roles.includes("10% Owner"));
+    const before = x.sharesAfter ? x.sharesAfter - x.shares : 0;
+    const pct = before > 0 ? Math.round((x.shares / before) * 100) : null;
+    h += '<div class="card"><div class="row"><div><span class="tick">' + esc(x.issuer.ticker || "?") + "</span> · " + esc(x.issuer.name) + '<div class="muted">' + who + '</div></div><div class="big">' + usd(x.value) + "</div></div>" +
+      '<div class="stats"><div><span class="muted">Avg price paid</span><b>' + px(x.avgPrice) + '</b></div><div><span class="muted">Shares bought</span><b>' + x.shares.toLocaleString() + "</b></div>" +
+      '<div><span class="muted">Trade date(s)</span><b>' + esc(x.tradeDates.join(", ")) + "</b></div>" +
+      (x.sharesAfter ? '<div><span class="muted">Held after</span><b>' + x.sharesAfter.toLocaleString() + (pct != null ? " (+" + pct + "%)" : "") + "</b></div>" : "") + "</div>" +
+      '<div style="margin-top:6px">' + (own10 ? '<span class="tag hot">10% owner</span>' : "") + (x.plan10b5_1 ? '<span class="tag warn">mentions 10b5-1</span>' : "") +
+      '<span class="tag">Form ' + esc(x.form) + '</span><a href="' + safeUrl(x.url) + '" target="_blank" rel="noopener">SEC filing →</a></div></div>';
+  }
+  const withTrades = d13.filter((x) => x.recentTradeValue >= min);
+  const rest = d13.filter((x) => !(x.recentTradeValue >= min));
+  h += "<h2>Schedule 13D filings (5%+ holders) — " + d13.length + ' filed</h2><p class="muted">13D amounts are free text, so price and size are parsed best-effort from recent trade tables (last 30 days). Rows may include sales. Always open the filing to confirm.</p>';
+  if (withTrades.length) h += '<h3 style="font-size:14px">Trades ≥ ' + usd(min) + "</h3>" + withTrades.map(card13).join("");
+  h += '<h3 style="font-size:14px">Other 13D filings (size unknown or smaller)</h3>' + (rest.length ? rest.map(card13).join("") : '<div class="card empty">None.</div>');
+  $("out").innerHTML = h;
+}
+
+(async () => {
+  let dates = [];
+  try { dates = await (await fetch("data/index.json", {cache: "no-cache"})).json(); } catch (e) {}
+  $("recent").innerHTML = '<option value="">—</option>' + dates.map((d) => "<option>" + d + "</option>").join("");
+  const start = dates[0] || new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+  $("date").value = start; load(start);
+  $("go").onclick = () => { if ($("date").value) load($("date").value); };
+  $("recent").onchange = (e) => { if (e.target.value) { $("date").value = e.target.value; load(e.target.value); } };
+  $("min").oninput = () => { if (data) render(); };
+})();
+</script>
+</body>
+</html>
