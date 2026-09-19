@@ -91,10 +91,8 @@ function render() {
       '<span class="tag">Form ' + esc(x.form) + '</span><a href="' + safeUrl(x.url) + '" target="_blank" rel="noopener">SEC filing →</a></div></div>';
   }
   const withTrades = d13.filter((x) => x.recentTradeValue >= min);
-  const rest = d13.filter((x) => !(x.recentTradeValue >= min));
-  h += "<h2>Schedule 13D filings (5%+ holders) — " + d13.length + ' filed</h2><p class="muted">13D amounts are free text, so price and size are parsed best-effort from recent trade tables (last 30 days). Rows may include sales. Always open the filing to confirm.</p>';
-  if (withTrades.length) h += '<h3 style="font-size:14px">Trades ≥ ' + usd(min) + "</h3>" + withTrades.map(card13).join("");
-  h += '<h3 style="font-size:14px">Other 13D filings (size unknown or smaller)</h3>' + (rest.length ? rest.map(card13).join("") : '<div class="card empty">None.</div>');
+  h += "<h2>Schedule 13D filings (5%+ holders) — " + withTrades.length + " with trades ≥ " + usd(min) + ' (of ' + d13.length + ' filed)</h2><p class="muted">13D amounts are free text, so price and size are parsed best-effort from recent trade tables (last 30 days). Rows may include sales. Always open the filing to confirm. Filings with no parsed trade size, or below this threshold, are hidden.</p>';
+  h += withTrades.length ? withTrades.map(card13).join("") : '<div class="card empty">No 13D filings with a known trade size at or above this threshold.</div>';
   $("out").innerHTML = h;
 }
 
