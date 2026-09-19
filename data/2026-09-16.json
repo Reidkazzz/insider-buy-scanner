@@ -1,0 +1,482 @@
+{
+ "date": "2026-09-16",
+ "generated": "2026-09-19T18:05:17.491Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Fox Corp",
+    "ticker": "FOX",
+    "cik": "0001754301"
+   },
+   "owners": [
+    {
+     "name": "MURDOCH LACHLAN K",
+     "roles": [
+      "Director",
+      "Executive Chair, CEO"
+     ]
+    }
+   ],
+   "shares": 149934,
+   "avgPrice": 68.53,
+   "value": 10274977,
+   "tradeDates": [
+    "2026-09-15"
+   ],
+   "sharesAfter": 1401713,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1754301/000162828026062330/0001628280-26-062330-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Privacore VPC Asset Backed Credit Fund",
+    "ticker": "NONE",
+    "cik": "0002066579"
+   },
+   "owners": [
+    {
+     "name": "BANKERS LIFE &amp; CASUALTY CO",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 785083,
+   "avgPrice": 10.19,
+   "value": 8000000,
+   "tradeDates": [
+    "2026-09-14"
+   ],
+   "sharesAfter": 6752942.45,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/903939/000090393926000030/0000903939-26-000030-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Ares Dynamic Credit Allocation Fund, Inc.",
+    "ticker": "ARDC",
+    "cik": "0001515324"
+   },
+   "owners": [
+    {
+     "name": "THRIVENT FINANCIAL FOR LUTHERANS",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 240000,
+   "avgPrice": 25,
+   "value": 6000000,
+   "tradeDates": [
+    "2026-09-14"
+   ],
+   "sharesAfter": 240000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1515324/000031498426000042/0000314984-26-000042-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Kayne Anderson BDC, Inc.",
+    "ticker": "KBDC",
+    "cik": "0001747172"
+   },
+   "owners": [
+    {
+     "name": "ROBO JAMES L",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 400000,
+   "avgPrice": 13.0349,
+   "value": 5213940,
+   "tradeDates": [
+    "2026-09-14",
+    "2026-09-16"
+   ],
+   "sharesAfter": 400000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1747172/000118325426000005/0001183254-26-000005-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Three Lions Acquisition Corp.",
+    "ticker": "TLAC",
+    "cik": "0002128462"
+   },
+   "owners": [
+    {
+     "name": "Three Lions Sponsor, LLC",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 200000,
+   "avgPrice": 10,
+   "value": 2000000,
+   "tradeDates": [
+    "2026-09-02"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2128462/000119312526392735/0001193125-26-392735-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 50000,
+   "avgPrice": 21.65,
+   "value": 1082500,
+   "tradeDates": [
+    "2026-09-14"
+   ],
+   "sharesAfter": 2463658,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000057/0001221359-26-000057-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Stewards, Inc.",
+   "filer": "Charles Robert Abele",
+   "percentOfClass": 17.2,
+   "sharesOwned": 36337333,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148737/000166357726000283/0001663577-26-000283-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Dynatrace, Inc.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 5,
+   "sharesOwned": 14564509,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773383/000136157026000020/0001361570-26-000020-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Vulcan Infrastructure and Power Inc.",
+   "filer": "MIG REF II INFR, LLC",
+   "percentOfClass": 8.23,
+   "sharesOwned": 2923976,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "d and sold to MIG the following securities pursuant to the Subscription Agreement, dated as of July 19, 2026 (the \"Subscription Agreement\"), between Issuer and MIG, for an aggregate purchase price of $15,000,000: * 2,923,976 shares of Class A Common Stock at a purchase price of $1.",
+    "set forth therein (the \"MIG Conversion Shares\"); and * a three-year warrant (the \"MIG Warrant\") to purchase 1,754,386 shares of Class A Common Stock (the \"MIG Warrant Shares\") at an exercise price of $1.",
+    "Subscription Agreement, pursuant to which Issuer agreed to issue and sell, and MIG agreed to purchase, the MIG Shares, the MIG Convertible Note and the MIG Warrant for an aggregate purchase price of $15,000,000, which issuance and sale closed on the Closing Date (the \"Closing\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2154781/000119312526392929/0001193125-26-392929-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Stewards, Inc.",
+   "filer": "Vincent C Napolitano",
+   "percentOfClass": 19.2,
+   "sharesOwned": 40577924,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2149150/000166357726000279/0001663577-26-000279-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VAIL RESORTS INC",
+   "filer": "Oasis Management Co Ltd.",
+   "percentOfClass": 6.2,
+   "sharesOwned": 2199016,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $314 million (excluding commissions) was paid to acquire the shares of Common Stock held by the Oasis Fund.",
+    "Hudson were purchased with his personal funds in open market transactions for an aggregate purchase price of approximately $0.2 million (excluding commissions).",
+    "Chapek with a $500,000 forgivable loan to purchase shares of Common Stock in the event he becomes a director of the Issuer.",
+    "In addition, Oasis will provide to you a US$500,000 forgivable loan to purchase shares in the Company if you become an INED of the Company."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1317904/000090266426003832/0000902664-26-003832-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Stewards, Inc.",
+   "filer": "Shaun Anthony Quin",
+   "percentOfClass": 9.6,
+   "sharesOwned": 20210213,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2155184/000166357726000277/0001663577-26-000277-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Stewards, Inc.",
+   "filer": "Glen Anthony Whitefoord Steward",
+   "percentOfClass": 35.9,
+   "sharesOwned": 106000868,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2149781/000166357726000281/0001663577-26-000281-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BeOne Medicines Ltd.",
+   "filer": "Baker Bros. Advisors LP",
+   "percentOfClass": 7.8,
+   "sharesOwned": 115457154,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 14, 2026, the Adviser exercised options to purchase Ordinary Shares or ADS (\"Share Options\") to purchase 30,768 ADS as a result of the exercise of 15,384 Share Options to purchase ADS at $36.83 per ADS (the \"Exercised ADS Options\") held directly by each of Ranjeev Krishana and Michael Goller, resulting in the acquisition of a total of 30,768 ADS.",
+    "The amounts expended on acquiring the ADS were $566,592.72 for Exercised ADS Options held by each of Messrs.",
+    "In order to effect the exercise of the Exercised ADS Options, on September 14, 2026, the Adviser drew down $94,095.86 for the purpose of acquiring ADS for 667 from a revolving note (the \"667 Revolver\").",
+    "The Adviser also drew down $1,039,089.58 for the purpose of acquiring ADS for Life Sciences from a revolving note (the \"LS Revolver\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1263508/000110465926108269/0001104659-26-108269-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Boost Run Inc.",
+   "filer": "Sean Goodrich",
+   "percentOfClass": 8.88,
+   "sharesOwned": 4437921,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 14, the Reporting Persons, directly and indirectly sold 500,000 shares of Class A Common Stock at a price of $14.00 per share in an open market transaction.",
+    "5% of the Sponsor's 4,007,222 Private Warrants) at a purchase price of $1.75 per Founder Share, for an aggregate purchase price of $2,227,548."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226042923/0001493152-26-042923-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Comstock Inc.",
+   "filer": "MAK Capital Fund LP",
+   "percentOfClass": 6.7,
+   "sharesOwned": 5065656,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "MAK Fund acquired 3,500,000 Shares in a secondary offering on January 29, 2026 for an aggregate purchase price of approximately $9,625,000, excluding brokerage commissions.",
+    "The aggregate purchase price of the 5,065,656 Shares beneficially owned by MAK Fund is approximately $15,073,749, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1120970/000092189526002563/0000921895-26-002563-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LTD",
+   "filer": "DIANA SHIPPING INC.",
+   "percentOfClass": 4.9,
+   "sharesOwned": 2178585,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Transaction Date Transaction Type Number of Shares Purchase Price September 14, 2026 Open Market Sales 75,000 $ 26.94 (1) September 15, 2026 Open Market Sales 130,000 $ 27."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000091957426006345/0000919574-26-006345-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Tevogen Inc.",
+   "filer": "Kirti Desai",
+   "percentOfClass": 6.3,
+   "sharesOwned": 992983,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2011765/000112329226001316/0001123292-26-001316-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Prospect Enhanced Yield Fund",
+   "filer": "Eliasek M Grier",
+   "percentOfClass": 11.6,
+   "sharesOwned": 148033.41,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1294355/000129435526000001/0001294355-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Future FinTech Group Inc.",
+   "filer": "Wealth Index Capital Limited",
+   "percentOfClass": 32.5,
+   "sharesOwned": 2640625,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 16, 2025, the Company issued 9,000,000 shares of its common stock to Wealth Index Capital Limited (\"WICL\") at a purchase price of $2.00 per share, for an aggregate of $18,000,000, pursuant to the Equity SPA.",
+    "On July 29, 2026, the Company issued 10,000,000 shares of its common stock to Wealth Index Capital Limited (\"WICL\") at a purchase price of $1.00 per share, for an aggregate of $10,000,000, pursuant to the 2026 SPA."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1066923/000121390026100660/0001213900-26-100660-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Neostellar Capital Corp.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Persons used an aggregate of approximately $3,318,846 to purchase the additional Securities reported as beneficially owned in Item 5 since the most recent filing on Schedule 13D.",
+    "GCIA used approximately $4,994 of client funds to purchase the additional Securities reported by it."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000084/0000807249-26-000084-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hepion Pharmaceuticals, Inc.",
+   "filer": "KI Holdings Ltd.",
+   "percentOfClass": 10.2,
+   "sharesOwned": 10000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "purchased 10,000,000 shares of Common Stock together with one warrant to purchase up to an additional 10,000,000 shares of Common Stock at an exercise price of $0.06 per share for an aggregate purchase price of $500,000.",
+    "tock together with one warrant to purchase, subject to the Beneficial Ownership Limitations contained therein, up to an additional 10,000,000 shares of Common Stock for an aggregate purchase price of $500,000 in a private placement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226042907/0001493152-26-042907-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JE Cleantech Holdings Limited",
+   "filer": "HONG Bee Yin",
+   "percentOfClass": 100,
+   "sharesOwned": 3446934,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1928509/000149315226042987/0001493152-26-042987-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JE Cleantech Holdings Limited",
+   "filer": "HONG Bee Yin",
+   "percentOfClass": 15,
+   "sharesOwned": 324902,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1928509/000149315226043000/0001493152-26-043000-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Scully Royalty Ltd.",
+   "filer": "Peter R. Kellogg",
+   "percentOfClass": 35.5,
+   "sharesOwned": 5400010,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/897485/000110465926108347/0001104659-26-108347-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VolitionRx Limited",
+   "filer": "Lagoda Investment Management, L.P.",
+   "percentOfClass": 5.9,
+   "sharesOwned": 1650505,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1632108/000149315226042962/0001493152-26-042962-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Nephros, Inc.",
+   "filer": "Wexford Capital LP",
+   "percentOfClass": 2.06,
+   "sharesOwned": 223539,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1196298/000139834426017130/0001398344-26-017130-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TORM plc",
+   "filer": "OCM NJORD HOLDINGS S.A R.L.",
+   "percentOfClass": 11.06,
+   "sharesOwned": 11329874,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1790787/000114036126036787/0001140361-26-036787-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Scully Royalty Ltd.",
+   "filer": "Neil S. Subin",
+   "percentOfClass": 13,
+   "sharesOwned": 1985952,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1201333/000121390026100646/0001213900-26-100646-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Tevogen Inc.",
+   "filer": "Saadi Ryan H.",
+   "percentOfClass": 74.4,
+   "sharesOwned": 11709567,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2011728/000112329226001317/0001123292-26-001317-index.htm"
+  }
+ ]
+}
