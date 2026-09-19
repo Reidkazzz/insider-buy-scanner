@@ -1,0 +1,217 @@
+{
+ "date": "2026-09-14",
+ "generated": "2026-09-19T18:05:12.241Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CPI Card Group Inc.",
+    "ticker": "PMTS",
+    "cik": "0001641614"
+   },
+   "owners": [
+    {
+     "name": "Tricor PMT25 Holdings Inc.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Tricor Pacific Capital Inc.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 525000,
+   "avgPrice": 21.5,
+   "value": 11287500,
+   "tradeDates": [
+    "2026-09-14"
+   ],
+   "sharesAfter": 2701056,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1641614/000110465926107610/0001104659-26-107610-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "DONEGAL GROUP INC",
+    "ticker": "DGICA",
+    "cik": "0000800457"
+   },
+   "owners": [
+    {
+     "name": "DONEGAL MUTUAL INSURANCE CO",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 54725,
+   "avgPrice": 19.231,
+   "value": 1052415,
+   "tradeDates": [
+    "2026-09-11"
+   ],
+   "sharesAfter": 14387128,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/800457/000093559626000026/0000935596-26-000026-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Medicus Pharma Ltd.",
+   "filer": "BOKHARI, RAZA",
+   "percentOfClass": 5.3,
+   "sharesOwned": 4859349,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1660525/000095014226002546/0000950142-26-002546-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ABERDEEN GOVERNMENT MARKETS INCOME FUND",
+   "filer": "SIT INVESTMENT ASSOCIATES INC",
+   "percentOfClass": 36.7,
+   "sharesOwned": 11970422,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/811922/000076931726000007/0000769317-26-000007-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Anghami Inc",
+   "filer": "OSN Streaming Limited",
+   "percentOfClass": 71.26,
+   "sharesOwned": 7417345,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In the Revised Proposal, OSN Streaming proposed to acquire all the Ordinary Shares not currently owned of record by OSN Streaming and beneficially owned by the Reporting Persons for $3.75 per Ordinary Share in cash.",
+    "We are prepared to increase our proposed purchase price to $3.75 in cash per Ordinary Share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1871983/000110465926107266/0001104659-26-107266-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Anghami Inc.",
+   "filer": "Warner Bros. Discovery, Inc.",
+   "percentOfClass": 71.3,
+   "sharesOwned": 7417345,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In the Revised Proposal, OSN Streaming proposed to acquire all the Ordinary Shares not currently owned of record by OSN Streaming and beneficially owned by the Reporting Persons for $3.75 per Ordinary Share in cash."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1871983/000119312526390634/0001193125-26-390634-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AtaiBeckley Inc.",
+   "filer": "Apeiron Investment Group Ltd.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526390857/0001193125-26-390857-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Vulcan Infrastructure and Power Inc.",
+   "filer": "Atlas Capital Resources (A9) LP",
+   "percentOfClass": 14.09,
+   "sharesOwned": 5008865,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "to a subscription agreement (the \"Subscription Agreement\") with the Issuer pursuant to which Holdco agreed to purchase 2,923,976 shares (the \"Shares\") of Class A Common Stock, at a price per share of $1.71, for an aggregate purchase price of $5,000,000 in a private placement (the \"Private Placement\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1880358/000119312526390907/0001193125-26-390907-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Mistras Group, Inc.",
+   "filer": "Stephanie Athena Foglia",
+   "percentOfClass": 17.4,
+   "sharesOwned": 5532313,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2082289/000208228926000012/0002082289-26-000012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hagerty, Inc.",
+   "filer": "MARKEL GROUP INC.",
+   "percentOfClass": 42,
+   "sharesOwned": 79380264,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1840776/000090514826004169/0000905148-26-004169-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JBDI Holdings Ltd",
+   "filer": "Siow Kim Lian",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Siow sold 1,248,574 Ordinary Shares to the Purchaser for an aggregate consideration of US$1,370,000.00, representing 13.",
+    "2 Purchase Consideration The aggregate purchase price (the Purchase Price ) for the Seller Shares shall be US$1,370,000.00, to be paid to Seller at Closing."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1964314/000149315226042523/0001493152-26-042523-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Methanex Corporation",
+   "filer": "M&amp;G Investment Management Limited",
+   "percentOfClass": 15.3,
+   "sharesOwned": 11834166,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/922898/000119312526390005/0001193125-26-390005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000155/0001662991-26-000155-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Target Hospitality Corp.",
+   "filer": "Manjit Dale",
+   "percentOfClass": 30.5,
+   "sharesOwned": 29878409,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1771172/000095014226002544/0000950142-26-002544-index.htm"
+  }
+ ]
+}
