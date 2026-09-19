@@ -1,0 +1,353 @@
+{
+ "date": "2026-08-06",
+ "generated": "2026-09-19T23:05:15.283Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Reborn Coffee, Inc.",
+    "ticker": "REBN",
+    "cik": "0001707910"
+   },
+   "owners": [
+    {
+     "name": "Lim Jung Jae",
+     "roles": [
+      "Director",
+      "CEO and Interim CFO"
+     ]
+    }
+   ],
+   "shares": 131387,
+   "avgPrice": 180000,
+   "value": 23649660000,
+   "tradeDates": [
+    "2026-07-14"
+   ],
+   "sharesAfter": 131387,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2122599/000121390026086304/0001213900-26-086304-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "Frazier Life Sciences XI, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "FHMLS XI, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "FHMLS XI, L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 588235,
+   "avgPrice": 17,
+   "value": 9999995,
+   "tradeDates": [
+    "2026-08-06"
+   ],
+   "sharesAfter": 6154213,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000123191926000838/0001231919-26-000838-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Aptiv PLC",
+    "ticker": "APTV",
+    "cik": "0001521332"
+   },
+   "owners": [
+    {
+     "name": "MEISTER PAUL M",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 105631,
+   "avgPrice": 47.3342,
+   "value": 4999959,
+   "tradeDates": [
+    "2026-08-05"
+   ],
+   "sharesAfter": 105631,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312526337965/0001193125-26-337965-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Thryv Holdings, Inc.",
+    "ticker": "THRY",
+    "cik": "0001556739"
+   },
+   "owners": [
+    {
+     "name": "PAULSON &amp; CO. INC.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 399548,
+   "avgPrice": 2.8091,
+   "value": 1122376,
+   "tradeDates": [
+    "2026-08-04",
+    "2026-08-05"
+   ],
+   "sharesAfter": 8843383,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000824/0001013594-26-000824-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "CSB Financial Inc.",
+   "filer": "Stilwell Activist Fund, L.P.",
+   "percentOfClass": 9.9,
+   "sharesOwned": 139000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Stilwell Activist Fund has expended $239,400.00 to acquire 19,000 shares of Common Stock.",
+    "Stilwell Activist Investments has expended $1,261,624.61 to acquire 100,000 shares of Common Stock.",
+    "Stilwell Partners has expended a total of $252,656.00 to acquire 20,000 shares of Common Stock.",
+    "6328 $631,640.00 Purchase of Common Stock 07/30/26 48,526 12."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2114521/000092189526001979/0000921895-26-001979-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DigitalOcean Holdings, Inc.",
+   "filer": "Access Industries Management, LLC",
+   "percentOfClass": 15.86,
+   "sharesOwned": 18653451,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1508226/000119312526337970/0001193125-26-337970-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Angel Oak Mortgage REIT, Inc.",
+   "filer": "Xylem Finance LLC",
+   "percentOfClass": 4.99,
+   "sharesOwned": 1158320,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1766478/000091957426004826/0000919574-26-004826-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MetLife, Inc.",
+   "filer": "Board of Directors of MetLife, Inc., as an entity",
+   "percentOfClass": 16.1,
+   "sharesOwned": 102098469,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1111726/000119312526338366/0001193125-26-338366-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Finance of America Companies Inc.",
+   "filer": "Bloom Retirement Holdings Inc.",
+   "percentOfClass": 9.49,
+   "sharesOwned": 1481039,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1466992/000149315226036387/0001493152-26-036387-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "Canada Pension Plan Investment Board",
+   "percentOfClass": 34.4,
+   "sharesOwned": 88846844,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "D by adding the following: Confirmatory Letter On August 6, 2026, the Consortium jointly submitted a confirmatory letter (the \"Confirmatory Letter\") to the Board to reaffirm the Cash Consideration of $7.",
+    "After careful consideration and taking into account the feedback received from your advisers, the Consortium reaffirms the Cash Consideration of $7.02 per share set out in the July Proposal Letter as its best and final non-binding offer, with updates on the points outlined below."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1283718/000119312526338311/0001193125-26-338311-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CLEARONE INC",
+   "filer": "First Finance Ltd.",
+   "percentOfClass": 61.3,
+   "sharesOwned": 1641162,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "agreed to acquire, for a total purchase price of $1,750,000, (i) 437,500 shares of the Issuer's common stock and (ii) a warrant to purchase up to 437,500 shares of common stock (the \"Warrant\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/840715/000149315226036428/0001493152-26-036428-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ImmunityBio, Inc.",
+   "filer": "Cambridge Equities, LP",
+   "percentOfClass": 24.7,
+   "sharesOwned": 261705814,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1629222/000119312526338651/0001193125-26-338651-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Eos Energy Enterprises, Inc.",
+   "filer": "Cerberus Capital Management II, L.P.",
+   "percentOfClass": 32.6,
+   "sharesOwned": 175829986,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Issuer receives in the exchange are cancelled and reissued to CCM Frontier and CCM Frontier will have the right to purchase up to the remaining 90% of such Class C Units from the Issuer at a price of $1.00 per Class C Unit.",
+    "( Eos ) will contribute to the Company (i) $112,637,878.86 in cash, (ii) certain warrants to purchase 20,017,772 shares of common stock of Eos ( Eos Common Shares ) at the exercise price of $5.",
+    "481 per Eos Common Share (such warrants, collectively, the CCM Warrants ), and (iii) certain warrants to purchase 10,008,886 Eos Common Shares at the exercise price of $5.481 per Eos Common Share (such warrants, the HBC Warrants , and, together with the CCM Warrants, the Warrants ) as capital contribution, in exchange for 112,637,879 Class B Units of the Company."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2027951/000101143826000469/0001011438-26-000469-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CitroTech Inc.",
+   "filer": "Conboy Stephen",
+   "percentOfClass": 9.14,
+   "sharesOwned": 2061669,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "agreement (the \"Securities Purchase Agreement\") with the Issuer, pursuant to which the Reporting Person purchased 667 shares of Series C Convertible Preferred Stock for an aggregate purchase price of $10,005 ($15.",
+    "On August 4, 2026, the Reporting Person sold 275,001 shares of Common Stock for consideration of $3.00 per common share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/894556/000164033426001288/0001640334-26-001288-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "YY Group Holding Ltd.",
+   "filer": "Hyperscale Data, Inc.",
+   "percentOfClass": 4.7,
+   "sharesOwned": 151658,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "directly by Ault Lending with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $355,010, including brokerage commissions.",
+    "Ault with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $4,544, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/896493/000092189526001981/0000921895-26-001981-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Pure Cycle Corp",
+   "filer": "Maran Capital Management, LLC",
+   "percentOfClass": 14.7,
+   "sharesOwned": 3549000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1829240/000199937126017231/0001999371-26-017231-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SOCKET MOBILE, INC.",
+   "filer": "Mills Enrico Kevin",
+   "percentOfClass": 8.6,
+   "sharesOwned": 742493,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2073198/000207319826000003/0002073198-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SAGTEC GLOBAL LIMITED",
+   "filer": "Ng Chen Lok",
+   "percentOfClass": 41.78,
+   "sharesOwned": 8752600,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Person entered into a Private Subscription Agreement with the Company on June 17, 2026, for the purchase of 1,500,000 Class A Ordinary Shares at a a purchase price of US$1.04 per share, for an aggregate subscription amount of US$1,560,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2070001/000121390026086254/0001213900-26-086254-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wallbox N.V.",
+   "filer": "Orilla Asset Management, S.L.",
+   "percentOfClass": 10.7,
+   "sharesOwned": 2539771,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "acquired 501,361 Class A Ordinary Shares at a price of $2.7216 per share upon the conversion into Class A Ordinary Shares of the outstanding principal amount of, and accrued interest under, the Loan Agreement (as defined in Item 4 of this Amendment No."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1981744/000198174426000003/0001981744-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "Sumant Sinha",
+   "percentOfClass": 19.76,
+   "sharesOwned": 60540417,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "D by adding the following: Confirmatory Letter On August 6, 2026, the Consortium jointly submitted a confirmatory letter (the \"Confirmatory Letter\") to the Board to reaffirm the Cash Consideration of $7."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1848763/000119312526338826/0001193125-26-338826-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Resolute Holdings Management, Inc.",
+   "filer": "Resolute ManCo Holdings LLC",
+   "percentOfClass": 52.5,
+   "sharesOwned": 4107534,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2039497/000095014226002274/0000950142-26-002274-index.htm"
+  }
+ ]
+}

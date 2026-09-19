@@ -1,0 +1,484 @@
+{
+ "date": "2026-09-08",
+ "generated": "2026-09-19T23:36:34.897Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "PAMT CORP",
+    "ticker": "PAMT",
+    "cik": "0000798287"
+   },
+   "owners": [
+    {
+     "name": "MOROUN MATTHEW T",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 3268000,
+   "avgPrice": 9.555,
+   "value": 31225740,
+   "tradeDates": [
+    "2026-09-03"
+   ],
+   "sharesAfter": 15695848,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1030743/000168316826007021/0001683168-26-007021-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "QVC Group, Inc.",
+    "ticker": "QVCG",
+    "cik": "0001254699"
+   },
+   "owners": [
+    {
+     "name": "GOLDENTREE ASSET MANAGEMENT LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "GoldenTree Asset Management LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Tananbaum Steven A.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 720000,
+   "avgPrice": 16.45,
+   "value": 11844000,
+   "tradeDates": [
+    "2026-09-03"
+   ],
+   "sharesAfter": 9391951,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226041812/0001493152-26-041812-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Gold.com, Inc.",
+    "ticker": "GOLD",
+    "cik": "0001591588"
+   },
+   "owners": [
+    {
+     "name": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "TPM, S.A. de C.V.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Devasini Giancarlo",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 39.3035,
+   "value": 3930350,
+   "tradeDates": [
+    "2026-09-03"
+   ],
+   "sharesAfter": 300000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2050373/000119312526385264/0001193125-26-385264-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "GameStop Corp.",
+    "ticker": "GME",
+    "cik": "0001326380"
+   },
+   "owners": [
+    {
+     "name": "Cheng Lawrence",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 55000,
+   "avgPrice": 18.7992,
+   "value": 1033956,
+   "tradeDates": [
+    "2026-09-08"
+   ],
+   "sharesAfter": 143000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1868288/000186828826000004/0001868288-26-000004-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "AGNT, INC.",
+   "filer": "Gratitude 2022 Trust U/A/D 8/26/22",
+   "percentOfClass": 10.8,
+   "sharesOwned": 18037824,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The purchase price for the Purchased Shares will be $3.68 per share, equal to the volume-weighted average price of the Issuer's common stock over the five trading days preceding the pricing date, less a 10% discount."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1495932/000110465926106028/0001104659-26-106028-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Privia Health Group, Inc.",
+   "filer": "Puma Growth Holdings, LLC",
+   "percentOfClass": 5.07,
+   "sharesOwned": 6472513,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "An aggregate of approximately $138,436,812 (excluding brokerage commissions) was used to purchase the Common Stock reported as beneficially owned by the Reporting Persons in this Schedule 13D.",
+    "Type of Transaction Shares of Common Stock Purchased/Sold Price Per Share Date of Purchase Sell 100,000 $27.21 07/07/2026 Sell 97,557 $27."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1982325/000095010326013658/0000950103-26-013658-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Dolphin Entertainment, Inc.",
+   "filer": "William O'Dowd IV",
+   "percentOfClass": 19,
+   "sharesOwned": 2542985,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The 10b5-1 Plan covers the purchase of $5,000 worth of shares of the Company's common stock per week, with no limit price.",
+    "O'Dowd purchased a total of 4,920 shares of the Issuer's Common Stock at a weighted average price of $1.01 per share.",
+    "O'Dowd purchased a total of 5,200 shares of the Issuer's Common Stock at a weighted average price of $0.958 per share.",
+    "O'Dowd purchased a total of 4,700 shares of the Issuer's Common Stock at a weighted average price of $1.05 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1282224/000107997326001231/0001079973-26-001231-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Sono Group N.V.",
+   "filer": "Christopher Kelly",
+   "percentOfClass": 5.5,
+   "sharesOwned": 93633,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "eporting Persons were acquired pursuant to the Share Purchase Agreement dated as of August 31, 2026, entered into among the Issuer and each of the Reporting Persons, at an aggregate purchase price of $756,946.",
+    "referred shares of the Issuer (the \"Preferred Shares\") from Yorkville (representing approximately one-half of Yorkville's total Preferred Share holdings, with an aggregate face value of approximately $21,000,000), at a purchase price per share equal to the original issue price per Preferred Share plus all accrued and unpaid dividends thereon through the applicable closing date.",
+    "___________________ Address for Delivery of Shares to Purchaser (if not same as address for notice): _________________________ _________________________ _________________________ Subscription Amount: $28,849 Purchased Shares: 10,805 [ Signature Page to Share Purchase Agreement ] EX-99."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1842872/000121390026098095/0001213900-26-098095-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "17 Education &amp; Technology Group Inc.",
+   "filer": "Andy Chang Liu",
+   "percentOfClass": 41.3,
+   "sharesOwned": 223905836,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ugh September 3, 2026, Future Glory Technology Holdings Limited purchased a total of 110,628 ADSs (representing 5,531,400 Class A ordinary shares) of the Issuer in the open market for approximately US$0.24 million, using its own funds, pursuant to a Rule 10b5-1 trading plan adopted by Future Glory Technology Holdings Limited on March 31, 2026 (as described below), in accordance with Rule 10b5-1 of the Act."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1821468/000119312526384376/0001193125-26-384376-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AGNT, INC.",
+   "filer": "Penny Sanford",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1495932/000110465926105945/0001104659-26-105945-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Empery Digital Inc.",
+   "filer": "ATG Capital Opportunities Fund LP",
+   "percentOfClass": 16,
+   "sharesOwned": 4500000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2079674/000092189526002501/0000921895-26-002501-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Braemar Hotels &amp; Resorts Inc.",
+   "filer": "Al Shams Investments LTD",
+   "percentOfClass": 9.48,
+   "sharesOwned": 6513000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1765296/000139834426016775/0001398344-26-016775-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "XWELL",
+   "filer": "American Ventures LLC, Series XXIV XWELL",
+   "percentOfClass": 9.975,
+   "sharesOwned": 993617,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2112711/000121390026098164/0001213900-26-098164-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "APOGEE THERAPEUTICS, INC.",
+   "filer": "Venrock Healthcare Capital Partners III, L.P.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1974640/000123191926001150/0001231919-26-001150-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Byrna Technologies Inc.",
+   "filer": "Bryan S. Ganz",
+   "percentOfClass": 9.6,
+   "sharesOwned": 2296635,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Ganz purchased 8,000 shares at a price of $3.39 per share; (ii) On July 17, 2026, Mr.",
+    "Ganz, through an Inherited IRA, purchased 44,200 shares at a weighted average price of $3.4298 per share, with purchase prices ranging from $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1354866/000121465926011482/0001214659-26-011482-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DSS, INC.",
+   "filer": "Heng Fai Ambrose Chan",
+   "percentOfClass": 86.3,
+   "sharesOwned": 26311715,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "0 CO (1) includes 1,068,309 shares of common stock, a convertible promissory note in the amount of $2,450,000 initially convertible into 3,310,811 shares at a conversion price of $0.74 per share, and common stock purchase warrants to purchase up to 16,554,055 shares."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1261725/000149315226041836/0001493152-26-041836-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CLARION PARTNERS REAL ESTATE INCOME FUND INC.",
+   "filer": "Franklin Templeton, Inc.",
+   "percentOfClass": 25,
+   "sharesOwned": 30668898,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    ": California The Reporting Persons have invested in the Issuer as follows: 4,999,845 Shares were acquired for a purchase price of $55,628,327 inclusive of $50,000,000 paid by Legg Mason, Inc.",
+    "'s working capital; and 25,669,053 Shares were acquired for a purchase price of $301,475,143 for the benefit of fiduciary accounts managed by FTI's investment management subsidiaries from their working capital, including funds managed by FAV.",
+    "251 Shares from its corporate account to Clarion Partners Real Estate Income International Access Fund, a series of Franklin Templeton Private Markets Fund, for total consideration of $20,000,000.",
+    "On April 16, 2026, 88,028 Class I Shares were redeemed by FTI for its corporate account at a per share price of $11.36 and FTI purchased from its corporate account 88,106 Class S Shares at a per share price of $11."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1762562/000003877726000253/0000038777-26-000253-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Group 1 Automotive, Inc.",
+   "filer": "Conifer Management, L.L.C.",
+   "percentOfClass": 11.4,
+   "sharesOwned": 1362640,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $58,359,967, excluding commissions, was paid to acquire the shares of Common Stock purchased since the Original Schedule 13D and reported in Item 5(c) of this Amendment No.",
+    "For the Account of Acacia II Partners, LP : Date Quantity Purchase or Sale Volume-Weighted Average Price per Share Low Price per Share High Price per Share 8/31/2026 3,639 Purchase $267.9661 (1) $263.",
+    "00 (1) $271.00 (1) 9/1/2026 3,160 Purchase $268.",
+    "04 (1) 9/2/2026 6,600 Purchase $276.026 (1) $273."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773994/000090514826004113/0000905148-26-004113-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TILLY'S, INC.",
+   "filer": "Fund 1 Investments, LLC",
+   "percentOfClass": 24.9,
+   "sharesOwned": 5801933,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 5,801,933 Shares beneficially owned by the Reporting Person is approximately $47,074,010, including brokerage commissions.",
+    "es of the Issuer During the Past 60 Days Nature of the Transaction Amount of Securities Purchased/(Sold) Price ($) Date of Purchase/Sale FUND 1 INVESTMENTS, LLC Sale of Class A Common Stock (863,726) $4.6686 09/03/2026 Sale of Class A Common Stock (526,474) $4."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1959730/000092189526002504/0000921895-26-002504-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "QVC GROUP, INC.",
+   "filer": "GoldenTree Asset Management LP",
+   "percentOfClass": 18.8,
+   "sharesOwned": 9391951,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "From August 14, 2026 to September 3, 2026, the Funds (as defined below) purchased an aggregate of 830,189 shares of Common Stock on the open market for aggregate consideration of $13,531,817.49 using working capital.",
+    "htm EX-5 Exhibit 5 Date Amount Purchased Price 8/14/2026 22,017 $ 15.1700 8/17/2026 4,289 $ 15."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226041813/0001493152-26-041813-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Gold.com, Inc.",
+   "filer": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "percentOfClass": 12.6,
+   "sharesOwned": 3670787,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "completed an open market purchase of 100,000 shares of Common Stock at a purchase price of $39.3035 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1591588/000110465926105914/0001104659-26-105914-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Health Catalyst, Inc.",
+   "filer": "Palogic Value Management, LP",
+   "percentOfClass": 7.1,
+   "sharesOwned": 5374949,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "10897 South River Front Parkway #300 South Jordan UT 84095 Item 3 is hereby amended and restated in its entirety as follows: \"The Reporting Persons expended an aggregate of approximately $11,790,874 (including commissions) to acquire 5,374,949 shares of Common Stock of the Issuer in various open market transactions.",
+    "Effecting Person Date of Transaction Description of Transaction Shares Acquired Shares Disposed Price Per Share (1) Palogic Value Fund, LP 8/6/2026 Open Market Purchase 174,617 $1.76 Palogic Value Fund, LP 8/11/2026 Open Market Purchase 150,834 $1.",
+    "70 Palogic Value Fund, LP 8/17/2026 Open Market Purchase 11,332 $1.70 Palogic Value Fund, LP 8/18/2026 Open Market Purchase 1,003 $1.",
+    "70 Palogic Value Fund, LP 8/19/2026 Open Market Purchase 1,000 $1.69 Palogic Value Fund, LP 8/20/2026 Open Market Purchase 86,971 $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1636422/000110465926105948/0001104659-26-105948-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Polestar Automotive Holding UK PLC",
+   "filer": "Eric Li",
+   "percentOfClass": 60.5,
+   "sharesOwned": 99358168,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1965905/000110465926105649/0001104659-26-105649-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MARINEMAX INC",
+   "filer": "Kellnerova Renata",
+   "percentOfClass": 6.1,
+   "sharesOwned": 1343635,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "f 447,045 shares of Common Stock in the open market in multiple transactions, as follows: 700 shares on August 27, 2026 at prices within a range less than one dollar (with a weighted average price of $52.2000); 1,345 shares on August 31, 2026 at prices within a range less than one dollar (with a weighted average price of $52."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1057060/000121390026098183/0001213900-26-098183-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PAMT CORP",
+   "filer": "Matthew T. Moroun",
+   "percentOfClass": 76.4,
+   "sharesOwned": 16007907,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The purchase price was $31,226,000 based on the number of shares multiplied by a per share price of $9.555.",
+    "(b) The Parties have agreed that the Estimated Purchase Price shall be equal to Thirty-One Million Two Hundred Twenty-Six Thousand and 00/100 Dollars ($31,226,000) (the Estimated Purchase Price )."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1030743/000168316826007022/0001683168-26-007022-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NaaS Technology Inc.",
+   "filer": "Newlinks Technology Limited",
+   "percentOfClass": 51.9,
+   "sharesOwned": 40754920572,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "dinary shares), together with warrants to purchase up to an additional 22,880,022,400 Class A ordinary shares (corresponding to 7,150,007 ADSs) (\"Warrants\"), for aggregate gross proceeds in cash of US$25,000,000.",
+    ", and each Purchaser shall subscribe for and purchase from the Company: (i) such amount of Shares as set forth opposite to its name in Annex A (the Purchased Shares ) at the purchase price of about US$0.001041 per Share (equivalent to US$3.",
+    "form attached hereto as Annex B , to purchase up to such amount of Shares as set forth opposite to its name in Annex A under the column titled with Warrant Shares , with an exercise price equal to US$0.001093 (equivalent to US$3.",
+    "LLC PURCHASER: By /s/ Chunyu Bao Name: Chunyu Bao Title: Director Annex A Purchasers Purchased Shares Purchaser Aggregate Purchase Price Purchased Shares Corresponding ADS Newlink Envision Limited US$ 12,000,000 11,531,532,800 3,603,604 Wealth Joy Advisory Company Limited US$ 2,000,000 1,921,920,000 600,600 TOPAS MANAGEMENT UK LTD."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1712178/000118518526003855/0001185185-26-003855-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Suja Life, Inc.",
+   "filer": "Paine Schwartz Food Chain Fund V GP, Ltd.",
+   "percentOfClass": 69.3,
+   "sharesOwned": 26757565,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Suja Life Aggregator\") purchased an aggregate of 650,000 shares of Class A Common Stock in open market transactions, for which it paid an aggregate of $6,769,312.50, including brokerage commissions (the \"Open Market Purchases\").",
+    "9/1/2026 175,000 $10.44 Open Market Purchase $9.",
+    "9/2/2026 175,000 $10.26 Open Market Purchase $9.",
+    "9/3/2026 125,000 $10.57 Open Market Purchase $10."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035953/0001140361-26-035953-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Xerox Holdings Corp",
+   "filer": "STARTEEPO SICAV a.s.",
+   "percentOfClass": 6.09,
+   "sharesOwned": 8000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "All of the securities reported herein were purchased by the applicable Reporting Persons for an aggregate purchase price of $23,154,307, comprised of (i) $22,962,307 paid for shares of Common Stock and (ii) $192,000 paid in premiums for call options purchased by Mr.",
+    "1 By our estimates, XFS, which finances customer equipment purchases, has an enterprise value of between $1.3 billion and $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2134293/000149315226041719/0001493152-26-041719-index.htm"
+  }
+ ]
+}

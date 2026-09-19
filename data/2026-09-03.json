@@ -1,0 +1,381 @@
+{
+ "date": "2026-09-03",
+ "generated": "2026-09-19T23:33:55.516Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Sixth Street Lending Partners",
+    "ticker": "NONE",
+    "cik": "0001925309"
+   },
+   "owners": [
+    {
+     "name": "Waxman Alan",
+     "roles": [
+      "Vice President"
+     ]
+    }
+   ],
+   "shares": 1661507,
+   "avgPrice": 28.78,
+   "value": 47818171,
+   "tradeDates": [
+    "2026-09-01"
+   ],
+   "sharesAfter": 2255597,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1925309/000119312526381963/0001193125-26-381963-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Privacore VPC Asset Backed Credit Fund",
+    "ticker": "NONE",
+    "cik": "0002066579"
+   },
+   "owners": [
+    {
+     "name": "Corbin Capital Partners, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Corbin Capital Partners GP, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "CCP 575 Investment Accelerator, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 246305,
+   "avgPrice": 10.15,
+   "value": 2500000,
+   "tradeDates": [
+    "2026-09-01"
+   ],
+   "sharesAfter": 3968050.535,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2111448/000089534526000394/0000895345-26-000394-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Vestis Corp",
+    "ticker": "VSTS",
+    "cik": "0001967649"
+   },
+   "owners": [
+    {
+     "name": "Barber James J.",
+     "roles": [
+      "Director",
+      "President &amp; CEO"
+     ]
+    }
+   ],
+   "shares": 84500,
+   "avgPrice": 12.3714,
+   "value": 1045383,
+   "tradeDates": [
+    "2026-09-02"
+   ],
+   "sharesAfter": 867222,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1571166/000157116626000003/0001571166-26-000003-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SkyAI, Inc.",
+   "filer": "Bastion Trading Limited",
+   "percentOfClass": 3.2,
+   "sharesOwned": 1354816,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "1,150,000 of the Shares beneficially owned by Bastion Trading were acquired in connection with the PIPE (as defined in Item 4) at a price of $6.50 per share.",
+    "In connection with the closing of the PIPE, Bastion Trading also acquired (i) Pre-Funded Warrants (as defined in Item 4) exercisable for up to 4,234,615 Shares at a price of $6.4999 per Pre-Funded Warrant and (ii) Stapled Warrants (as defined in Item 4) exercisable for up to 5,384,615 Shares at an exercise price of $9.",
+    "The aggregate purchase price of the 2,940,075 Shares beneficially owned by Lucio Holding is approximately $5,461,526, including brokerage commissions.",
+    "The Reporting Persons acquired 1,150,000 Shares in connection with the Issuer's $400 million private placement offering that closed on August 25, 2025 (the \"PIPE\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2106951/000092189526002475/0000921895-26-002475-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Pasqal Holding SA",
+   "filer": "Bpifrance Participations S.A.",
+   "percentOfClass": 11.4,
+   "sharesOwned": 24480841,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1581835/000110465926105160/0001104659-26-105160-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "DYNARESOURCE, INC.",
+   "filer": "NICHOL GARETH",
+   "percentOfClass": 20.17,
+   "sharesOwned": 7425768,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 1, 2026, the Reporting Person purchased 2,000,000 units of securities of the Issuer (each, a \"Unit\" and collectively, the \"Units\") at a purchase price of $0.45 per Unit (for an aggregate purchase price of $900,000.",
+    "The Units are comprised of 2,000,000 shares of Common Stock and a warrant to purchase 2,000,000 shares of Common Stock (the \"Warrant\") at an exercise price of $0.51 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1111741/000110465926105061/0001104659-26-105061-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Nexalin Technology, Inc.",
+   "filer": "Greenlight Ventures, LLC",
+   "percentOfClass": 5.6,
+   "sharesOwned": 1385246,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ase Agreement, the Reporting Person is entitled to receive additional shares of Common Stock as deferred purchase consideration in two further tranches, representing 20% and 15%, respectively, of the $1,300,000 aggregate purchase price, on the dates that are 180 days and 270 days after the May 14, 2026 closing date (on or about November 10, 2026 and February 8, 2027)."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2152782/000215278226000002/0002152782-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "JATT III Acquisition Corp",
+   "filer": "JATT Ventures III L.P.",
+   "percentOfClass": 22.1,
+   "sharesOwned": 1959000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Issuer consummated its initial public offering (\"IPO\") and in connection with the consummation of the IPO, Sponsor purchased an aggregate of 234,000 ordinary shares for an aggregate purchase price of $2,340,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2145659/000121390026097276/0001213900-26-097276-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "KLX Energy Services Holdings, Inc.",
+   "filer": "STEEL PARTNERS HOLDINGS L.P.",
+   "percentOfClass": 8.9,
+   "sharesOwned": 1907172,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 1,907,172 Shares owned directly by SP Strategic Holdings is approximately $2,920,401, including brokerage commissions.",
+    "Such Rights were purchased for an aggregate price of approximately $135,520 and entitle SP Strategic Holdings to purchase an aggregate of 4,219,580 Shares at the Subscription Price upon the exercise of the Rights, subject to the completion of the Rights Offering.",
+    "RANSACTIONS IN SECURITIES Exhibit 2 Transactions in the Shares During the Past 60 Days Class of Security Securities Purchased Price ($) Date of Purchase SP STRATEGIC HOLDINGS LLC Common Stock 607,620 $1.4979 08/11/2026 Common Stock 33,061 $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1738827/000092189526002473/0000921895-26-002473-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 132671,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The New Transaction is set forth below: Entity Trade Date Transaction Type Number of Shares of Common Stock Price 3i, LP 09-03-2026 Purchase 3,004 $ 2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001719/0001753926-26-001719-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Apogee Therapeutics, Inc.",
+   "filer": "Fairmount Funds Management LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "me\"), each share of Common Stock and Non-Voting Common Stock owned by the Reporting Persons immediately prior to the effective time of the Merger was cancelled and converted into the right to receive $135.11 per share in cash, without interest (the \"Merger Consideration\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1974640/000110465926105122/0001104659-26-105122-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Bristow Group Inc.",
+   "filer": "Solus Alternative Asset Management LP",
+   "percentOfClass": 9.61,
+   "sharesOwned": 2849710,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1525221/000090266426003736/0000902664-26-003736-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "purchased an aggregate of 2,019,798 shares of Common Stock for an aggregate purchase price of $1,010,011 (excluding brokerage commissions) in open market transactions through brokerage entities utilizing its working capital funds."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1455939/000162828026060482/0001628280-26-060482-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GameStop Corp.",
+   "filer": "Cohen Ryan",
+   "percentOfClass": 8.3,
+   "sharesOwned": 42082626,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1767470/000092189526002474/0000921895-26-002474-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DYNARESOURCE, INC.",
+   "filer": "Golden Post Rail, LLC",
+   "percentOfClass": 13.3,
+   "sharesOwned": 4987579,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "n September 1, 2026, Golden Post entered into a Securities Purchase Agreement with the Issuer (the \"SPA\"), pursuant to which Golden Post purchased 1,913,889 units of the Issuer at a purchase price of $0.45 per unit, with each unit consisting of one share of Common Stock and one warrant to purchase one share of Common Stock at an exercise price of $0.",
+    "51 per share (the \"Warrant\" and the shares of Common Stock purchasable thereunder, the \"Warrant Shares\"), for aggregate consideration of $861,250.05."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526382324/0001193125-26-382324-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Viper Energy, Inc.",
+   "filer": "Diamondback Energy, Inc.",
+   "percentOfClass": 42.9,
+   "sharesOwned": 145972177,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926105077/0001104659-26-105077-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Empery Digital Inc.",
+   "filer": "Empery Asset Management, LP",
+   "percentOfClass": 17.15,
+   "sharesOwned": 4830345,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1469336/000091957426006146/0000919574-26-006146-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TRANSACT TECHNOLOGIES INC",
+   "filer": "Charles M. Gillman",
+   "percentOfClass": 5.1,
+   "sharesOwned": 521841,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 521,841 Shares is approximately $2,453,646, excluding brokerage commissions.",
+    "Date Action Quantity Price 07-01-2026 Purchase of Common Stock 62,064 $5.80 06-30-2026 Purchase of Common Stock 37,936 $5.",
+    "76 06-29-2026 Purchase of Common Stock 1,603 $5.21 EX-99."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1386979/000121465926011436/0001214659-26-011436-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Invesco Commercial Real Estate Finance Trust, Inc.",
+   "filer": "Invesco Realty, Inc.",
+   "percentOfClass": 10.24,
+   "sharesOwned": 5972698,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1976927/000119312526381550/0001193125-26-381550-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KKR Real Estate Select Trust Inc.",
+   "filer": "KKR Alternative Assets LLC",
+   "percentOfClass": 33.9,
+   "sharesOwned": 11799634.79,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1820655/000114036126035572/0001140361-26-035572-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PAYCOM SOFTWARE, INC.",
+   "filer": "Ernest Group, Inc.",
+   "percentOfClass": 7.1,
+   "sharesOwned": 3217249,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1590955/000119312526382289/0001193125-26-382289-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RYTHM, Inc.",
+   "filer": "RSLGH, LLC",
+   "percentOfClass": 89.9,
+   "sharesOwned": 13424103,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2043397/000121390026097252/0001213900-26-097252-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SIXTH STREET LENDING PARTNERS",
+   "filer": "Sixth Street Lending Partners Note Issuer, LLC",
+   "percentOfClass": 7,
+   "sharesOwned": 12560764,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ution drawdown notices delivered by the Issuer with respect thereto, on September 1, 2026, Sixth Street Lending Partners Note Issuer, LLC (\"Note Issuer\") purchased 1,405,583 Shares from the Issuer at $28.78 per Share, for an aggregate purchase price of $40,452,686.",
+    "l contribution drawdown notices delivered by the Issuer with respect thereto, on September 1, 2026, Sixth Street Lending Partners Advisers, LLC (\"Adviser\") purchased 255,924 Shares from the Issuer at $28.78 per Share, for an aggregate purchase price of $7,365,509."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1925309/000119312526381960/0001193125-26-381960-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "lululemon athletica inc.",
+   "filer": "Dennis J. Wilson",
+   "percentOfClass": 8.6,
+   "sharesOwned": 9570851,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Item 5(c) of the Schedule 13D is hereby amended and supplemented as follows: On August 4, 2026, Wilson 5 sold 5,713 shares of the Issuer's common stock at a price of $122.56 per share in open market transactions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1407029/000119312526382473/0001193125-26-382473-index.htm"
+  }
+ ]
+}

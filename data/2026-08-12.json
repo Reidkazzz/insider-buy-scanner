@@ -1,0 +1,481 @@
+{
+ "date": "2026-08-12",
+ "generated": "2026-09-19T23:10:55.608Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "HPS Real Assets Lending Co LP",
+    "ticker": "NONE",
+    "cik": "0002089975"
+   },
+   "owners": [
+    {
+     "name": "French Scot",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 400000,
+   "avgPrice": 25,
+   "value": 10000000,
+   "tradeDates": [
+    "2026-08-10"
+   ],
+   "sharesAfter": 400000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2128277/000119312526346569/0001193125-26-346569-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 193243,
+   "avgPrice": 22.4862,
+   "value": 4345305,
+   "tradeDates": [
+    "2026-08-10",
+    "2026-08-11"
+   ],
+   "sharesAfter": 8652531,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000037/0001221359-26-000037-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "AMETEK INC/",
+    "ticker": "AME",
+    "cik": "0001037868"
+   },
+   "owners": [
+    {
+     "name": "Stanage Nick L",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 4000,
+   "avgPrice": 255.85,
+   "value": 1023400,
+   "tradeDates": [
+    "2026-08-11"
+   ],
+   "sharesAfter": 4760,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000188/0001037868-26-000188-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "PFIZER INC",
+    "ticker": "PFE",
+    "cik": "0000078003"
+   },
+   "owners": [
+    {
+     "name": "BOURLA ALBERT",
+     "roles": [
+      "Director",
+      "Chairman &amp; CEO"
+     ]
+    }
+   ],
+   "shares": 38000,
+   "avgPrice": 26.34,
+   "value": 1000920,
+   "tradeDates": [
+    "2026-08-12"
+   ],
+   "sharesAfter": 429173,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1595703/000122520826007083/0001225208-26-007083-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "YY Group Holding Limited",
+   "filer": "Yinan Ren",
+   "percentOfClass": 29.5,
+   "sharesOwned": 3787379,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate consideration payable to the Reporting Person under the Agreement is Singapore $4,500,000, of which S$900,000 is payable in cash and S$3,600,000 is to be satisfied by the allotment and issue of Class A ordinary shares of the Issuer.",
+    "In satisfaction of the S$3,600,000 share portion of the consideration, the Issuer allotted and issued 3,787,379 Class A ordinary shares to the Reporting Person on August 3, 2026, at an issue price of S$0.",
+    "1; Consideration means the aggregate sum of S$4,500,000 payable for the Sale Shares in accordance with Clause 3; Consideration Shares means such number of new Purchaser Shares as is determined in accordance with Clause 4.",
+    "1, to be allotted and issued to the Vendor in satisfaction of the Share Consideration; Deposit means the sum of S$400,000 paid by the Purchaser to the Vendor upon the signing of the LOI, which shall be applied towards and credited against the Consideration in accordance with Clause 3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148796/000118518526003438/0001185185-26-003438-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Restaurant Brands International Inc.",
+   "filer": "3G Restaurant Brands Holdings General Partner Ltd.",
+   "percentOfClass": 21.3,
+   "sharesOwned": 94373170,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1653986/000095014226002324/0000950142-26-002324-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Shimmick Corp",
+   "filer": "AECOM",
+   "percentOfClass": 18.7,
+   "sharesOwned": 7745000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/868857/000110465926094873/0001104659-26-094873-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 48.32,
+   "sharesOwned": 1441490.16,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "45 $11.12 BBH* Class S Units of Beneficial Interest Purchase 8/10/2026 37,244."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826002994/0000929638-26-002994-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ASTEC INDUSTRIES INC",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/792987/000080724926000065/0000807249-26-000065-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amanat Acquisition Corp",
+   "filer": "Amanat Sponsor Holdings LLC",
+   "percentOfClass": 22.5,
+   "sharesOwned": 2175000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2112457/000212727526000005/0002127275-26-000005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amneal Pharmaceuticals, Inc.",
+   "filer": "Chintu Patel",
+   "percentOfClass": 9.4,
+   "sharesOwned": 32576528,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Purchase Agreement, at the closing of the Kashiv Acquisition, (i) Amneal LLC was required to pay to the Sellers, including CKR and Shivkan, an aggregate amount of $375,000,000 in cash, subject to certain purchase price adjustments, and (ii) Amneal was required to issue to the Sellers, including CKR and Shivkan, an aggregate of 28,942,098 shares of Class A Common Stock."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1723128/000089843226000652/0000898432-26-000652-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amneal Pharmaceuticals, Inc.",
+   "filer": "Chirag Patel",
+   "percentOfClass": 8.4,
+   "sharesOwned": 29097645,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Purchase Agreement, at the closing of the Kashiv Acquisition, (i) Amneal LLC was required to pay to the Sellers, including CKR and Shivkan, an aggregate amount of $375,000,000 in cash, subject to certain purchase price adjustments, and (ii) Amneal was required to issue to the Sellers, including CKR and Shivkan, an aggregate of 28,942,098 shares of Class A Common Stock."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1723128/000089843226000653/0000898432-26-000653-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amneal Pharmaceuticals, Inc.",
+   "filer": "Tushar Patel",
+   "percentOfClass": 17.6,
+   "sharesOwned": 61341678,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Purchase Agreement, at the closing of the Kashiv Acquisition, (i) Amneal LLC was required to pay to the Sellers, including Rock Nola, an aggregate amount of $375,000,000 in cash, subject to certain purchase price adjustments, and (ii) Amneal was required to issue to the Sellers, including Rock Nola, an aggregate of 28,942,098 shares of Class A Common Stock."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1723128/000089843226000654/0000898432-26-000654-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Angel Studios, Inc.",
+   "filer": "Jeffrey Harmon",
+   "percentOfClass": 11.9,
+   "sharesOwned": 17532335,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926095221/0001104659-26-095221-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Angel Studios, Inc.",
+   "filer": "Neal Harmon",
+   "percentOfClass": 11.8,
+   "sharesOwned": 17344753,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926095222/0001104659-26-095222-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Lincoln National Corporation",
+   "filer": "Bain Capital Prairie, LLC",
+   "percentOfClass": 9.8,
+   "sharesOwned": 18759497,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2067353/000119312526347363/0001193125-26-347363-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Byrna Technologies Inc.",
+   "filer": "Bryan S. Ganz",
+   "percentOfClass": 9.9,
+   "sharesOwned": 2296635,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the Reporting Persons effected the following open market transactions in the Issuer's Common Stock in the past sixty days: (i) On July 7, 2026, NEIP sold 42,200 shares at a weighted average price of $7.0351 per share, with sale prices ranging from $6.",
+    "Ganz purchased 8,000 shares at a price of $3.39 per share; (iv) On July 17, 2026, Mr.",
+    "Ganz, through an Inherited IRA, purchased 44,200 shares at a weighted average price of $3.4298 per share, with purchase prices ranging from $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1354866/000121465926009947/0001214659-26-009947-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CLARION PARTNERS REAL ESTATE INCOME FUND INC.",
+   "filer": "Franklin Resources, Inc.",
+   "percentOfClass": 26.4,
+   "sharesOwned": 30660888,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    ": California The Reporting Persons have invested in the Issuer as follows: 4,999,845 Shares were acquired for a purchase price of $55,628,327 inclusive of $50,000,000 paid by Legg Mason, Inc.",
+    "'s working capital; and 25,661,042 Shares were acquired for a purchase price of $302,816,528 for the benefit of fiduciary accounts managed by FRI's investment management subsidiaries from their working capital, including funds managed by FAV.",
+    "251 Shares from its corporate account to Clarion Partners Real Estate Income International Access Fund, a series of Franklin Templeton Private Markets Fund, for total consideration of $20,000,000.",
+    "On April 16, 2026, 88,028 Class I Shares were redeemed by FRI for its corporate account at a per share price of $11.36 and FRI purchased from its corporate account 88,106 Class S Shares at a per share price of $11."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1762562/000003877726000221/0000038777-26-000221-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Turtle Beach Corporation",
+   "filer": "DC VGA LLC",
+   "percentOfClass": 9.9,
+   "sharesOwned": 1775441,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 10, 2026, the Reporting Persons sold 140,000 shares of Common Stock in the open market at a weighted average price of $12.6961.",
+    "On August 11, 2026, the Reporting Persons sold 140,000 shares of Common Stock in the open market at a weighted average price of $12.6709.",
+    "On August 12, 2026, the Reporting Persons sold 5,671 shares of Common Stock in the open market at a price of $13.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2016004/000119312526347427/0001193125-26-347427-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DIVERSIFIED HEALTHCARE TRUST",
+   "filer": "H/2 Special Opportunities IV L.P.",
+   "percentOfClass": 4.98,
+   "sharesOwned": 12067366,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1075415/000168763926000001/0001687639-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wearable Devices Ltd.",
+   "filer": "J.B.D Innovation Ltd.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "D sold 213,454 and 101,907 Ordinary Shares, respectively, in open market transactions at weighted average sale prices of approximately $3.76 and $2.",
+    "sold 44,672 and 21,328 Ordinary Shares, respectively, in open market transactions at weighted average sale prices of approximately $3.76 and $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092834/000121390026088519/0001213900-26-088519-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Franklin BSP Lending Fund",
+   "filer": "FRANKLIN RESOURCES INC",
+   "percentOfClass": 4.8,
+   "sharesOwned": 75000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Holdco\"), a wholly-owned subsidiary of FRI, acquired 75,000 Class I shares, (\"Shares\") on January 29, 2026, using its own working capital, for a purchase price of $750,000.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877726000220/0000038777-26-000220-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "WESTWOOD HOLDINGS GROUP INC",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 4.7,
+   "sharesOwned": 443800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "United States The Reporting Persons used an aggregate of approximately $2,103,871 to purchase the additional Securities reported as beneficially owned in Item 5 since the most recent filing on Schedule 13D.",
+    "Foundation used approximately $74,863 of working capital to purchase the additional Securities reported by it.",
+    "AC used approximately $1,695,947 of working capital to purchase the additional Securities reported by it."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000066/0000807249-26-000066-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Life Time Group Holdings, Inc.",
+   "filer": "Green LTF Holdings II LP",
+   "percentOfClass": 2.6,
+   "sharesOwned": 5908604,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1886438/000119312526347322/0001193125-26-347322-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Katapult Holdings, Inc.",
+   "filer": "HHCF Series 21 Sub, LLC",
+   "percentOfClass": 12.98,
+   "sharesOwned": 645247,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2095529/000110465926095005/0001104659-26-095005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "P3 Health Partners Inc.",
+   "filer": "Hudson Vegas Investment SPV, LLC",
+   "percentOfClass": 17.5,
+   "sharesOwned": 829651,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1900112/000110465926094924/0001104659-26-094924-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "McCORMICK &amp; COMPANY, INCORPORATED",
+   "filer": "Lawrence E. Kurzius",
+   "percentOfClass": 9.9,
+   "sharesOwned": 1590319,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "orms 4 filed with the Commission and as follows: (i) on June 24, 2026, a total of 125,385 shares of Common Stock that the Reporting Person had a right to acquire were sold by two trusts at a price of $48.",
+    "of Common Stock in those trusts to zero, and (ii) on August 10, 2026, the Reporting Person exercised previously granted stock options to acquire 205,538 shares of Common Stock at an exercise price of $49.025 per share and subsequently sold all such shares in an open market transaction through a broker at a price of $52."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1352090/000119312526346767/0001193125-26-346767-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Maplebear Inc.",
+   "filer": "SEQUOIA CAPITAL GLOBAL GROWTH FUND III - ENDURANCE PARTNERS, L.P. (\"SC GGF III\")",
+   "percentOfClass": 0.2,
+   "sharesOwned": 351374,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526346963/0001193125-26-346963-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valaris Ltd",
+   "filer": "OAK HILL ADVISORS LP",
+   "percentOfClass": 4.38,
+   "sharesOwned": 3038600,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1164688/000091957426005030/0000919574-26-005030-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ProFrac Holding Corp.",
+   "filer": "THRC Holdings, LP",
+   "percentOfClass": 45,
+   "sharesOwned": 83209008,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "htm TRANSACTIONS IN THE LAST SIXTY DAYS Schedule I Transactions in the Last Sixty Days THRC Holdings, LP Date Transaction Shares Price Per Share 8/10/2026 Purchase 517,669 $4.86 8/11/2026 Purchase 202,331 $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1881487/000175415926000008/0001754159-26-000008-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "UNIVERSAL ELECTRONICS INC",
+   "filer": "TORO 18 HOLDINGS LLC",
+   "percentOfClass": 10.4,
+   "sharesOwned": 1344647,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 1,344,647 Shares directly beneficially owned by Toro 18 is approximately $12,076,221, including brokerage commissions.",
+    "were awarded to him in connection with his service as a director of the Issuer and 48,890 Shares were purchased with personal funds on the open market for an aggregate purchase price of approximately $331,723, excluding brokerage commissions.",
+    "On August 10, 2026, Toro 18 sold 200,000 Shares on the open market at a price of $5.2222 per Share, which represents a weighted average price."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1970265/000092189526002074/0000921895-26-002074-index.htm"
+  }
+ ]
+}

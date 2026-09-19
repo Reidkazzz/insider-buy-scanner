@@ -1,0 +1,397 @@
+{
+ "date": "2026-08-17",
+ "generated": "2026-09-19T23:15:00.634Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Borr Drilling Ltd",
+    "ticker": "BORR",
+    "cik": "0001715497"
+   },
+   "owners": [
+    {
+     "name": "Troim Tor Olav",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 500000,
+   "avgPrice": 4.3868,
+   "value": 2193400,
+   "tradeDates": [
+    "2026-08-14"
+   ],
+   "sharesAfter": 29185941,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026057216/0001628280-26-057216-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Latigo Biotherapeutics, Inc.",
+   "filer": "Foresite Capital Fund VI LP",
+   "percentOfClass": 3.5,
+   "sharesOwned": 2203800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "10,014,576 shares of Series A-2 Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 2,225,461 shares of Series A-2 Convertible Preferred Stock of the Issuer at a price of $0.89869 per share, or $20,000,009.",
+    "10,014,576 shares of Series A-2 Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 5,007,289 shares of Series A-2 Convertible Preferred Stock of the Issuer at a price of $0.89869 per share, or $22,499,988.",
+    "te of 1,271,520 shares of Series B Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 3,178,801 shares of Series B Convertible Preferred Stock of the Issuer at a price of $1.5729 per share, or $9,999,989.",
+    "gate of 635,760 shares of Series B Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 1,589,400 shares of Series B Convertible Preferred Stock of the Issuer at a price of $1.5729 per share, or $4,999,998."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1847367/000110465926097468/0001104659-26-097468-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "FEMASYS INC.",
+   "filer": "Nantahala Capital Partners Limited Partnership",
+   "percentOfClass": 9.99,
+   "sharesOwned": 803038,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "g with other purchasers, entered into a Stock Purchase Agreement (the \"SPA\") with Issuer and the other purchasers signatory thereto, pursuant to which the Nantahala Investors agreed to pay the Issuer $11,999,705.22 in cash to buy 802,145 shares of Common Stock (including NCP's purchase of 221,536 shares of Common Stock), warrants to purchase up to 2,947,855 shares of Common Stock from the Issuer for $0.",
+    "nded Warrants\") (including NCP's purchase of Pre-Funded Warrants to purchase 814,136 shares of Common Stock), additional warrant to purchase up to 3,750,000 shares of Common Stock from the Issuer for $2.",
+    "arrants\") (including NCP's purchase of Common Warrants to purchase 1,035,672 shares of Common Stock, and contingent warrants to purchase a further 3,750,000 shares of Common Stock from the Issuer for $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1339005/000110465926097888/0001104659-26-097888-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Latigo Biotherapeutics, Inc.",
+   "filer": "Foresite Capital Fund VI LP",
+   "percentOfClass": 3.5,
+   "sharesOwned": 2203800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "10,014,576 shares of Series A-2 Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 2,225,461 shares of Series A-2 Convertible Preferred Stock of the Issuer at a price of $0.89869 per share, or $20,000,009.",
+    "10,014,576 shares of Series A-2 Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 5,007,289 shares of Series A-2 Convertible Preferred Stock of the Issuer at a price of $0.89869 per share, or $22,499,988.",
+    "te of 1,271,520 shares of Series B Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 3,178,801 shares of Series B Convertible Preferred Stock of the Issuer at a price of $1.5729 per share, or $9,999,989.",
+    "gate of 635,760 shares of Series B Convertible Preferred Stock of the Issuer and Fund VI purchased an aggregate of 1,589,400 shares of Series B Convertible Preferred Stock of the Issuer at a price of $1.5729 per share, or $4,999,998."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1932516/000110465926097980/0001104659-26-097980-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "HWH INTERNATIONAL INC.",
+   "filer": "Liu Ming Hui",
+   "percentOfClass": 94.8,
+   "sharesOwned": 180000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "\"), 20,000,000 (twenty million) shares of its Common Stock; and (ii) warrants to purchase up to 160,000,000 (one hundred and sixty million) shares of the Issuer's common stock at an exercise price of $0.63 per share, exercisable immediately and expiring on August 10, 2030 for an aggregate purchase price of $10,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1897245/000149315226038794/0001493152-26-038794-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Pinnacle Acquisition Corp",
+   "filer": "Steven Kenneth Hudson",
+   "percentOfClass": 27.82,
+   "sharesOwned": 7225000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Person was $14,775,000.",
+    "On August 10, 2026, simultaneously with the consummation of the IPO, the Sponsor purchased 225,000 units (\"Placement Units\") of the Issuer at $10.",
+    "urchase Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on April 7, 2026, 7,187,500 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Founder Share Purchase Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2147714/000121390026090915/0001213900-26-090915-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Jewett-Cameron Trading Company Ltd",
+   "filer": "Kotarba Partners Fund I, LP",
+   "percentOfClass": 20.98,
+   "sharesOwned": 738534,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ugust 6, 2026, between the Seller and Kotarba Partners Fund I, LP (the \"Purchase Agreement\"), consisting of: (i) 176,006 Shares that Kotarba Partners Fund I, LP is obligated to purchase at a price of $1.",
+    "occur on or before September 30, 2026 unless extended by mutual written consent; (ii) 176,006 Shares that Kotarba Partners Fund I, LP has the right, but not the obligation, to purchase at a price of $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/885307/000110465926097746/0001104659-26-097746-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Pinnacle Acquisition Corp",
+   "filer": "PAC Sponsor, LLC",
+   "percentOfClass": 23,
+   "sharesOwned": 5975000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Person was $2,275,000.",
+    "On August 10, 2026, simultaneously with the consummation of the Issuer's Initial Public Offering (the \"IPO\"), the Sponsor purchased 225,000 units (\"Placement Units\") of the Issuer at $10.",
+    "urchase Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on April 7, 2026, 7,187,500 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Founder Share Purchase Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148398/000121390026090916/0001213900-26-090916-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Pinnacle Acquisition Corp",
+   "filer": "AVR Capital Holdings, LLC",
+   "percentOfClass": 26.85,
+   "sharesOwned": 6975000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Person was $12,275,000.",
+    "On August 10, 2026, simultaneously with the consummation of the IPO, the Sponsor purchased 225,000 units (\"Placement Units\") of the Issuer at $10.",
+    "urchase Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on April 7, 2026, 7,187,500 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Founder Share Purchase Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2123955/000121390026090917/0001213900-26-090917-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NET Power Inc.",
+   "filer": "8 RIVERS CAPITAL, LLC",
+   "percentOfClass": 17.86,
+   "sharesOwned": 18972780,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1981100/000110465926097960/0001104659-26-097960-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 50.01,
+   "sharesOwned": 1542296.62,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003103/0000929638-26-003103-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Steven Sarracino",
+   "percentOfClass": 8.9,
+   "sharesOwned": 1290178,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1992147/000090883426000440/0000908834-26-000440-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Apollomics Inc.",
+   "filer": "Hung-Wen Chen",
+   "percentOfClass": 49.76,
+   "sharesOwned": 1453029,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Chen, through him directly and via King Regent, acquired an aggregate of 370,000 Class A Ordinary Shares, at the aggregate price of $5,550,005.00.",
+    "Chen agreed to acquire an aggregate of 270,000 Class A Shares, consisting of 103,333 Class A Shares for cash at a purchase price of $15.00 per share and 166,667 Class A Shares issued upon the automatic conversion of Mr.",
+    "Chen's Convertible Promissory Note, dated March 30, 2026, at a conversion price of $12.00 per share; and (ii) King Regent agreed to purchase 266,667 Class A Shares for cash at a purchase price of $15."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1944885/000119312526354020/0001193125-26-354020-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "StageWise Strategies Corp.",
+   "filer": "Jakhongir Abidovich Artikkhodjaev",
+   "percentOfClass": 79.3,
+   "sharesOwned": 4000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2140692/000121390026090759/0001213900-26-090759-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Battalion Oil Corporation",
+   "filer": "OCM HLCN Holdings, L.P.",
+   "percentOfClass": 19.36,
+   "sharesOwned": 12797151,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1282648/000114036126033457/0001140361-26-033457-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Garg Vishal",
+   "percentOfClass": 13.7,
+   "sharesOwned": 2029224,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1835856/000119380526001102/0001193805-26-001102-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BridgeBio Pharma, Inc.",
+   "filer": "KKR Genetic Disorder L.P.",
+   "percentOfClass": 4.2,
+   "sharesOwned": 8260971,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Additionally, on July 1, 2026, an Alternative Vehicle purchased from the Issuer 133,900 shares of Preferred Stock for $1,000 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1743881/000114036126033404/0001140361-26-033404-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Butterfly Network, Inc.",
+   "filer": "GLENVIEW CAPITAL MANAGEMENT, LLC",
+   "percentOfClass": 4.8,
+   "sharesOwned": 11743530,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Common Stock 07/31/2026 Sell Open Market 1,261,521 (1) $7.3925 (2) GCM Cayman Investors, Ltd.",
+    "Common Stock 07/31/2026 Sell Open Market 458,608 (1) $7.3925 (2) GCM Onshore Investors, L.",
+    "Common Stock 08/03/2026 Sell Open Market 114,528 (1) $8.1048 GCM Cayman Investors, Ltd.",
+    "Common Stock 08/03/2026 Sell Open Market 41,635 (1) $8.1048 Glenview Offshore Opportunity Master Fund Common Stock 08/13/2026 Sell Open Market 20,640 $9."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1804176/000090514826003785/0000905148-26-003785-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Butterfly Network, Inc.",
+   "filer": "Rothberg Jonathan M.",
+   "percentOfClass": 0.3,
+   "sharesOwned": 828775,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1804176/000110465926097972/0001104659-26-097972-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GoHealth, Inc.",
+   "filer": "CCP III Cayman GP Ltd.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818016/000110465926098012/0001104659-26-098012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LIMITED",
+   "filer": "Diana Shipping Inc.",
+   "percentOfClass": 14.4,
+   "sharesOwned": 6264548,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "at Diana has withdrawn its proposal submitted to the board of directors of the Issuer on June 17, 2026 to acquire all of the issued and outstanding Shares of the Issuer not already owned by Diana for $24.80 in cash (adjusted for the Issuer's recently declared dividend of $0.",
+    "WITHDRAWS OFFER TO ACQUIRE GENCO SHIPPING & TRADING FOLLOWING GENCO BOARD'S OUTRAGEOUS DEMANDS Following Nine Months of Avoiding Engagement, Genco Board Demands Consideration Valued at Approximately $36.",
+    "shareholder of Genco Shipping & Trading Limited (NYSE: GNK) ( Genco ) today announced that it has withdrawn its offer to acquire all outstanding Genco shares not already owned by Diana, comprised of $24.80 in cash (adjusted for Genco's recently declared dividend of $0.",
+    "The demands are for consideration comprised of $27.50 per share in cash (purportedly to reflect Genco's NAV), $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000110465926097576/0001104659-26-097576-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Dreamland Ltd",
+   "filer": "Seto Wai Yue",
+   "percentOfClass": 32.99,
+   "sharesOwned": 1149890,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226038585/0001493152-26-038585-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Talkspace, Inc.",
+   "filer": "HEC Management GP LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "pursuant to the Merger Agreement and shares with respect to which appraisal rights were properly exercised and not withdrawn under Delaware law) was automatically converted into the right to receive $5.25 in cash, without interest (the \"Merger Consideration\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1652522/000095015726000917/0000950157-26-000917-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Royalty Pharma plc",
+   "filer": "Legorreta G. Pablo",
+   "percentOfClass": 18.73,
+   "sharesOwned": 101785843,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1507678/000119312526354412/0001193125-26-354412-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Maplebear Inc.",
+   "filer": "SEQUOIA CAPITAL GLOBAL GROWTH FUND III - ENDURANCE PARTNERS, L.P. (\"SC GGF III\")",
+   "percentOfClass": 0.2,
+   "sharesOwned": 351374,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526354331/0001193125-26-354331-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Talkspace, Inc.",
+   "filer": "QUMRA CAPITAL II, L.P.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "pursuant to the Merger Agreement and shares with respect to which appraisal rights were properly exercised and not withdrawn under Delaware law) was automatically converted into the right to receive $5.25 in cash, without interest (the \"Merger Consideration\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1712157/000095015726000918/0000950157-26-000918-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Zenas BioPharma, Inc.",
+   "filer": "SR One Capital Management, LLC",
+   "percentOfClass": 7.7,
+   "sharesOwned": 5037854,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1853723/000107261326000694/0001072613-26-000694-index.htm"
+  }
+ ]
+}

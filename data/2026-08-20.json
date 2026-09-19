@@ -1,0 +1,381 @@
+{
+ "date": "2026-08-20",
+ "generated": "2026-09-19T23:20:13.458Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Enhanced Group Inc.",
+    "ticker": "ENHA",
+    "cik": "0001956439"
+   },
+   "owners": [
+    {
+     "name": "Apeiron Investment Group Ltd.",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Enhanced Holdings LP",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Angermayer Christian",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1767316,
+   "avgPrice": 1.6616,
+   "value": 2936658,
+   "tradeDates": [
+    "2026-08-18",
+    "2026-08-19"
+   ],
+   "sharesAfter": 36950951,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1845872/000119312526357979/0001193125-26-357979-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Addentax Group Corp.",
+   "filer": "HONG ZHIWANG",
+   "percentOfClass": 10.7,
+   "sharesOwned": 225174,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226039379/0001493152-26-039379-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Hepion Pharmaceuticals, Inc.",
+   "filer": "Sireesh Appajosyula",
+   "percentOfClass": 5.7,
+   "sharesOwned": 5250000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the shares of Common Stock beneficially owned by the Reporting Person was approximately $150,000.00.",
+    "On April 21, 2026 the Reporting Person acquired 1,250,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated April 21, 2026 for an aggregate purchase price of $50,000.",
+    "ommon Stock of the Issuer and one warrant to purchase 2,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated July 31, 2026 for an aggregate purchase price of $100,000.",
+    "ommon Stock of the Issuer and one warrant to purchase 2,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated July 31, 2026 for an aggregate purchase price of $100,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1901565/000149315226039483/0001493152-26-039483-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Group 1 Automotive, Inc.",
+   "filer": "Conifer Management, L.L.C.",
+   "percentOfClass": 9.7,
+   "sharesOwned": 1157100,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $298,944,118 was paid to acquire the shares of Common Stock reported herein.",
+    ": Date Quantity Purchase or Sale Volume-Weighted Average Price per Share Low Price per Share High Price per Share 6/25/2026 37,400 Purchase $300.0624 (1) $295.",
+    "190 (1) $308.630 (1) 6/26/2026 18,400 Purchase $300.",
+    "190 (1) 6/29/2026 37,660 Purchase $297.5663 (1) $292."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773994/000090514826003844/0000905148-26-003844-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "DOGNESS (INTERNATIONAL) CORPORATION",
+   "filer": "MING KAI TRADING INTERNATIONAL LIMITED",
+   "percentOfClass": 35.67,
+   "sharesOwned": 3050000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1707303/000149315226039534/0001493152-26-039534-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Super League Enterprise, Inc.",
+   "filer": "Evo Fund",
+   "percentOfClass": 9.9,
+   "sharesOwned": 221697,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "of shares of Common Stock and warrants to purchase Common Stock, pursuant to which Evo Fund received (i) a pre-funded warrant to purchase 833,334 shares of Common Stock at a price per share equal to $12.00 (the \"October 2025 Pre-Funded Warrant\") and (ii) a common stock purchase warrant to purchase 833,334 shares of Common Stock at a price per share equal to $12.",
+    "00 (the \"October 2025 Purchase Warrant\") and Evo Capital received a warrant to purchase 416,667 shares at a price per share equal to $12.00 of Common Stock (the \"Evo Capital Warrant\"), in each case, after giving effect to the Issuer's reverse stock split in January 2026.",
+    "On May 1, 2026, the Issuer issued securities at a per share price of less than $12.00, which resulted in an adjustment in the exercise prices of the October 2025 Pre-Funded Warrant, the October 2025 Purchase Warrant and the Evo Capital Warrant to $6.",
+    "hich the Issuer will issue two common stock purchase warrants to purchase an aggregate of up to 10,000,000 shares of Common Stock (the \"August 2026 Purchase Warrants\") at exercise prices ranging from $3.00 per share to $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1851196/000143774926028667/0001437749-26-028667-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Hepion Pharmaceuticals, Inc.",
+   "filer": "Gary Stetz",
+   "percentOfClass": 5.7,
+   "sharesOwned": 5250000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the shares of Common Stock beneficially owned by the Reporting Person was approximately $150,000.00.",
+    "On April 21, 2026 the Reporting Person acquired 1,250,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated April 21, 2026 for an aggregate purchase price of $50,000.",
+    "ommon Stock of the Issuer and one warrant to purchase 2,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated July 31, 2026 for an aggregate purchase price of $100,000.",
+    "ommon Stock of the Issuer and one warrant to purchase 2,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated July 31, 2026 for an aggregate purchase price of $100,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039482/0001493152-26-039482-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Addentax Group Corp.",
+   "filer": "OR SHAN SHAN",
+   "percentOfClass": 6.55,
+   "sharesOwned": 137790,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226039388/0001493152-26-039388-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CHARTER COMMUNICATIONS, INC. /MO/",
+   "filer": "Advance/Newhouse Partnership",
+   "percentOfClass": 14.35,
+   "sharesOwned": 18647794,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1106770/000095014226002396/0000950142-26-002396-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Brera Holdings PLC",
+   "filer": "Alyazi Saeed Ahmad Alkhattal Almheiri",
+   "percentOfClass": 2.9,
+   "sharesOwned": 2042781,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Haklili purchased 6,006 Ordinary Shares for approximately $38,650 and sold 16,005 Ordinary Shares for proceeds of approximately $362,696.",
+    "Almheiri for consideration of approximately $200,000.",
+    "Alnuaimi for consideration of approximately $200,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2125890/000121390026092279/0001213900-26-092279-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Enhanced Group Inc.",
+   "filer": "Apeiron Investment Group Ltd.",
+   "percentOfClass": 31.5,
+   "sharesOwned": 42304838,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "y amended and supplemented as follows: From August 17, 2026 to August 19, 2026, the Reporting Persons purchased an aggregate of 2,117,316 shares of Class A Common Stock for aggregate consideration of $3,562,697.66."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526358015/0001193125-26-358015-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Axil Brands, Inc.",
+   "filer": "JEFF TOGHRAIE",
+   "percentOfClass": 46.9,
+   "sharesOwned": 3799538,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Toghraie consist of the following: options to purchase 155,000 shares of Common Stock, which have an exercise price of $1.",
+    "were granted on May 10, 2022 and expire April 20, 2032, and are fully vested as of the date of this Statement; and options to purchase 350,000 shares of Common Stock, which have an exercise price of $4."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1718500/000152013826000368/0001520138-26-000368-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BIG SKY INDUSTRIAL INC.",
+   "filer": "Batchelor Joshua Lane",
+   "percentOfClass": 4.9,
+   "sharesOwned": 2580751,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/101594/000143774926028630/0001437749-26-028630-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BlackSky Technology, Inc.",
+   "filer": "Mithril LP",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1753539/000119312526359281/0001193125-26-359281-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Brera Holdings PLC",
+   "filer": "Keren Kalima Maimon",
+   "percentOfClass": 2.9,
+   "sharesOwned": 2037207,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Haklili purchased 6,006 Ordinary Shares for approximately $38,650 and sold 16,005 Ordinary Shares for proceeds of approximately $362,696.",
+    "Almheiri for consideration of approximately $200,000.",
+    "Alnuaimi for consideration of approximately $200,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Republic Services, Inc.",
+   "filer": "Cascade Investment, L.L.C.",
+   "percentOfClass": 36.7,
+   "sharesOwned": 112403625,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1052192/000110465926099242/0001104659-26-099242-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Cimpress plc",
+   "filer": "SPRUCE HOUSE INVESTMENT MANAGEMENT LLC",
+   "percentOfClass": 4.2,
+   "sharesOwned": 1022633,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "bit 1 SCHEDULE I Transactions in Securities of the Issuer During the Past Sixty Days The Spruce House Partnership LLC Transaction Date Amount of Securities Price ($) Transaction Type 8/18/2026 50,000 $ 90.32 Open Market Sale 8/19/2026 150,000 $ 90."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1262976/000149315226039497/0001493152-26-039497-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Liberty Broadband Corporation",
+   "filer": "Ronald A. Duncan",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/905853/000110465926099311/0001104659-26-099311-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Elastic N.V.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 5.2,
+   "sharesOwned": 5393567,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1707753/000136157026000015/0001361570-26-000015-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TREDEGAR CORPORATION",
+   "filer": "John D. Gottwald",
+   "percentOfClass": 16.1,
+   "sharesOwned": 5635809,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1182451/000119312526359168/0001193125-26-359168-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hepion Pharmaceuticals, Inc.",
+   "filer": "Gravitas Capital LP",
+   "percentOfClass": 21.4,
+   "sharesOwned": 21000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the shares of Common Stock beneficially owned by each of the Reporting Person was approximately $750,000.00.",
+    "l 21, 2026 Gravitas Capital LP (\"Gravitas\") acquired 5,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated April 21, 2026 for an aggregate purchase price of $200,000.",
+    "Capital Advisors Pension Plan (\"Invictus\") acquired 1,250,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated April 21, 2026 for an aggregate purchase price of $50,000.",
+    "ommon Stock of the Issuer and one warrant to purchase 8,000,000 shares of Common Stock of the Issuer pursuant to a Securities Purchase Agreement dated July 31, 2026 for an aggregate purchase price of $400,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226039484/0001493152-26-039484-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JETBLUE AIRWAYS CORP",
+   "filer": "Icahn Partners Master Fund LP",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "cahn Partners LP 8/16/2026 Receipt of Shares of Common Stock from Icahn Partners Master Fund LP 10,167,730 -- Icahn Partners LP 8/17/2026 Sale of Shares of Common Stock in the Open Market (1,014,130) $5.28 Icahn Partners LP 8/18/2026 Sale of Shares of Common Stock in the Open Market (2,073,606) $5.",
+    "07 Icahn Partners LP 8/19/2026 Sale of Shares of Common Stock in the Open Market (2,421,326) $4.96 Icahn Partners LP 8/20/2026 Sale of Shares of Common Stock in the Open Market (2,620,771) $4."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726002326/0001539497-26-002326-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MARRIOTT VACATIONS WORLDWIDE Corp",
+   "filer": "Impactive Capital LP",
+   "percentOfClass": 9.8,
+   "sharesOwned": 3380818,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1786767/000090266426003591/0000902664-26-003591-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Liberty Broadband Corp",
+   "filer": "John C. Malone",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1611983/000110465926099325/0001104659-26-099325-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Liberty Broadband Corp",
+   "filer": "John C. Malone",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1611983/000110465926099327/0001104659-26-099327-index.htm"
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "date": "2026-08-10",
+ "generated": "2026-09-19T23:07:53.381Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "venBio Global Strategic Fund IV, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 382352,
+   "avgPrice": 17,
+   "value": 6499984,
+   "tradeDates": [
+    "2026-08-06"
+   ],
+   "sharesAfter": 4181367,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000090514826003548/0000905148-26-003548-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Latigo Biotherapeutics, Inc.",
+    "ticker": "LTGO",
+    "cik": "0002056611"
+   },
+   "owners": [
+    {
+     "name": "Foresite Capital Management V, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Foresite Capital Fund V, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Foresite Capital Opportunity Management V, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Foresite Capital Opportunity Fund V, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Foresite Capital Management VI LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Foresite Capital Fund VI LP",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 140000,
+   "avgPrice": 18,
+   "value": 2520000,
+   "tradeDates": [
+    "2026-08-10"
+   ],
+   "sharesAfter": 2008024,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1792204/000110465926093580/0001104659-26-093580-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Latigo Biotherapeutics, Inc.",
+    "ticker": "LTGO",
+    "cik": "0002056611"
+   },
+   "owners": [
+    {
+     "name": "Tananbaum James B.",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 140000,
+   "avgPrice": 18,
+   "value": 2520000,
+   "tradeDates": [
+    "2026-08-10"
+   ],
+   "sharesAfter": 2008024,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2056611/000158175426000006/0001581754-26-000006-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "NATURES SUNSHINE PRODUCTS INC",
+    "ticker": "NATR",
+    "cik": "0000275053"
+   },
+   "owners": [
+    {
+     "name": "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "PRESCOTT GROUP AGGRESSIVE SMALL CAP LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "PRESCOTT GROUP AGGRESSIVE SMALL CAP II LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "PRESCOTT GROUP AGGRESSIVE SMALL CAP MASTER FUND GP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "FROHLICH PHIL",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 141389,
+   "avgPrice": 16.4009,
+   "value": 2318912,
+   "tradeDates": [
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-10"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1127429/000116615226000010/0001166152-26-000010-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "East West Ave Acquisition Corp.",
+   "filer": "East West Avenue LLC",
+   "percentOfClass": 15.12,
+   "sharesOwned": 1942500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "75 founder shares for every issued and outstanding founder share, or an aggregate of 2,855,000 founder shares (the \"Dividend Shares\"), in exchange for an additional consideration of $20,000, resulting in the Sponsor A holding an aggregate of 2,875,000 founder shares for a per share consideration of $0.",
+    "urities transfer agreement dated March 5, 2026 the Sponsor A entered into with NFR Capital Limited, the other sponsor (the \"Sponsor B\"), Sponsor B acquired 560,000 founder shares on July 13, 2026 for $4,872, for a per share consideration of $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2100704/000149315226036925/0001493152-26-036925-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "TEAM INC",
+   "filer": "InspectionTech Holdings LP",
+   "percentOfClass": 35.1,
+   "sharesOwned": 1604326,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Purchase Agreement, the Issuer issued to InspectionTech an aggregate of (A) 75,000 shares of preferred stock, $100.",
+    "bject to adjustments (\"Tranche A Warrants,\" and such Tranche A Warrants, the \"Initial Tranche A Warrants\"), and (C) warrants to purchase 470,889 shares of Common Stock at an initial exercise price of $50.",
+    "adjustments (\"Tranche B Warrants,\" and such Tranche B Warrants, the \"Initial Tranche B Warrants\" and, together with the Initial Tranche A Warrants, the \"Initial Warrants\"), for total consideration of $75.0 million.",
+    "Pursuant to the Purchase Agreement, from time to time prior to September 11, 2027, the Issuer has the option to draw upon (a \"Delayed Draw\") up to $30.0 million as a delayed draw, with 30,000 shares of Series B Preferred issuable to InspectionTech (such shares, the \"Delayed Draw Preferred Shares\"), in minimum draw amounts of $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148908/000149315226036886/0001493152-26-036886-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "NAPLES SOAP COMPANY, INC.",
+   "filer": "Roger Passarella Revocable Trust",
+   "percentOfClass": 3.78,
+   "sharesOwned": 85100,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the 85,100 shares of Common Stock held by the Roger Passarella Revocable Trust was approximately $82,000.",
+    "The aggregate purchase price for the 13,450 shares of Common Stock held by Austin Lehman was approximately $19,310.",
+    "The aggregate purchase price for the 13,417 shares of Common Stock held by Avery Lehman was approximately $18,935.",
+    "The aggregate purchase price for the 1,985 shares of Common Stock held by the Clare Passarella Trust was approximately $4,760."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1398172/000149315226036808/0001493152-26-036808-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Restaurant Brands International Inc.",
+   "filer": "3G Restaurant Brands Holdings General Partner Ltd.",
+   "percentOfClass": 22.1,
+   "sharesOwned": 99157902,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1653986/000095014226002298/0000950142-26-002298-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Abits Group Inc",
+   "filer": "Conglin Deng",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In the event the Company does not consummate a Business Acquisition within the Acquisition Period, the Purchaser would pay the Reporting Person $5,000,000 in cash within 30 days following the Acquisition Period.",
+    "The aggregate purchase price for the Seller Shares shall be $8,500,000, plus the Additional Ordinary Shares or corresponding cash payment set forth in Section 2.",
+    "Company acquires additional assets or business operations from a third party (each, a Business Acquisition ), the Company shall issue additional Ordinary Shares to Deng, having an aggregate value of $5,000,000 (the Additional Ordinary Shares ).",
+    "In the event the Company does not consummate a Business Acquisition within the Acquisition Period, the Purchaser shall pay Deng $5,000,000 in cash within 30 days after the date of expiration of the Acquisition Period."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1864055/000149315226036954/0001493152-26-036954-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Innovex International, Inc.",
+   "filer": "Amberjack Capital Fund II, L.P.",
+   "percentOfClass": 18.8,
+   "sharesOwned": 13164573,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1944811/000101143826000481/0001011438-26-000481-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMERICAN OUTDOOR BRANDS, INC.",
+   "filer": "Hallador Investment Advisors, Inc.",
+   "percentOfClass": 9.45,
+   "sharesOwned": 1182057,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1808997/000110465926093517/0001104659-26-093517-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Groupon, Inc.",
+   "filer": "Pale Fire Capital SICAV a.s.",
+   "percentOfClass": 25,
+   "sharesOwned": 10180970,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 10,180,970 Shares beneficially owned by PFC SICAV is approximately $87,459,241, excluding brokerage commissions.",
+    "The aggregate purchase price of the 100 Shares beneficially owned directly by Pale Fire Capital is approximately $1,982, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1892479/000092189526002024/0000921895-26-002024-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hertz Global Holdings, Inc.",
+   "filer": "CK Amarillo LP",
+   "percentOfClass": 50.9,
+   "sharesOwned": 181455469,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1852329/000090514826003549/0000905148-26-003549-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SONIDA SENIOR LIVING, INC.",
+   "filer": "Conversant Dallas Parkway (A) LP",
+   "percentOfClass": 16.2,
+   "sharesOwned": 7826361,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "s to purchase 1,031,250 shares of Common Stock (the \"Conversion and Extension Agreement\"), pursuant to which, among other things, the conversion price of the Series A Preferred Stock was reduced from $40.00 to $32."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1850901/000089534526000352/0000895345-26-000352-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Team Inc",
+   "filer": "Corre Opportunities Qualified Master Fund, LP",
+   "percentOfClass": 4.99,
+   "sharesOwned": 255058,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "of 1,054,719 shares held by Qualified Master Fund, LP, 249,942 shares held by Corre Horizon Fund, LP and 299,665 shares held by Corre Horizon II Fund, LP) to the Buyer for aggregate consideration of $56,953,573."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1601971/000089914026000796/0000899140-26-000796-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LIMITED",
+   "filer": "Diana Shipping Inc.",
+   "percentOfClass": 14.4,
+   "sharesOwned": 6264548,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Star Bulk\" and the \"Star Bulk Agreement\") (Nasdaq: SBLK) for Star Bulk to acquire 16 vessels of the Issuer for $470.5 million cash upon, and subject to, the consummation of a transaction providing for the Reporting Person's acquisition of all of the issued and outstanding Shares not already owned by the Reporting Person.",
+    "NOUNCE MUTUAL AGREEMENT TO TERMINATE VESSEL SALE AND PURCHASE AGREEMENT Diana's Offer to Acquire All Outstanding Shares of Genco Remains on the Table Termination of Agreement Has No Impact on Diana s $1.",
+    "Diana s offer to acquire all outstanding Genco shares not already owned by Diana comprised of $24.80 per share in cash (adjusted for Genco s recently declared dividend of $0.",
+    "The termination of the sale and purchase agreement with Star Bulk has no effect on Diana s fully committed $1.411 billion financing for the proposed Genco transaction, from six leading international banks with no financing condition."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000110465926093587/0001104659-26-093587-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Tuniu Corporation",
+   "filer": "Dunde Yu",
+   "percentOfClass": 10.5,
+   "sharesOwned": 36472958,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1629914/000110465926092952/0001104659-26-092952-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MBX BIOSCIENCES, INC.",
+   "filer": "Frazier Life Sciences Public Fund, L.P.",
+   "percentOfClass": 3,
+   "sharesOwned": 1429573,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1863769/000123191926000851/0001231919-26-000851-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Granite Ridge Resources, Inc.",
+   "filer": "GREP GP III, LLC",
+   "percentOfClass": 49.9,
+   "sharesOwned": 65869219,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "d Vesting of Restricted Stock On September 18, 2023, the following Filing Parties made open market acquisitions of shares of Common Stock: Matthew Miller acquired 17,284 shares at prices ranging from $5.73 to $5.",
+    "85 per share; Griffin Perry acquired 2,000 shares at a price of $5.76 per share, Thaddeus Darden acquired 20,000 shares at a price of $5.",
+    "74 per share, and Kirk Lazarine acquired 10,000 shares at a price of $5.75 per share.",
+    "On November 30, 2023, Thaddeus Darden acquired 10,000 shares at a price of $5.92 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1950552/000110465926093460/0001104659-26-093460-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JEWETT CAMERON TRADING CO LTD",
+   "filer": "OREGON COMMUNITY FOUNDATION",
+   "percentOfClass": 21,
+   "sharesOwned": 738534,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Under the Agreement, the Purchaser is obligated to purchase 176,006 Shares at a purchase price of $1.85 per share no later than September 30, 2026, subject to customary closing conditions (the \"Initial Purchase\").",
+    "Of the remaining Shares, 176,006 will have a purchase price of $1.",
+    "verage price of the Company's common stock for the 30 consecutive trading days ending on the last business day immediately prior to the applicable closing date, subject to a minimum purchase price of $1.85 per share and a maximum purchase price of $4.",
+    "tock during the last sixty (60) days except as described in Item 4 or listed below: On July 7, 2026, the Reporting Person sold 18,267 shares of Common Stock in the open market at a per share price of $2,5049."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/885307/000121716026000063/0001217160-26-000063-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NN INC",
+   "filer": "Legion Partners, L.P. I",
+   "percentOfClass": 4.5,
+   "sharesOwned": 3708799,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 3,494,704 Shares owned directly by Legion Partners I is approximately $32,374,718, including brokerage commissions.",
+    "The aggregate purchase price of the 357,483 Shares owned directly by Legion Partners II is approximately $805,826, including brokerage commissions.",
+    "The aggregate purchase price of the 10,905 Shares underlying certain Warrants owned directly by Legion Partners II is approximately $7,909, including brokerage commissions.",
+    "The aggregate purchase price of the 488,282 Shares owned directly by Legion Partners XI is approximately $3,722,133, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1560207/000092189526002027/0000921895-26-002027-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Local Bounti Corporation/DE",
+   "filer": "Live Oak Ventures, LLC",
+   "percentOfClass": 3.7,
+   "sharesOwned": 858284,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Bounti acquired (i) a convertible note with an initial principal balance of $12,500,000 (the \"August 2026 Note\") and (ii) a Common Stock purchase warrant (the \"August 2026 Warrant\") pursuant to which U.",
+    "Bounti has the right to purchase and acquire 1,000,000 shares of Common Stock, for a combined purchase price of $12,500,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1896477/000090266426003370/0000902664-26-003370-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MBX Biosciences, Inc.",
+   "filer": "ORBIMED ADVISORS LLC",
+   "percentOfClass": 6.4,
+   "sharesOwned": 3074853,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1776111/000094787126000776/0000947871-26-000776-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SOCKET MOBILE, INC.",
+   "filer": "Mills Enrico Kevin",
+   "percentOfClass": 4.9,
+   "sharesOwned": 426304,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "2026, the Reporting Person sold an aggregate of 316,199 shares of Common Stock (265,784 held directly and 50,415 held in custodial accounts) in open market transactions at a weighted average price of $2.09 per share (prices ranging from $1.",
+    "On August 10, 2026, the Reporting Person purchased 10 shares of Common Stock in an open market transaction at $1.69 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2073198/000207319826000004/0002073198-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Primo Brands Corp",
+   "filer": "ORCP III DE TopCo GP, LLC",
+   "percentOfClass": 26.5,
+   "sharesOwned": 95800466,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "which the Underwriter agreed to purchase 20,000,000 shares of Class A Common Stock from Triton Water Equity Holdings, LP, subject to and upon the terms and conditions set forth therein, at a price of $24.37 per share (the \"August 2026 Transaction\").",
+    "In addition, on August 7, 2026, the Issuer repurchased 410,340 shares of Class A Common Stock from Triton Water Equity Holdings, LP at a price of $24.37 per share (the \"August 2026 Repurchase Transaction\") pursuant to a stock purchase agreement (the \"August 2026 Purchase Agreement\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2042733/000149315226036942/0001493152-26-036942-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SAB Biotherapeutics, Inc.",
+   "filer": "RA Capital Management, L.P.",
+   "percentOfClass": 9.9,
+   "sharesOwned": 9609852,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1346824/000134682426000220/0001346824-26-000220-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "00 per share (the \"Class A Warrants\") and (c) warrants to purchase 150,000,000 shares of Class A common stock at $2.00 per share (the \"Class B Warrants,\" and together with the Class A Warrants, the \"Warrants\") for aggregate consideration of $1.",
+    "d Stock\"), (b) Class A Warrants to purchase 15,000,000 shares of the Class A common stock and (c) Class B Warrants to purchase 15,000,000 shares of Class A common stock for aggregate consideration of $150,000,000, for aggregate consideration of $1.",
+    "t Parties\"), and the Oaktree Purchasers entered into the Support and Backstop Purchase Agreement (the \"Backstop Agreement\"), pursuant to which the Issuer has agreed to raise cash proceeds of at least $400,000,000 from the sale of 200,000,000 shares of Class A Stock through a registered rights offering by the Issuer (the \"Rights Offering\").",
+    "Eastern Time on November 12, 2026, and will provide the Issuer's stockholders with the right to acquire 200,000,000 shares of Class A Stock at a price equal to the greater of $2.00 per share or 85% of the 10-day VWAP ending on the third trading day immediately prior to the expiration of the Rights Offering."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1842002/000184200226000024/0001842002-26-000024-index.htm"
+  }
+ ]
+}

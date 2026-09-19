@@ -1,0 +1,529 @@
+{
+ "date": "2026-09-11",
+ "generated": "2026-09-19T23:40:11.540Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Vulcan Infrastructure &amp; Power Inc.",
+    "ticker": "GREE",
+    "cik": "0001844971"
+   },
+   "owners": [
+    {
+     "name": "Rogers George Ted III",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 2923976,
+   "avgPrice": 1.71,
+   "value": 4999999,
+   "tradeDates": [
+    null
+   ],
+   "sharesAfter": 3039467,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1881667/000162828026061590/0001628280-26-061590-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "UNITED STATES LIME &amp; MINERALS INC",
+    "ticker": "USLM",
+    "cik": "0000082020"
+   },
+   "owners": [
+    {
+     "name": "Candou Holdings Ltd.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 20000,
+   "avgPrice": 110,
+   "value": 2200000,
+   "tradeDates": [
+    "2026-09-09"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2022891/000121390026099266/0001213900-26-099266-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "Glavine Paul",
+     "roles": [
+      "Chief Growth Officer"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 12.4719,
+   "value": 1247190,
+   "tradeDates": [
+    "2026-09-08"
+   ],
+   "sharesAfter": 4271252,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001263/0000912282-26-001263-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "Glavine Paul",
+     "roles": [
+      "Chief Growth Officer"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 12.4719,
+   "value": 1247190,
+   "tradeDates": [
+    "2026-09-08"
+   ],
+   "sharesAfter": 4271252,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001264/0000912282-26-001264-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "So Eric H. L.",
+     "roles": [
+      "Director",
+      "Executive Chair"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 12.3867,
+   "value": 1238670,
+   "tradeDates": [
+    "2026-09-08"
+   ],
+   "sharesAfter": 4465014,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001261/0000912282-26-001261-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "American Homes 4 Rent",
+   "filer": "Tamara Hughes Gustavson",
+   "percentOfClass": 5.98,
+   "sharesOwned": 21470284,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1562401/000119312526389440/0001193125-26-389440-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Vulcan Infrastructure and Power Inc.",
+   "filer": "Conversant PIF VIP Holdco LLC",
+   "percentOfClass": 9.8,
+   "sharesOwned": 3479532,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "permitted assignee would purchase, and pursuant to which Purchaser, as the permitted assignee of Aggregator, purchased 3,479,532 shares (the \"Shares\") of Class A Common Stock, at a price per share of $1.71, for an aggregate purchase price of approximately $5,950,000, in a private placement (the \"Private Placement\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1850901/000089534526000408/0000895345-26-000408-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Korsana Biosciences, Inc.",
+   "filer": "Fairmount Funds Management LLC",
+   "percentOfClass": 19.99,
+   "sharesOwned": 9103729,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the Common Stock and Pre-Funded Warrants purchased and currently owned by the Reporting Persons is $99,999,973.",
+    "The aggregate purchase price of the Series B Preferred Stock purchased and currently owned by the Reporting Persons is $12,500,000.",
+    "Initial Financing In November 2024, Pre-Merger Korsana (as defined below) issued and sold 4,000,000 shares of its Series Seed Preferred Stock to Fund II at a purchase price of $1.25 per share.",
+    "In September 2025, Pre-Merger Korsana issued and sold an additional 6,000,000 shares of its Series Seed Preferred Stock to Fund II at a purchase price of $1.25 per share and 12,500,000 shares of its Series A Preferred Stock to Fund II at a purchase price of $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1802528/000119312526389417/0001193125-26-389417-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "GPO Plus, Inc.",
+   "filer": "Brett H. Pojunis",
+   "percentOfClass": 12.69,
+   "sharesOwned": 14437500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "No cash consideration was paid; the board of directors valued the shares at $160,000 in the aggregate ($0.0400 per common-equivalent share, the closing price of the common stock on August 19, 2026)."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1673475/000164033426001508/0001640334-26-001508-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Rainmaker Worldwide Inc.",
+   "filer": "Ryan D. Moore",
+   "percentOfClass": 19.7,
+   "sharesOwned": 20996673,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "During the sixty days preceding the filing of this Schedule 13D, Ryan Moore acquired 20,000 shares of Common Stock in open market transactions at a purchase price of $0.01 per share.",
+    "During the sixty days preceding the filing of this Schedule 13D, Ryan Moore also acquired 20,000 shares of Common Stock in open market purchases at $0.01 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2149815/000149315226042453/0001493152-26-042453-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Rainmaker Worldwide Inc.",
+   "filer": "Michael A. Skinner",
+   "percentOfClass": 6.2,
+   "sharesOwned": 6128162,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The transactions were as follows: Date Shares Purchased Price per Share July 30, 2026 40 $0.0003 August 4, 2026 260 $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226042451/0001493152-26-042451-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Three Lions Acquisition Corp.",
+   "filer": "Three Lions Sponsor, LLC",
+   "percentOfClass": 21.9,
+   "sharesOwned": 3158333,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On March 23, 2026, the Issuer issued 2,875,000 ordinary shares (the \"Founder Shares\") to the Sponsor for the purchase price of $25,000.",
+    "tion of the IPO, Sponsor purchased an aggregate of 200,000 private placement units, each consisting of one ordinary share and one-half of one warrant of the Issuer, for an aggregate purchase price of $2,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2128462/000119312526388890/0001193125-26-388890-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "USA Rare Earth, Inc.",
+   "filer": "VB (Rare Earths) Ltd",
+   "percentOfClass": 7.9,
+   "sharesOwned": 29544227,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Merger Agreement, the aggregate merger consideration (the \"Merger Consideration\") consisted of (i) an amount of cash equal to $300,000,000 (the \"Aggregate Cash Merger Consideration\") and (ii) an aggregate of 126,849,307 shares of Common Stock of the Issuer (the \"Aggregate Stock Merger Consideration\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Nautilus Biotechnology, Inc.",
+   "filer": "AH Bio Fund II, L.P.",
+   "percentOfClass": 4.5,
+   "sharesOwned": 5782188,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1725721/000123191926001165/0001231919-26-001165-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 64.64,
+   "sharesOwned": 2817812.83,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "57 $11.24 BBH* Class S Units of Beneficial Interest Purchase 9/9/2026 64,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003501/0000929638-26-003501-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Lument Finance Trust, Inc.",
+   "filer": "AXA S.A.",
+   "percentOfClass": 6.4,
+   "sharesOwned": 334078,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/898427/000089842726000010/0000898427-26-000010-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "American Homes 4 Rent",
+   "filer": "HUGHES B WAYNE ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1562401/000119312526389436/0001193125-26-389436-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TMC the metals Co Inc.",
+   "filer": "Gerard Barron",
+   "percentOfClass": 6.9,
+   "sharesOwned": 30809638,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "tober 28, 2025, the Reporting Person acquired 6,666,667 Common Shares upon the vesting and settlement of restricted stock units awarded to the Reporting Person in April 2024 upon the achievement of a $7.50 Common Share average closing price vesting threshold.",
+    "tober 28, 2025, the Reporting Person acquired 6,666,667 Common Shares upon the vesting and settlement of restricted stock units awarded to the Reporting Person in April 2024 upon the achievement of a $7.50 Common Share average closing price vesting threshold.",
+    "ence, (ii) 4,646,878 Common Shares underlying options that are exercisable within 60 days of September 11, 2026 and (iii) 50,000 Common Shares underlying Class A warrants to purchase Common Shares at $3.00 per share that are exercisable pursuant to that certain Class A Warrant, dated August 14, 2023, a form of which was filed as Exhibit 4.",
+    "The 89,394 Common Shares underlying warrants to purchase Common Shares at $11."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1878772/000110465926107182/0001104659-26-107182-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rent the Runway, Inc.",
+   "filer": "CHS US Investments LLC",
+   "percentOfClass": 59.2,
+   "sharesOwned": 19983656,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The purchase price of the shares purchased pursuant to the Rights Offering Backstop Agreement will be the greater of (i) $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2093897/000119312526389423/0001193125-26-389423-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Senti Biosciences Holdings, Inc.",
+   "filer": "Celadon Partners SPV 24",
+   "percentOfClass": 54.6,
+   "sharesOwned": 25748890,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "to the Equity Commitment Letter, the Investor commits to purchase, or to cause one or more of its affiliates to purchase, newly issued shares of Common Stock, for an aggregate purchase price equal to $2,500,000 (the \"Commitment\"; such amount, the \"Commitment Amount\"), at a per share price equal to the \"Minimum Price\" as defined in Nasdaq Listing Rule 5635(d) (the \"Per Share Price\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2060465/000090266426003795/0000902664-26-003795-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Dell Technologies Inc.",
+   "filer": "SL SPV-2, L.P.",
+   "percentOfClass": 4.9,
+   "sharesOwned": 16359288,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526389485/0001193125-26-389485-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JBDI Holdings Ltd",
+   "filer": "E U Holdings Pte. Ltd.",
+   "percentOfClass": 41.49,
+   "sharesOwned": 3947910,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2143923/000149315226042291/0001493152-26-042291-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "RECANATI LEON",
+   "percentOfClass": 8.6,
+   "sharesOwned": 1354836,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "tem 3 of the Schedule 13D is hereby amended and restated in its entirety as follows: The aggregate consideration paid by the Reporting Person for the Ordinary Shares reported herein was approximately $692,100, representing the purchase by the Reporting Person of (i) 800,000 Ordinary Shares on August 4, 2026, at a weighted average price of $0.",
+    "50 per share (approximately $400,000 in the aggregate), and (ii) an additional 460,000 Ordinary Shares on August 11, 2026, at a purchase price of $0.635 per share ($292,100 in the aggregate).",
+    "of Item 5 of Schedule 13D is hereby amended and restated in its entirety as follows: The Reporting Person's purchases of (i) 800,000 Ordinary Shares on August 4, 2026, at a weighted average price of $0.50 per share (for aggregate consideration of approximately $400,000), and (ii) 460,000 Ordinary Shares on August 11, 2026, at a price of $0.",
+    "635 per share (for aggregate consideration of $292,100), were made through block trades carried out pursuant to the Issuer's at-the-market offering facility, for which A."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004496/0001178913-26-004496-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "L.I.A. Pure Capital Ltd.",
+   "percentOfClass": 19.35,
+   "sharesOwned": 3057488,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000121390026098957/0001213900-26-098957-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Freightos Ltd",
+   "filer": "Schreiber Zvi",
+   "percentOfClass": 6,
+   "sharesOwned": 3096931,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1927719/000197645426000003/0001976454-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TRANSACT TECHNOLOGIES INC",
+   "filer": "Charles M. Gillman",
+   "percentOfClass": 5.1,
+   "sharesOwned": 521841,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 521,841 Shares is approximately $2,453,646, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1386979/000121465926011604/0001214659-26-011604-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GLOO HOLDINGS, INC.",
+   "filer": "Grace &amp; Mercy Foundation, Inc.",
+   "percentOfClass": 8.5,
+   "sharesOwned": 3423076,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2069785/000149315226042393/0001493152-26-042393-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hagerty, Inc.",
+   "filer": "HAGERTY HOLDING CORP.",
+   "percentOfClass": 56.5,
+   "sharesOwned": 155914656,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1899295/000110465926107138/0001104659-26-107138-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PMA Graphene Technology Group Inc.",
+   "filer": "Lam Chi Ming",
+   "percentOfClass": 4.8,
+   "sharesOwned": 7824865,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2028403/000202840326000015/0002028403-26-000015-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rent the Runway, Inc.",
+   "filer": "Gateway Runway, LLC",
+   "percentOfClass": 12.7,
+   "sharesOwned": 4274394,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The purchase price of the shares purchased pursuant to the Rights Offering Backstop Agreement will be the greater of (i) $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1963997/000119312526389425/0001193125-26-389425-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OrthoPediatrics Corp.",
+   "filer": "Squadron Capital LLC",
+   "percentOfClass": 23.8,
+   "sharesOwned": 6201764,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 2, 2026, SC LLC sold an aggregate 22,500 shares of Common Stock in the open market for a weighted average price of $23.35."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1425450/000119312526388676/0001193125-26-388676-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rent the Runway, Inc.",
+   "filer": "S3 RR Aggregator, LLC",
+   "percentOfClass": 12.7,
+   "sharesOwned": 4274394,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The purchase price of the shares purchased pursuant to the Rights Offering Backstop Agreement will be the greater of (i) $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1468327/000119312526389424/0001193125-26-389424-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SAFE BULKERS, INC.",
+   "filer": "Vorini Holdings Inc.",
+   "percentOfClass": 17.1,
+   "sharesOwned": 19426015,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1434754/000093041326002879/0000930413-26-002879-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "UNIVERSAL ELECTRONICS INC",
+   "filer": "TORO 18 HOLDINGS LLC",
+   "percentOfClass": 8.6,
+   "sharesOwned": 1101832,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 1,101,832 Shares directly beneficially owned by Toro 18 is approximately $9,759,633, including brokerage commissions.",
+    "were awarded to him in connection with his service as a director of the Issuer and 48,890 Shares were purchased with personal funds on the open market for an aggregate purchase price of approximately $331,723, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1970265/000092189526002536/0000921895-26-002536-index.htm"
+  }
+ ]
+}

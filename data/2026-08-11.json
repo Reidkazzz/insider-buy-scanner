@@ -1,0 +1,508 @@
+{
+ "date": "2026-08-11",
+ "generated": "2026-09-19T23:09:27.722Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Braveheart Bio, Inc.",
+    "ticker": "BRVE",
+    "cik": "0002131524"
+   },
+   "owners": [
+    {
+     "name": "AH Bio Fund IV, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "AH Equity Partners Bio IV, L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Andreessen Marc L",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "HOROWITZ BENJAMIN A",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1100000,
+   "avgPrice": 18,
+   "value": 19800000,
+   "tradeDates": [
+    "2026-08-07"
+   ],
+   "sharesAfter": 10232420,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1889476/000123191926000859/0001231919-26-000859-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "QVC Group, Inc.",
+    "ticker": "QVCG",
+    "cik": "0001254699"
+   },
+   "owners": [
+    {
+     "name": "GOLDENTREE ASSET MANAGEMENT LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "GoldenTree Asset Management LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Tananbaum Steven A.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 650808,
+   "avgPrice": 15.346,
+   "value": 9987293,
+   "tradeDates": [
+    "2026-08-07",
+    "2026-08-10",
+    "2026-08-11"
+   ],
+   "sharesAfter": 8518677,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226037181/0001493152-26-037181-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Privacore VPC Asset Backed Credit Fund",
+    "ticker": "NONE",
+    "cik": "0002066579"
+   },
+   "owners": [
+    {
+     "name": "BANKERS LIFE &amp; CASUALTY CO",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 492611,
+   "avgPrice": 10.15,
+   "value": 5000000,
+   "tradeDates": [
+    "2026-08-07"
+   ],
+   "sharesAfter": 5474762.388,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/903939/000090393926000026/0000903939-26-000026-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Attovia Therapeutics, Inc.",
+   "filer": "Frazier Life Sciences Public Fund, L.P.",
+   "percentOfClass": 1.7,
+   "sharesOwned": 760327,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "7 shares of Series A-2 Preferred Stock, (iv) 11,054,544 shares of Series B Preferred Stock and (v) 8,930,685 shares of Series C Preferred Stock, for an aggregate total purchase price of approximately $59,979,760.",
+    "FLSPF, FLS XI and FLS XII also purchased 617,758, 588,235 and 44,007 shares of Common Stock, respectively, from the underwriters of the IPO at the IPO price of $17.00 per share, for an aggregate purchase price of $21,250,000.",
+    "On August 5, 2026, FLSPF and FLS XII purchased, in multiple transactions at prices ranging from $21.77 to $22.",
+    "00, inclusive, 93,350 and 6,650 shares of Common Stock, respectively, for an aggregate purchase price of $2,190,790."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000123191926000857/0001231919-26-000857-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "UMH Properties, Inc.",
+   "filer": "Erez REIT Opportunities LP",
+   "percentOfClass": 4,
+   "sharesOwned": 3451421,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Persons used approximately $64.2 million (including commissions) of the working capital of the Erez Funds to purchase the shares of Common Stock reported in this Schedule 13D.",
+    "Trade Date Shares Purchased Price Per Share ($) 6/16/2026* 13,918 $15.00 6/16/2026 3,479 $15."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2014584/000090266426003374/0000902664-26-003374-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Evogene Ltd.",
+   "filer": "RECANATI LEON",
+   "percentOfClass": 5.7,
+   "sharesOwned": 894836,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "20 per share (the \"Ordinary Shares\") reported herein was approximately $400,000, representing the purchase of 800,000 Ordinary Shares in open market transactions on August 4, 2026, at a weighted average price of $0.",
+    "On August 4, 2026, the Reporting Person purchased 800,000 Ordinary Shares of the Issuer in open market transactions at a weighted average purchase price of $0.50 per share, in multiple transactions within a range of prices per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004023/0001178913-26-004023-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 446759,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001421/0001753926-26-001421-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aberdeen Intermediate Income Fund",
+   "filer": "SIT INVESTMENT ASSOCIATES INC",
+   "percentOfClass": 29.9,
+   "sharesOwned": 34000521,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/826735/000089710126000351/0000897101-26-000351-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ADT, INC.",
+   "filer": "State Farm Mutual Automobile Insurance Company",
+   "percentOfClass": 19.72,
+   "sharesOwned": 133333333,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1703056/000119312526344785/0001193125-26-344785-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "Abu Dhabi Investment Authority",
+   "percentOfClass": 23.64,
+   "sharesOwned": 58170916,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ollover (as defined below), of all the Shares of the Issuer not held by the Consortium, not held as treasury shares by the Issuer and not Rollover Shares (as defined below), for cash consideration of $7.02 per Share (the \"Transaction\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1362558/000110465926094135/0001104659-26-094135-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LAS VEGAS SANDS CORP.",
+   "filer": "Miriam Adelson",
+   "percentOfClass": 52.7,
+   "sharesOwned": 341442911,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1309416/000119312526345232/0001193125-26-345232-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DAKTRONICS INC /SD/",
+   "filer": "Alta Fox Opportunities Fund, LP",
+   "percentOfClass": 4.4,
+   "sharesOwned": 2130324,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 2,130,324 Shares beneficially owned by Alta Fox Opportunities is approximately $13,206,579, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1734916/000173491626000004/0001734916-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Replimune Group, Inc.",
+   "filer": "Baker Bros. Advisors LP",
+   "percentOfClass": 11.8,
+   "sharesOwned": 11075336,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "0599 per pre-funded warrant to purchase shares of Common Stock that are exercisable at any time on a 1-for-1 basis into Common Stock at an exercise price of $0.0001 per warrant with no expiration date, subject to beneficial ownership limitations described in Item 5 (the \"2026 $0.",
+    "Pursuant to the Offering, 667 and Life Sciences purchased 126,394 and 2,609,946 2026 $0.0001 Prefunded Warrants, respectively, at the offering price of $12.",
+    "0599 per pre-funded warrant, totaling 2,736,340 2026 $0.0001 Prefunded Warrants in the aggregate for an aggregate purchase price of $32,999,986.",
+    "Each of 667 and Life Sciences purchased the 2026 $0.0001 Prefunded Warrants with its working capital."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1263508/000110465926094196/0001104659-26-094196-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "Canada Pension Plan Investment Board",
+   "percentOfClass": 34.4,
+   "sharesOwned": 88846844,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    ") not held by members of the Consortium or their respective Affiliates, not held in treasury by the Issuer and not a Rollover Share (each, a \"Cash-Out Share\") will be transferred to the Purchaser for $7.",
+    "ransaction set out in Schedule 1, each a Condition ; Confidentiality Agreement means the confidentiality letter agreement dated as of 4 August 2026, between CPPIB and the Company; Consideration means $7.02 in cash per Cash-Out Share; Consortium means, collectively, each of CPPIB and Founder.",
+    "11 As at the date of this Agreement, there are no pending payment delays in excess of 15 million dollars (USD $15,000,000) under any single power purchase agreement (or other project documentation) to which a Group Company is party.",
+    "13 In the twelve (12) months immediately preceding the date of this Agreement, there have been no liquidated damages in excess of five million dollars (USD $5,000,000) imposed on any party under any power purchase agreement (or other project documentation) to which a Group Company is party for any project operated by any Group Company."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1283718/000119312526343551/0001193125-26-343551-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HWH INTERNATIONAL INC.",
+   "filer": "Heng Fai Ambrose Chan",
+   "percentOfClass": 27.1,
+   "sharesOwned": 8064319,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1261725/000149315226037149/0001493152-26-037149-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Super Group (SGHC) Ltd",
+   "filer": "Chivers Ltd",
+   "percentOfClass": 18.6,
+   "sharesOwned": 94448113,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "nutsson has elected to settle the August 2026 Exercise through a net settlement alternative provided in the Option Agreement, pursuant to which Chivers will deliver to Knutsson total consideration of $139.5 million (the \"Net Settlement Amount\"), representing the difference between the aggregate exercise price and the value of the Option Shares, as determined in accordance with the Option Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1954552/000101143826000488/0001011438-26-000488-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LightInTheBox Holding Co., Ltd.",
+   "filer": "Conner Growth Holding Limited",
+   "percentOfClass": 22.5,
+   "sharesOwned": 52958777,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "nt\") with the Issuer, pursuant to which Conner Growth agreed to purchase 4,254,553 Ordinary Shares of the Issuer (the \"Subscribed Shares\") in a private placement (the \"PIPE\") at a purchase price of US$0.2566667 per Ordinary Share (equivalent to US$3.",
+    "08 per ADS, each representing twelve (12) Ordinary Shares), for an aggregate purchase price of approximately US$1,092,003."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1805396/000110465926094250/0001104659-26-094250-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DAVION HEALTHCARE PLC",
+   "filer": "JACK HARRY KAYE",
+   "percentOfClass": 41.08,
+   "sharesOwned": 10268948,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826006175/0001683168-26-006175-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MacKenzie Realty Capital, Inc.",
+   "filer": "DIXON ROBERT E",
+   "percentOfClass": 8.9,
+   "sharesOwned": 246665,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The total amount of funds required by BPLT to purchase its 33,400 shares on August 7, 2026 and August 10, 2026 was $53,395.47."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1103016/000158232826000013/0001582328-26-000013-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wearable Devices Ltd.",
+   "filer": "J.B.D Innovation Ltd.",
+   "percentOfClass": 15.5,
+   "sharesOwned": 381361,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092834/000121390026087536/0001213900-26-087536-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "First Citizens BancShares, Inc.",
+   "filer": "Frank B. Holding, Jr.",
+   "percentOfClass": 5.69,
+   "sharesOwned": 583959,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/798941/000119312526344990/0001193125-26-344990-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Grindr Inc.",
+   "filer": "Tiga Investments Eighty-Eight Pte Ltd",
+   "percentOfClass": 49.4,
+   "sharesOwned": 85926333,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1820144/000114036126032310/0001140361-26-032310-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "United Parks &amp; Resorts Inc.",
+   "filer": "Hill Path Capital Partners LP",
+   "percentOfClass": 13,
+   "sharesOwned": 5885065,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1676292/000092189526002048/0000921895-26-002048-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Turtle Beach Corp",
+   "filer": "Hoak Public Equities, LP",
+   "percentOfClass": 4.14,
+   "sharesOwned": 741459,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The total amount of funds used for the purchase of the Common Stock reported by the Child's Trust was $235,700.00.",
+    "The total amount of funds used for the purchase of the Common Stock reported by the Hoak Foundation was $370,400.00.",
+    "The total amount of funds used for the purchase of Common Stock by DeeDee Hoak was $21,870.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1360554/000199937126017551/0001999371-26-017551-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "JERA Power RN B.V.",
+   "percentOfClass": 10,
+   "sharesOwned": 28524255,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Consortium and their respective affiliates, not held as a treasury share by the Issuer and not a Rollover Share (as defined below) will be transferred to CPP Investments, for cash consideration of US$7."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1884593/000094787126000778/0000947871-26-000778-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Super Group (SGHC) Limited",
+   "filer": "Knutsson Limited",
+   "percentOfClass": 46.2,
+   "sharesOwned": 234553471,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "nutsson has elected to settle the August 2026 Exercise through a net settlement alternative provided in the Option Agreement, pursuant to which Chivers will deliver to Knutsson total consideration of $139.5 million (the \"Net Settlement Amount\"), representing the difference between the aggregate exercise price and the value of the Option Shares, as determined in accordance with the Option Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1953643/000195364326000002/0001953643-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LAUREATE EDUCATION, INC.",
+   "filer": "Wengen Alberta, LP",
+   "percentOfClass": 6.96,
+   "sharesOwned": 9585166,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/912766/000199937126017635/0001999371-26-017635-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LandBridge Company LLC",
+   "filer": "LandBridge Holdings LLC",
+   "percentOfClass": 61.4,
+   "sharesOwned": 47168908,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526345444/0001193125-26-345444-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the Original Statement is hereby amended and supplemented to include the following information: On June 25, 2026, the Reporting Person purchased 336,706 Class A common shares for an average price of $6.9615 per share in cash.",
+    "He also purchased an additional 17,693 Class A common shares on June 26, 2026 for an average price of $6.9982 per share in cash.",
+    "On August 7, 2026, the Malone Trust purchased 29,873 Class A common shares for an average price of $8.4994 per share in cash and an additional 97,955 Class A common shares on August 10, 2026 for an average price of $8."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1712184/000093779726000018/0000937797-26-000018-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wave Life Sciences, Inc.",
+   "filer": "RA Capital Management, L.P.",
+   "percentOfClass": 16.8,
+   "sharesOwned": 34314406,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1346824/000134682426000222/0001346824-26-000222-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RYTHM, Inc.",
+   "filer": "RSLGH, LLC",
+   "percentOfClass": 89.9,
+   "sharesOwned": 13290387,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2043397/000121390026087926/0001213900-26-087926-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ReNew Energy Global plc",
+   "filer": "Sumant Sinha",
+   "percentOfClass": 19.75,
+   "sharesOwned": 60540417,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "res\") not held by members of the Consortium or their respective Affiliates, not held in treasury by the Issuer and not a Rollover Share (each, a \"Cash-Out Share\") will be transferred to Purchaser for $7."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1848763/000119312526343627/0001193125-26-343627-index.htm"
+  }
+ ]
+}

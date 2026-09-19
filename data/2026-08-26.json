@@ -1,0 +1,470 @@
+{
+ "date": "2026-08-26",
+ "generated": "2026-09-19T23:25:33.927Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Calamos Dynamic Convertible &amp; Income Fund",
+    "ticker": "CCD",
+    "cik": "0001602584"
+   },
+   "owners": [
+    {
+     "name": "MetLife Investment Management, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 880000,
+   "avgPrice": 25,
+   "value": 22000000,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 128000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1602584/000090514826003938/0000905148-26-003938-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Calamos Global Dynamic Income Fund",
+    "ticker": "CHW",
+    "cik": "0001396277"
+   },
+   "owners": [
+    {
+     "name": "MetLife Investment Management, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 440000,
+   "avgPrice": 25,
+   "value": 11000000,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 56000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1396277/000090514826003939/0000905148-26-003939-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CALAMOS CONVERTIBLE OPPORTUNITIES &amp; INCOME FUND",
+    "ticker": "CHI",
+    "cik": "0001171471"
+   },
+   "owners": [
+    {
+     "name": "MetLife Investment Management, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 345000,
+   "avgPrice": 25,
+   "value": 8625000,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 48000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1171471/000090514826003937/0000905148-26-003937-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CALAMOS CONVERTIBLE &amp; HIGH INCOME FUND",
+    "ticker": "CHY",
+    "cik": "0001222719"
+   },
+   "owners": [
+    {
+     "name": "MetLife Investment Management, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 290000,
+   "avgPrice": 25,
+   "value": 7250000,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 43600,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1222719/000090514826003936/0000905148-26-003936-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Calamos Aksia Hedged Strategies Fund",
+    "ticker": "N/A",
+    "cik": "0002063706"
+   },
+   "owners": [
+    {
+     "name": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 284586,
+   "avgPrice": 10.51,
+   "value": 2991000,
+   "tradeDates": [
+    "2026-08-24"
+   ],
+   "sharesAfter": 1914545.546,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2063706/000212577326000010/0002125773-26-000010-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 79729,
+   "avgPrice": 22.8341,
+   "value": 1820537,
+   "tradeDates": [
+    "2026-08-24",
+    "2026-08-26"
+   ],
+   "sharesAfter": 8995846,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000048/0001221359-26-000048-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "NORTHPOINTE BANCSHARES INC",
+    "ticker": "NPB",
+    "cik": "0001336706"
+   },
+   "owners": [
+    {
+     "name": "Williams Charles Alan",
+     "roles": [
+      "Director",
+      "CHAIRMAN &amp; CEO",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Charles A Williams TR Charles A Williams Trust",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 78312,
+   "avgPrice": 16.9464,
+   "value": 1327106,
+   "tradeDates": [
+    "2026-08-25",
+    "2026-08-26"
+   ],
+   "sharesAfter": 2390962,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2056588/000205756726000006/0002057567-26-000006-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": 178146,
+   "avgPrice": 13.073,
+   "recentTradeValue": 2328899,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000223/0001818383-26-000223-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Tactical Resources Corp.",
+   "filer": "Blue Bird Capital Enterprises LLC",
+   "percentOfClass": 11.7,
+   "sharesOwned": 1598232,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2110854/000121390026094095/0001213900-26-094095-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "PUBLIC COMPANY MANAGEMENT CORPORATION",
+   "filer": "REPOSITORY SERVICES LLC",
+   "percentOfClass": 70.3,
+   "sharesOwned": 23946307,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1141964/000121465926010879/0001214659-26-010879-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Super League Enterprise, Inc.",
+   "filer": "eSports Now LLC",
+   "percentOfClass": 9.9,
+   "sharesOwned": 1072900,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "At Closing, the Company paid the following consideration for the Purchased Assets: (i) a cash payment in the amount of $1.",
+    "nt\", and the shares issuable upon exercise of the Pre-Funded Warrant, the \"PFW Shares\"), and (iv) a common stock purchase warrant to purchase 536,450 shares of common stock, with an exercise price of $18."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926029005/0001437749-26-029005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VODAFONE GROUP PUBLIC LTD CO",
+   "filer": "Vega SAS",
+   "percentOfClass": 9.9,
+   "sharesOwned": 2287892576,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/839923/000110465926101605/0001104659-26-101605-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AEGON LTD.",
+   "filer": "Vereniging Aegon",
+   "percentOfClass": 18.01,
+   "sharesOwned": 264665203,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/769218/000095014226002429/0000950142-26-002429-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Advanced Flower Capital Inc.",
+   "filer": "Leonard M. Tannenbaum",
+   "percentOfClass": 30.4,
+   "sharesOwned": 6860845,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Tannenbaum Purchase of Common Stock 45,829 $ 3.06 $3.",
+    "Tannenbaum Purchase of Common Stock 12,841 $ 3.48 $3.",
+    "Tannenbaum Purchase of Common Stock 20,000 $ 3.29 $3.",
+    "Tannenbaum Purchase of Common Stock 25,000 $ 3.28 $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1822523/000182912626009359/0001829126-26-009359-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Allot Ltd.",
+   "filer": "QVT Financial LP",
+   "percentOfClass": 11.72,
+   "sharesOwned": 5734812,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 5,734,812 Ordinary Shares beneficially owned is approximately $41,518,559, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1365767/000119312526368939/0001193125-26-368939-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "10 to Schedule 13D was filed on May 26, 2026, the Reporting Persons have purchased 648,658 Shares for aggregate consideration of $14,808,700 (excluding brokerage commissions) using the source of funds described in Row 4 of the cover pages hereof.",
+    "of the SEC or the Company, full information regarding the number of shares sold at each separate price for each transaction: August 5, 2026 -Shares Acquired: 3,000 -Weighted Average Price Per Share: $23.04 -By Evelyn Shirley Rady Trust August 7, 2026 -Shares Acquired: 32,763 -Weighted Average Price Per Share: $22.",
+    "82 -By ERT August 10, 2026 -Shares Acquired: 93,243 -Weighted Average Price Per Share: $22.45 -By ERT August 11, 2026 -Shares Acquired: 100,000 -Weighted Average Price Per Share: $22.",
+    "52 -By ERT August 13, 2026 -Shares Acquired: 100,000 -Weighted Average Price Per Share: $22.86 -By ERT August 14, 2026 -Shares Acquired: 50,000 -Weighted Average Price Per Share: $22."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000051/0001221359-26-000051-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aurinia Pharmaceuticals Inc.",
+   "filer": "ILJIN SNT Co., Ltd.",
+   "percentOfClass": 3.7,
+   "sharesOwned": 4987629,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1600620/000110465926101785/0001104659-26-101785-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PIMCO MUNICIPAL INCOME FUND II",
+   "filer": "BANK OF AMERICA CORP /DE/",
+   "percentOfClass": 79.5,
+   "sharesOwned": 3860,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000455/0000070858-26-000455-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PIMCO NEW YORK MUNICIPAL INCOME FUND II",
+   "filer": "BANK OF AMERICA CORP /DE/",
+   "percentOfClass": 100,
+   "sharesOwned": 760,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000456/0000070858-26-000456-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Calamos Aksia Hedged Strategies Fund",
+   "filer": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
+   "percentOfClass": 28.78,
+   "sharesOwned": 1914545.54,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "426 $10.46 July 30, 2026 Purchase 9,495.",
+    "238 $10.50 August 24, 2026 Purchase 284,586."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2063706/000110465926101648/0001104659-26-101648-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Sphere 3D Corp.",
+   "filer": "Endeavor Blockchain, LLC",
+   "percentOfClass": 3.4,
+   "sharesOwned": 300000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 500,000 Shares initially purchased by Endeavor Blockchain was approximately $988,384, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2101945/000091228226001163/0000912282-26-001163-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GoodRx Holdings, Inc.",
+   "filer": "Francisco Partners IV, L.P.",
+   "percentOfClass": 21.9,
+   "sharesOwned": 35023391,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In addition, on such date, the remaining 2,743,043 Class A Shares received upon such conversion were sold by the FP Entities for an aggregate consideration of $9,678,731.4997, which proceeds were distributed to their respective partners."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1622902/000119312526369290/0001193125-26-369290-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VerifyMe, Inc.",
+   "filer": "GELLER MARSHALL S",
+   "percentOfClass": 4.5,
+   "sharesOwned": 591448,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The 8% Convertible Subordinated Promissory Note in the principal amount of $175,000 (the Note), which was purchased by the Trust in the Issuer's private placement on August 25, 2023, matured on August 25, 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/925236/000089183926000370/0000891839-26-000370-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Getty Images Holdings, Inc.",
+   "filer": "Getty Investments L.L.C.",
+   "percentOfClass": 42.3,
+   "sharesOwned": 178026504,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1056213/000095014226002432/0000950142-26-002432-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Getty Images Holdings, Inc.",
+   "filer": "KED Icon Holdings, LLC",
+   "percentOfClass": 27.4,
+   "sharesOwned": 115259246,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1898496/000119312526368887/0001193125-26-368887-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Loop Industries, Inc.",
+   "filer": "Northern Private Capital Fund I Non-Resident Limited Partnership",
+   "percentOfClass": 1.2,
+   "sharesOwned": 561632,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1504678/000182180826000006/0001821808-26-000006-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Strive, Inc.",
+   "filer": "Vivek Ramaswamy",
+   "percentOfClass": 6.6,
+   "sharesOwned": 5693897,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1635075/000095010326012937/0000950103-26-012937-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VerifyMe, Inc.",
+   "filer": "Stedham Adam H",
+   "percentOfClass": 7.4,
+   "sharesOwned": 1019500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The 8% Convertible Subordinated Promissory Note in the principal amount of $175,000 (the Note), which was purchased by Mr."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1723447/000089183926000369/0000891839-26-000369-index.htm"
+  }
+ ]
+}

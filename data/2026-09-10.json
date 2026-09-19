@@ -1,0 +1,295 @@
+{
+ "date": "2026-09-10",
+ "generated": "2026-09-19T23:39:05.095Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "QVC Group, Inc.",
+    "ticker": "QVCG",
+    "cik": "0001254699"
+   },
+   "owners": [
+    {
+     "name": "GOLDENTREE ASSET MANAGEMENT LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "GoldenTree Asset Management LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Tananbaum Steven A.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1600000,
+   "avgPrice": 16.25,
+   "value": 26000000,
+   "tradeDates": [
+    "2026-09-08"
+   ],
+   "sharesAfter": 10991951,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226042256/0001493152-26-042256-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "So Eric H. L.",
+     "roles": [
+      "Director",
+      "Executive Chair"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 12.089,
+   "value": 1208900,
+   "tradeDates": [
+    "2026-09-04"
+   ],
+   "sharesAfter": 4365014,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001257/0000912282-26-001257-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "Glavine Paul",
+     "roles": [
+      "Chief Growth Officer"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 11.7828,
+   "value": 1178280,
+   "tradeDates": [
+    "2026-09-03"
+   ],
+   "sharesAfter": 4171252,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001256/0000912282-26-001256-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Aterian, Inc.",
+   "filer": "Lazar David E.",
+   "percentOfClass": 95.7,
+   "sharesOwned": 249900000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "At the First Closing, the Reporting Person purchased 1,750,000 shares of Series AA Preferred Stock of the Issuer for an aggregate purchase price of $3.5 million.",
+    "At the Second Closing, the Reporting Person purchased 1,750,000 shares of Series AAA Preferred Stock of the Issuer for an aggregate purchase price of $3.5 million.",
+    "The Reporting Person paid the aggregate $7.0 million purchase price for the Preferred Stock of the Issuer using cash on hand."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Agassi Sports Entertainment Corp.",
+   "filer": "Askew James M.",
+   "percentOfClass": 13.7,
+   "sharesOwned": 1797860,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/930245/000149315226042264/0001493152-26-042264-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Braveheart Bio, Inc.",
+   "filer": "ORBIMED ADVISORS LLC",
+   "percentOfClass": 13.5,
+   "sharesOwned": 12175159,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2131524/000094787126000860/0000947871-26-000860-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GameStop Corp.",
+   "filer": "Cohen Ryan",
+   "percentOfClass": 8.5,
+   "sharesOwned": 43082626,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Cohen purchased an aggregate of 1,000,000 Shares at a weighted average price of $20.3759 per Share in multiple transactions at prices ranging from $20."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1767470/000092189526002530/0000921895-26-002530-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "D-MARKET Electronic Services &amp; Trading",
+   "filer": "Joint Stock Company Kaspi.kz",
+   "percentOfClass": 88.95,
+   "sharesOwned": 381294546,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/0001193125-26-387494-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Distribution Solutions Group, Inc.",
+   "filer": "LKCM Private Discipline Master Fund, SPC / PDLP Lawson, LLC",
+   "percentOfClass": 7.7,
+   "sharesOwned": 3578228,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526387838/0001193125-26-387838-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "FiEE, Inc.",
+   "filer": "Elements Corporate Services Ltd",
+   "percentOfClass": 37.1,
+   "sharesOwned": 3196343,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2101596/000089843226000703/0000898432-26-000703-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ENTRADA THERAPEUTICS, INC.",
+   "filer": "MPM BioVentures 2014, L.P.",
+   "percentOfClass": 4.5,
+   "sharesOwned": 1764167,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1689375/000123191926001160/0001231919-26-001160-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GABELLI MULTIMEDIA TRUST INC.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0.1,
+   "sharesOwned": 31000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "United States The Reporting Persons used an aggregate of approximately $333,424 to purchase the additional Securities reported as beneficially owned in Item 5 since the most recent filing on Schedule 13D.",
+    "Foundation used approximately $33,067 to purchase the additional Securities reported by it.",
+    "GBL used approximately $125,138 to purchase the additional Securities reported by it.",
+    "Mario Gabelli used approximately $174,244 to purchase the additional Securities reported by him."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/921671/000080724926000083/0000807249-26-000083-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "QVC GROUP, INC.",
+   "filer": "GoldenTree Asset Management LP",
+   "percentOfClass": 22,
+   "sharesOwned": 10991951,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 8, 2026, the Funds (as defined below) purchased an aggregate of 1,600,000 shares of Common Stock pursuant to a Stock Purchase Agreement (as defined below) for aggregate consideration of $26,000,000 using working capital.",
+    ", pursuant to which the Funds agreed to purchase 1,600,000 shares of Common Stock for a purchase price of $16.25 per share (the \"Purchase\").",
+    "sell, assign, transfer and convey to the Purchaser, and the Purchaser shall purchase, accept and assume from the Seller, all right, title and interest in and to the Securities for a purchase price of $16.25 per share (the Purchase Price ).",
+    "The Seller and the Purchaser have each agreed to pay Stifel a fee of $0.025 per share of the Securities in connection with the transactions contemplated by this Agreement, such that the aggregate fee payable to Stifel shall be $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226042257/0001493152-26-042257-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Great Elm Group, Inc.",
+   "filer": "Imperial Capital Asset Management, LLC",
+   "percentOfClass": 19,
+   "sharesOwned": 5918746,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1831096/000119312526387898/0001193125-26-387898-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Zedge, Inc.",
+   "filer": "Michael Jonas",
+   "percentOfClass": 15.9,
+   "sharesOwned": 2046487,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Jonas 10-year options under the Plan to purchase an aggregate of 386,244 shares of Class B Common Stock (the \"Options\") with an exercise price of $2.93 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1607914/000121390026098817/0001213900-26-098817-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Prospect Floating Rate &amp; Alternative Income Fund, Inc.",
+   "filer": "John &amp; Daria Barry Foundation",
+   "percentOfClass": 80.9,
+   "sharesOwned": 7936417.33,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2009659/000200965926000004/0002009659-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SunCar Technology Group Inc.",
+   "filer": "KMBP Holdings Limited",
+   "percentOfClass": 34.1,
+   "sharesOwned": 19093366,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2008673/000110465926106563/0001104659-26-106563-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PUBLIC COMPANY MANAGEMENT CORPORATION",
+   "filer": "REPOSITORY SERVICES LLC",
+   "percentOfClass": 69.84,
+   "sharesOwned": 23946307,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1141964/000121465926011560/0001214659-26-011560-index.htm"
+  }
+ ]
+}

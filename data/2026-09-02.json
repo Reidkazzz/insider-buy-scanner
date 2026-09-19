@@ -1,0 +1,415 @@
+{
+ "date": "2026-09-02",
+ "generated": "2026-09-19T23:31:38.753Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "NewGenIvf Group Ltd",
+    "ticker": "NIVF",
+    "cik": "0001981662"
+   },
+   "owners": [
+    {
+     "name": "Cheung Kong Yiu",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 3722223,
+   "avgPrice": 1.1185,
+   "value": 4163335,
+   "tradeDates": [
+    "2026-05-28",
+    "2026-06-02",
+    "2026-06-18",
+    "2026-07-27"
+   ],
+   "sharesAfter": 3722223,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2148231/000121390026096450/0001213900-26-096450-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 166636,
+   "avgPrice": 22.4496,
+   "value": 3740910,
+   "tradeDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02"
+   ],
+   "sharesAfter": 2413658,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000055/0001221359-26-000055-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "NORTHPOINTE BANCSHARES INC",
+    "ticker": "NPB",
+    "cik": "0001336706"
+   },
+   "owners": [
+    {
+     "name": "Williams Charles Alan",
+     "roles": [
+      "Director",
+      "CHAIRMAN &amp; CEO",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Charles A Williams TR Charles A Williams Trust",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 85000,
+   "avgPrice": 16.7403,
+   "value": 1422926,
+   "tradeDates": [
+    "2026-09-01"
+   ],
+   "sharesAfter": 2475962,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2056588/000205756726000008/0002057567-26-000008-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PRIMEENERGY RESOURCES CORP",
+   "filer": "HURT CLINT",
+   "percentOfClass": 5.2,
+   "sharesOwned": 81737,
+   "recentTradeShares": 10000,
+   "avgPrice": 202.6455,
+   "recentTradeValue": 2026455,
+   "snippets": [
+    "64 Sale 08/25/2026 5,000 $201.08 All transactions listed in the table above were effected on the open market."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/947836/000143774926029529/0001437749-26-029529-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Definitive Healthcare Corp.",
+   "filer": "Advent International, L.P.",
+   "percentOfClass": 58.54,
+   "sharesOwned": 62493676,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "g limited liability company interests of AIDH TopCo, LLC (the \"Definitive OpCo Units\"), in each case, that are not already owned by the Advent Funds and Jason Krantz for an all-cash purchase price of $1.02 per share of Common Stock and an equivalent amount per Definitive OpCo Unit (the \"Proposed Transaction\").",
+    "mpany interests of AIDH TopCo, LLC (the Definitive OpCo Units ), in each case, that are not already owned by Advent and stockholder Jason Krantz, as described below, for an all-cash purchase price of $1.02 per share of Class A Common Stock and an equivalent amount per Definitive Opco Unit (the Potential Transaction ).",
+    "The proposed purchase price represents a premium of 36% to the Company s 60-day volume-weighted average daily trading price of $0.75 per share of Class A Common Stock as of market close on August 31, 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1034196/000114036126035412/0001140361-26-035412-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "AMG Pantheon Infrastructure Fund, LLC",
+   "filer": "BlueArc Capital Management, LLC",
+   "percentOfClass": 20.4,
+   "sharesOwned": 4933746.14,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "eement, the \"October 2025 Subscription Agreements\"), the Reporting Persons acquired Class S Units of beneficial interest of the Issuer (the \"Class S Units\") on October 24, 2025 at a purchase price of $10.22 per Class S Unit (the \"Current Acquisition\").",
+    "The purchase price paid by Pantheon Infrastructure (QP) in the Current Acquisition was $19,245,915.11.",
+    "The purchase price paid by Pantheon Infrastructure (QP) (TE Onshore) in the Current Acquisition was $5,754,084.89.",
+    "Accordingly, the aggregate purchase price paid for the Current Acquisition pursuant to the October 2025 Subscription Agreements was $25,000,000.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2046200/000110465926104597/0001104659-26-104597-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "AMG Pantheon Infrastructure Fund, LLC",
+   "filer": "BlueArc Capital Management, LLC",
+   "percentOfClass": 21.3,
+   "sharesOwned": 8613598.95,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "n Agreement, the \"April 2026 Subscription Agreements\"), the Reporting Persons acquired Class S Units of beneficial interest of the Issuer (the \"Class S Units\") on April 1, 2026 at a purchase price of $10.87 per Class S Unit (the \"Current Acquisition\").",
+    "The purchase price paid by Pantheon Infrastructure (QP) in the Current Acquisition was $31,127,494.40.",
+    "The purchase price paid by Pantheon Infrastructure (QP) (TE Onshore) in the Current Acquisition was $8,872,505.59.",
+    "Accordingly, the aggregate purchase price paid for the Current Acquisition pursuant to the April 2026 Subscription Agreements was $39,999,999.99."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2046200/000110465926104611/0001104659-26-104611-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Definitive Healthcare Corp.",
+   "filer": "Jason Ronald Krantz",
+   "percentOfClass": 17.6,
+   "sharesOwned": 22497978,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On November 7, 2022, the Reporting Person purchased 450,000 shares of Class A Common Stock in the open market at a price of $11.54 per share, for an aggregate purchase price of approximately $5,191,650.",
+    "tstanding shares of the Issuer's Class A Common Stock and all of the LLC Units, in each case, that are not already owned by the Advent Funds and the Reporting Person for an all-cash purchase price of $1.02 per share of Class A Common Stock and an equivalent amount per LLC Unit (the \"Advent Proposed Transaction\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1861795/000119312526379428/0001193125-26-379428-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Dynatrace, Inc.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 5,
+   "sharesOwned": 14464343,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773383/000136157026000017/0001361570-26-000017-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 133005,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "nto a letter agreement, pursuant to which the Issuer issued to 3i, LP (a) 100 shares of Series B Preferred Stock, (b) Warrants to purchase 3,077 shares of Common Stock at an initial exercise price of $3.62 per share, (c) 7,637 shares of Series C Preferred Stock and (d) Warrants to purchase 1,053,969 shares of Common Stock for an initial exercise price of $3.",
+    "of (a) $6,137,000 retained by 3i, LP to satisfy overdue cash true-up payments pursuant to Section 6(b) of the Certificate of Designation of Rights and Preferences of the Series C Preferred Stock, (b) $100,000 retained by 3i, LP to pay the fees of its legal counsel in connection with the purchase of the Issuer's securities by it and (c) $1,500,000 paid to the Issuer in immediately available funds.",
+    "The New Transaction is set forth below: Entity Trade Date Transaction Type Number of Shares of Common Stock Price 3i, LP 09-02-2026 Purchase 3,248 $ 2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001702/0001753926-26-001702-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ACCURAY INC",
+   "filer": "The TCW Group, Inc., on behalf of the TCW Business Unit",
+   "percentOfClass": 18.7,
+   "sharesOwned": 27527916,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Issuance consists of (i) $15.0 million in cash, which was paid upon signing of the Purchase Agreement (the \"Cash Investment\") and (ii) the conversion of $40.",
+    "repayments, (iv) provide that if the Purchase Agreement is terminated, the Cash Investment is deemed to be a secured obligation under the Financing Agreement and subject to repayment, together with a $15.0 million fee, upon repayment or satisfaction of the obligations (or earlier acceleration thereof), (v) provide for an additional $5.",
+    "3 , in each case, without consideration or for consideration or having a combined purchase and conversion, exchange or exercise price of less than $1.",
+    "3 , in each case, without consideration or for consideration or having a combined purchase and conversion, exchange or exercise price of less than $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1138723/000110465926104846/0001104659-26-104846-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ALLURION TECHNOLOGIES, INC.",
+   "filer": "RTW Investments, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 67441,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1964979/000149321526000166/0001493215-26-000166-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "With the withdrawal of the proposal to Array, TDS expects to recommence repurchases of TDS Common Shares under its previously announced share repurchase programs, including the additional $500 million share repurchase authorization announced in November 2025.",
+    "As of June 30, 2026, approximately $523.9 million remained available under TDS s share repurchase programs."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/821130/000105151226000071/0001051512-26-000071-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hyperscale Data, Inc.",
+   "filer": "Ault &amp; Company, Inc.",
+   "percentOfClass": 66.1,
+   "sharesOwned": 283316065,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Ault with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $357,500, including brokerage commissions.",
+    "Horne with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $53,763, including brokerage commissions.",
+    "rectly by Ault & Company with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $3,270,070, including brokerage commissions.",
+    "The purchase price of the 4,000 shares of Series H Convertible Preferred Stock owned directly by Ault & Company, which are currently convertible into 20,345,880 Class A Shares is $4,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1212502/000092189526002467/0000921895-26-002467-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Alithya Group inc.",
+   "filer": "Ghyslain Rivard",
+   "percentOfClass": 9.84,
+   "sharesOwned": 9632964,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1734520/000119312526380647/0001193125-26-380647-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Atlanta Braves Holdings, Inc.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 550,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1958140/000080724926000081/0000807249-26-000081-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+   "filer": "Campalier, S.A. de C.V.",
+   "percentOfClass": 51.36,
+   "sharesOwned": 20278497,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1788257/000110465926104418/0001104659-26-104418-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BlackRock ESG Capital Allocation Term Trust",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 13.67,
+   "sharesOwned": 13593042,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $202,066,266 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1864843/000106299326004786/0001062993-26-004786-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RedCloud Holdings plc",
+   "filer": "Byland Christina Elisabeth",
+   "percentOfClass": 38.39,
+   "sharesOwned": 29146907,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2070781/000149315226041237/0001493152-26-041237-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1737364/000173736426000005/0001737364-26-000005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CDT Equity Inc.",
+   "filer": "Corvus Capital Ltd.",
+   "percentOfClass": 43.7,
+   "sharesOwned": 5693706,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "change as consideration the Issuer issued to the Investors pre-funded warrants (the \"Pre-Funded Warrants\") to purchase up to an aggregate of 12,131,770 shares of Common Stock, at an exercise price of $0.0001 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1896212/000175392626001696/0001753926-26-001696-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Elastic N.V.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 4.9,
+   "sharesOwned": 5249555,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1707753/000136157026000018/0001361570-26-000018-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TruBridge, Inc.",
+   "filer": "Ocho Investments LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "At the Effective Time, each Share owned by the Reporting Persons immediately prior to the Effective Time was automatically converted into the right to receive $26.25 per Share in cash, without interest (the \"Per Share Merger Consideration\"), pursuant to the Merger Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1665159/000109690626001329/0001096906-26-001329-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RedCloud Holdings plc",
+   "filer": "Senn Nikolaus Beat",
+   "percentOfClass": 13.52,
+   "sharesOwned": 10286524,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226041238/0001493152-26-041238-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "With the withdrawal of the proposal to Array, TDS expects to recommence repurchases of TDS Common Shares under its previously announced share repurchase programs, including the additional $500 million share repurchase authorization announced in November 2025.",
+    "As of June 30, 2026, approximately $523.9 million remained available under TDS s share repurchase programs."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1051512/000091311526000012/0000913115-26-000012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Tutor Separate Property Trust 8 31 2026 10,000 $89.86 (1) Open Market Sale Tutor Marital Property Trust 8 31 2026 1,500,000 $85."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/77543/000090613426000014/0000906134-26-000014-index.htm"
+  }
+ ]
+}

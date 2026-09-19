@@ -1,0 +1,390 @@
+{
+ "date": "2026-08-21",
+ "generated": "2026-09-19T23:21:35.706Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Global Water Resources, Inc.",
+    "ticker": "GWRS",
+    "cik": "0001434728"
+   },
+   "owners": [
+    {
+     "name": "Levine Jonathan L",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 651618,
+   "avgPrice": 8.85,
+   "value": 5766819,
+   "tradeDates": [
+    "2026-08-20"
+   ],
+   "sharesAfter": 12777908,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026058502/0001628280-26-058502-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Global Water Resources, Inc.",
+    "ticker": "GWRS",
+    "cik": "0001434728"
+   },
+   "owners": [
+    {
+     "name": "Cohn Andrew M.",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 139343,
+   "avgPrice": 8.85,
+   "value": 1233186,
+   "tradeDates": [
+    "2026-08-20"
+   ],
+   "sharesAfter": 2701350.437,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1696663/000162828026058496/0001628280-26-058496-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 50000,
+   "avgPrice": 22.75,
+   "value": 1137500,
+   "tradeDates": [
+    "2026-08-21"
+   ],
+   "sharesAfter": 8916117,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000045/0001221359-26-000045-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Air Water Ventures Ltd",
+   "filer": "Inflection Point Asset Management LLC",
+   "percentOfClass": 40.5,
+   "sharesOwned": 15391525,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "127 PubCo Series A Preferred Shares and (ii) PubCo Series A Investor Warrants to purchase 4,204,096 Ordinary Shares, subject to adjustment, initially exercisable for $12.00 per share.",
+    "IPF acquired such securities in exchange for Air Water Holdings Series A-1 Preferred Shares and warrants to purchase Air Water Holdings Warrants that IPF acquired for cash investments of $20,000,000 into Air Water Ventures Holdings Limited and its predecessor from working capital between July 2025 and June 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092314/000121390026092779/0001213900-26-092779-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Cue Biopharma, Inc.",
+   "filer": "Shao-Lee Lin",
+   "percentOfClass": 6.2,
+   "sharesOwned": 467166,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "shares of Common Stock (the \"Pre-Funded Warrants\") and (ii) accompanying Warrants to purchase an aggregate of up to 45,453 shares of Common Stock (the \"Warrants\"), for an aggregate purchase price of $999,966."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1645460/000172509226000015/0001725092-26-000015-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "IMMERSION CORP",
+   "filer": "Singer Eric",
+   "percentOfClass": 5.5,
+   "sharesOwned": 1826961,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1058811/000092189526002269/0000921895-26-002269-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "JIN MEDICAL INTERNATIONAL LTD.",
+   "filer": "Wang Erqi",
+   "percentOfClass": 6.77,
+   "sharesOwned": 5306307,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ernational Limited: British Virgin Islands On July 21, 2026, the Issuer repurchased from Jolly Harmony Enterprises Limited (\"Jolly Harmony\") 3,769,057 Class A Ordinary Shares at a purchase price of US$1.641 per share, for aggregate consideration of US$6,185,022.",
+    "Following the repurchase, the Issuer allotted and issued to Jolly Harmony 3,769,057 Class B Ordinary Shares at an issue price of US$1.641 per share, for aggregate consideration of US$6,185,022."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1837821/000121390026092631/0001213900-26-092631-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JEWETT CAMERON TRADING CO LTD",
+   "filer": "AJB Investment Fund II, LP",
+   "percentOfClass": 10.7,
+   "sharesOwned": 375067,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 375,067 Shares beneficially owned by AJB Fund II and AJB Capital is approximately of $800,685, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1536588/000153658826000027/0001536588-26-000027-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 54.81,
+   "sharesOwned": 1870198.22,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "33 $11.17 BBH* Class S Units of Beneficial Interest Purchase 8/20/2026 190,609."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003185/0000929638-26-003185-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CalciMedica, Inc.",
+   "filer": "Bering Partners II GP, L.L.C.",
+   "percentOfClass": 9.99,
+   "sharesOwned": 3553398,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1811744/000119312526361273/0001193125-26-361273-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Brera Holdings PLC",
+   "filer": "Ron Sade",
+   "percentOfClass": 3.2,
+   "sharesOwned": 2279238,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Haklili purchased 6,006 Ordinary Shares for approximately $38,650 and sold 16,005 Ordinary Shares for proceeds of approximately $362,696.",
+    "Almheiri for consideration of approximately $200,000.",
+    "Alnuaimi for consideration of approximately $200,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1939965/000121390026092342/0001213900-26-092342-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "comScore, Inc.",
+   "filer": "Charter Communications, Inc.",
+   "percentOfClass": 49.99,
+   "sharesOwned": 15090681,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036126034034/0001140361-26-034034-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Charter Communications, Inc.",
+   "filer": "Liberty Broadband Corporation",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036126034050/0001140361-26-034050-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "comScore, Inc.",
+   "filer": "Liberty Broadband Corporation",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1158172/000114036126034046/0001140361-26-034046-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CollPlant Biotechnologies Ltd",
+   "filer": "Loewenbaum Lilian S.",
+   "percentOfClass": 0.9,
+   "sharesOwned": 186289,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1631487/000110465926099668/0001104659-26-099668-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Decent Holding Inc.",
+   "filer": "Dingxin Sun",
+   "percentOfClass": 41.58,
+   "sharesOwned": 921040,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Sun, for a total consideration of US$1,302.60 (the \"First Consideration\").",
+    "Sun purchased 400,000 Class B Ordinary Shares from the Company at a purchase price of $2.00 per share ( the \"Second Consideration\").",
+    ", a Cayman Islands exempted company (the Company ) at a subscription price of US$2 per share, for a total consideration of US$800,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526003675/0001185185-26-003675-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Diginex Ltd",
+   "filer": "Rhino Ventures Limited",
+   "percentOfClass": 40.1,
+   "sharesOwned": 33048073,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the A&R SPA, the Issuer agreed to acquire all of the issued and outstanding share capital of Resulticks, held by the Sellers, in exchange for US$1.",
+    "The \"51% Warrant\" is the 4,170,520 warrants to purchase 51% of the outstanding Ordinary Shares at time of exercise at a price of $6.13 per warrant, which was granted by the Issuer to Rhino Cayman on July 15, 2024 and expires on May 27, 2029.",
+    "On August 17, 2026, Rhino Cayman sold 6,908,540 Ordinary Shares in three separate private transactions for aggregate consideration of $6,908,540 or $1.00 per share.",
+    "Pursuant to the A&R SPA, the Issuer agreed to acquire all of the issued and outstanding share capital of Resulticks, held by the Sellers, in exchange for US$1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226039755/0001493152-26-039755-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Koninklijke Philips NV",
+   "filer": "Giovanni Agnelli B.V.",
+   "percentOfClass": 19.03,
+   "sharesOwned": 185932684,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1589122/000119312526360944/0001193125-26-360944-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Granite Ridge Resources, Inc.",
+   "filer": "GREP GP III, LLC",
+   "percentOfClass": 39.2,
+   "sharesOwned": 51648048,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "d Vesting of Restricted Stock On September 18, 2023, the following Filing Parties made open market acquisitions of shares of Common Stock: Matthew Miller acquired 17,284 shares at prices ranging from $5.73 to $5.",
+    "85 per share; Griffin Perry acquired 2,000 shares at a price of $5.76 per share, Thaddeus Darden acquired 20,000 shares at a price of $5.",
+    "74 per share, and Kirk Lazarine acquired 10,000 shares at a price of $5.75 per share.",
+    "On November 30, 2023, Thaddeus Darden acquired 10,000 shares at a price of $5.92 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1950552/000110465926099781/0001104659-26-099781-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "filer": "Hyperscale Data, Inc.",
+   "percentOfClass": 36.6,
+   "sharesOwned": 1109233,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "&C that were purchased directly by A&C with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $18,824.80, including brokerage commissions.",
+    "were purchased directly by Alpha Fund with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $105,815.32, including brokerage commissions.",
+    "ere purchased directly by Ault Lending with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $2,275,617.33, including brokerage commissions.",
+    "owned by Ault Lending that were purchased by Ault Lending pursuant to the Stock Purchase Agreement (the \"January Purchase Agreement\") with JLA Realty Associates LLC (\"JLA\") dated January 16, 2026, is $1,800,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/896493/000092189526002270/0000921895-26-002270-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MEDIFAST INC",
+   "filer": "Steamboat Capital Partners, LLC",
+   "percentOfClass": 7.1,
+   "sharesOwned": 790693,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Shares as to which this report on Schedule 13D is being filed were acquired at an aggregate price (excluding commissions) of approximately $8,360,835 and were purchased by clients of IA with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/910329/000121390026092590/0001213900-26-092590-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Veradermics, Incorporated",
+   "filer": "Montanova Capital, LLC",
+   "percentOfClass": 8.8,
+   "sharesOwned": 3718970,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "adding the text set forth below after the last paragraph: Open Market Sales On August 19, 2026, (i) Averill Master Fund sold 690,601 shares of Common Stock in the open market at a per share price of $107.25, and (ii) Averill Madison Master Fund sold 59,399 shares of Common Stock in the open market, at a per share price of $107.",
+    "Pre-Funded Warrant Exercise On August 20, 2026, (i) Averill Master Fund exercised Pre-Funded Warrants to purchase an aggregate of 149,000 shares of the Issuer's Common Stock for $0.00001 per share, and (ii) Averill Madison Master Fund exercised Pre-Funded Warrants to purchase an aggregate of 151,000 shares of the Issuer's Common Stock for $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1569064/000089914026000948/0000899140-26-000948-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Nerdy Inc.",
+   "filer": "Technology Crossover Management VIII, Ltd.",
+   "percentOfClass": 14.2,
+   "sharesOwned": 1372420,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1819404/000110465926099765/0001104659-26-099765-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Palomino Laboratories Inc.",
+   "filer": "Richard Ogawa",
+   "percentOfClass": 6.9,
+   "sharesOwned": 1882500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1568078/000149315226039653/0001493152-26-039653-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Stablecoin Development Corp",
+   "filer": "Sky Frontier Foundation",
+   "percentOfClass": 9.9,
+   "sharesOwned": 5617689,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2137030/000143774926028685/0001437749-26-028685-index.htm"
+  }
+ ]
+}

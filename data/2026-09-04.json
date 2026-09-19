@@ -1,0 +1,325 @@
+{
+ "date": "2026-09-04",
+ "generated": "2026-09-19T23:35:03.226Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Liberty Latin America Ltd.",
+    "ticker": "LILA",
+    "cik": "0001712184"
+   },
+   "owners": [
+    {
+     "name": "DE ANGOITIA ALFONSO",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 476190,
+   "avgPrice": 20.9548,
+   "value": 9978488,
+   "tradeDates": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02"
+   ],
+   "sharesAfter": 476190,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1724519/000172451926000010/0001724519-26-000010-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Fortress Net Lease REIT",
+    "ticker": "N/A",
+    "cik": "0001966394"
+   },
+   "owners": [
+    {
+     "name": "TIEDEMANN ADVISORS, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "TTC MULTI-STRATEGY FUND QP, LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "AlTi Wealth &amp; Capital Solutions Holdings, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 465142,
+   "avgPrice": 10.7494,
+   "value": 5000000,
+   "tradeDates": [
+    "2026-09-01"
+   ],
+   "sharesAfter": 465142.2405,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1972890/000091957426006190/0000919574-26-006190-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "PIMCO Flexible Credit Income Fund",
+    "ticker": "PFLEX",
+    "cik": "0001688554"
+   },
+   "owners": [
+    {
+     "name": "Steiner Jason Robert",
+     "roles": [
+      "SEE REMARKS"
+     ]
+    }
+   ],
+   "shares": 148827,
+   "avgPrice": 6.82,
+   "value": 1015000,
+   "tradeDates": [
+    "2026-09-02"
+   ],
+   "sharesAfter": 148826.979,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1688554/000177559626000003/0001775596-26-000003-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "MSCI Inc.",
+    "ticker": "MSCI",
+    "cik": "0001408198"
+   },
+   "owners": [
+    {
+     "name": "Taneja Rajat",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 1786,
+   "avgPrice": 560,
+   "value": 1000160,
+   "tradeDates": [
+    "2026-09-02"
+   ],
+   "sharesAfter": 5404,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000153260126000007/0001532601-26-000007-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "AMG Pantheon Infrastructure Fund, LLC",
+   "filer": "BlueArc Capital Management, LLC",
+   "percentOfClass": 32.3,
+   "sharesOwned": 17285425.04,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ent, the \"September 2026 Subscription Agreements\"), the Reporting Persons acquired Class S Units of beneficial interest of the Issuer (the \"Class S Units\") on September 1, 2026 at a purchase price of $11.46 per Class S Unit (the \"Current Acquisition\").",
+    "The purchase price paid by Pantheon Infrastructure (QP) in the Current Acquisition was $77,712,475.74.",
+    "The purchase price paid by Pantheon Infrastructure (QP) (TE Onshore) in the Current Acquisition was $21,666,651.26.",
+    "Accordingly, the aggregate purchase price paid for the Current Acquisition pursuant to the September 2026 Subscription Agreements was $99,379,127."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2046200/000110465926105535/0001104659-26-105535-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+   "filer": "Nexus Capital Investments, Inc.",
+   "percentOfClass": 79.6,
+   "sharesOwned": 26700000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "dent and Secretary, 125 Old Monroe Road, Athens, GA, 30606 NONE NONE USA The Reporting entity acquired the 26,700,000 shares of common stock of BFNH in a private transaction for the purchase price of $400,000, and such funds were obtained through operational working capital."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000141/0001091818-26-000141-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VOLITIONRX LTD",
+   "filer": "Lagoda Investment Management, L.P.",
+   "percentOfClass": 7.4,
+   "sharesOwned": 1652005,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The warrants reported herein consist of (i) warrants to purchase 46,055 shares of Common Stock at an adjusted exercise price of $12.00 per share, expiring in October 2030 (the \"October 2025 Warrants\"), and (ii) warrants to purchase 125,000 shares of Common Stock at an exercise price of $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1632108/000149315226041611/0001493152-26-041611-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Radiopharm Theranostics Limited",
+   "filer": "Lantheus Omega, LLC",
+   "percentOfClass": 20.9,
+   "sharesOwned": 792958513,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "\"December Issuance\") and (iv) options to purchase 255,000,000 Ordinary Shares issued to Lantheus Omega, LLC on December 9, 2025 in connection with the December Issuance, with an exercise price of AUD$0.039 per share and expiring on October 31, 2027 (the \"Options\").",
+    "C on December 9, 2025 and (iv) options to purchase 255,000,000 Ordinary Shares issued to Lantheus Omega, LLC on December 9, 2025 in connection with the December Issuance, with an exercise price of AUD$0.039 per share and expiring on October 31, 2027.",
+    "C on December 9, 2025 and (iv) options to purchase 255,000,000 Ordinary Shares issued to Lantheus Omega, LLC on December 9, 2025 in connection with the December Issuance, with an exercise price of AUD$0.039 per share and expiring on October 31, 2027.",
+    "pursuant to a Share Subscription Agreement dated June 2024 (the \"2024 Subscription Agreement\"), Lantheus Omega purchased from the Issuer, in a private placement, (i) 149,625,180 Ordinary Shares at AUD$0.05 per Ordinary Share (the \"August Subscription Shares\") and (ii) 149,625,180 options, each to acquire one Ordinary Share per option at an exercise price of AUD$0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526383754/0001193125-26-383754-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 63.39,
+   "sharesOwned": 2669293.26,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "00 $11.20 BBH* Class S Units of Beneficial Interest Purchase 8/31/2026 23,152.",
+    "27 $11.23 BBH* Class S Units of Beneficial Interest Purchase 9/01/2026 40,071.",
+    "24 $11.23 BBH* Class S Units of Beneficial Interest Purchase 9/02/2026 178,984.",
+    "86 $11.23 BBH* Class S Units of Beneficial Interest Purchase 9/03/2026 13,357."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003464/0000929638-26-003464-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Addex Therapeutics Ltd.",
+   "filer": "Timothy Mark Dyer",
+   "percentOfClass": 9.01,
+   "sharesOwned": 19165714,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574232/000110465926105480/0001104659-26-105480-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BNB PLUS CORP.",
+   "filer": "Comstock MultiChain Fund, L.P.",
+   "percentOfClass": 9.9,
+   "sharesOwned": 687815,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/744452/000189261326000008/0001892613-26-000008-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GeoPark Limited",
+   "filer": "Colden Investments S.A.",
+   "percentOfClass": 27.6,
+   "sharesOwned": 17915791,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Governance Agreement, PEH has an obligation to launch a post-closing tender offer to purchase any and all issued and outstanding equity securities of the Issuer within 90 days at $12.22 per share (capped at $100 million in aggregate).",
+    "offer to purchase any and all issued and outstanding equity securities of the Company (other than securities of the Company Beneficially Owned by PEH or its Affiliates) at a price per share equal to $12.22, subject to a maximum tender consideration of $100,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2117865/000119312526383916/0001193125-26-383916-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "The Gap, Inc.",
+   "filer": "John J. Fisher",
+   "percentOfClass": 13,
+   "sharesOwned": 45799467,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1079847/000110465926105520/0001104659-26-105520-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "The Gap, Inc.",
+   "filer": "Robert J. Fisher",
+   "percentOfClass": 13,
+   "sharesOwned": 45620397,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1079848/000110465926105518/0001104659-26-105518-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Granite Ridge Resources, Inc.",
+   "filer": "GREP GP III, LLC",
+   "percentOfClass": 39.2,
+   "sharesOwned": 51648048,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1950552/000110465926105567/0001104659-26-105567-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Perspective Therapeutics, Inc.",
+   "filer": "Lantheus Holdings, Inc.",
+   "percentOfClass": 10,
+   "sharesOwned": 11440513,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526383775/0001193125-26-383775-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "QHSLab, Inc.",
+   "filer": "Marvin Smollar Family Trust dtd 2/13/2023",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2130246/000213024626000004/0002130246-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RUM Group Inc.",
+   "filer": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+   "percentOfClass": 50.3,
+   "sharesOwned": 261485350,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1830081/000110465926105546/0001104659-26-105546-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "eToro Group Ltd.",
+   "filer": "Spark Capital II, L.P.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1407645/000119312526383845/0001193125-26-383845-index.htm"
+  }
+ ]
+}

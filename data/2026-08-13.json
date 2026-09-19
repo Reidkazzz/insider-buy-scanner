@@ -1,0 +1,429 @@
+{
+ "date": "2026-08-13",
+ "generated": "2026-09-19T23:12:03.978Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "GOLDMAN SACHS GROUP INC",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "GOLDMAN SACHS &amp; CO. LLC",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "Broad Street Principal Investments, L.L.C.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS OFFSHORE INVESTMENTS, SLP",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "West Street Life Sciences I, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS EMP OFFSHORE INVESTMENTS, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS EMP ONSHORE INVESTMENTS, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    }
+   ],
+   "shares": 585000,
+   "avgPrice": 17.5812,
+   "value": 10285000,
+   "tradeDates": [
+    "2026-08-05",
+    "2026-08-06"
+   ],
+   "sharesAfter": 85000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000088698226000495/0000886982-26-000495-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "WALSH COLIN",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 585000,
+   "avgPrice": 17.5812,
+   "value": 10285000,
+   "tradeDates": [
+    "2026-08-05",
+    "2026-08-06"
+   ],
+   "sharesAfter": 85000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000186617426000009/0001866174-26-000009-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "BlossomHill Therapeutics, Inc.",
+   "filer": "Cormorant Global Healthcare Master Fund, LP",
+   "percentOfClass": 3.13,
+   "sharesOwned": 959090,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The shares of Series A Preferred Stock and Series B Preferred Stock were purchased in private sales for approximately $49,999,990.59 using working capital of the Reporting Persons.",
+    "The remaining 312,500 shares of Common Stock were purchased from the underwriters of the Issuer's initial public offering in connection with such offering for aggregate consideration of $5,000,000 (as reported in Item 5 below), the consideration for which was paid using working capital of the Reporting Persons.",
+    "In addition, Bihua Chen was granted a stock option to purchase up to 23,904 shares of Common Stock at a price of $16.00 per share for her service as a director of the Issuer, which option vests in equal monthly installments over three years from the August 6, 2026 date of grant.",
+    "On August 10, 2026, Cormorant Global Healthcare Master Fund, LP acquired 312,500 shares of Common Stock in the Issuer's initial public offering at a price of $16.00 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1839970/000092963826003026/0000929638-26-003026-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "EWSB Bancorp, Inc.",
+   "filer": "SPENCE LIMITED, LP",
+   "percentOfClass": 9.93,
+   "sharesOwned": 100710,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "purchased 40,710 shares for a purchase price of $10 per share in a subscription offering."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2013792/000094337426000385/0000943374-26-000385-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Marpai, Inc.",
+   "filer": "Calvin Steven Mitchell",
+   "percentOfClass": 9.3,
+   "sharesOwned": 1950000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "chase 1,300,000 shares of Common Stock (the \"Warrants\"), all of which were purchased by Benchmark on October 30, 2025 in a private placement conducted by the Issuer for an aggregate purchase price of $650,000.",
+    "actions with respect to the Issuer's Common Stock: On October 30, 2026, Benchmark purchased 650,000 Shares and 1,300,000 Warrants in a private placement from the Issuer for aggregate consideration of $650,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1844392/000175392626001485/0001753926-26-001485-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Allient Inc.",
+   "filer": "Juniper Targeted Opportunity Fund, L.P.",
+   "percentOfClass": 3.5,
+   "sharesOwned": 591704,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "sold 165,991 shares at an aggregate price of approximately $18,792,719, which includes brokerage commissions, in the open market."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/46129/000121465926010111/0001214659-26-010111-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "APPFOLIO, INC.",
+   "filer": "Maurice J Duca",
+   "percentOfClass": 21.2,
+   "sharesOwned": 6410682,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Duca Class A Shares 07/07/2026 Sale 3,500 $180.38 (1) Open market (2) Mr.",
+    "Duca Class A Shares 07/07/2026 Sale 1,600 $180.00 (3) Open market (2) Mr.",
+    "Duca Class A Shares 07/07/2026 Sale 5,600 $180.41 (4),(5) Open market (2) Mr.",
+    "Duca Class A Shares 07/10/2026 Sale 100 $180.00 Open market (2) Mr."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1433195/000093833326000016/0000938333-26-000016-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Ardagh Metal Packaging S.A.",
+   "filer": "Ardagh Holdings S.A.",
+   "percentOfClass": 76.02,
+   "sharesOwned": 454375314,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1689662/000110465926095238/0001104659-26-095238-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Sky Harbour Group Corp",
+   "filer": "BOSTON OMAHA Corp",
+   "percentOfClass": 40.5,
+   "sharesOwned": 18699773,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926027811/0001437749-26-027811-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BlackRock ESG Capital Allocation Term Trust",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 14.75,
+   "sharesOwned": 14675673,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $218,160,029 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1864843/000106299326004252/0001062993-26-004252-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Gran Tierra Energy Inc.",
+   "filer": "Equinox Partners Investment Management LLC",
+   "percentOfClass": 11.7,
+   "sharesOwned": 4149531,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate amount of funds used for the purchase of the Shares held by the Reporting Persons is approximately $22,163,850.39, including commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/938552/000101359426000888/0001013594-26-000888-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "RECANATI LEON",
+   "percentOfClass": 8.6,
+   "sharesOwned": 1354836,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "is hereby amended and supplemented by adding the following: On August 11, 2026, the Reporting Person purchased an additional 460,000 Ordinary Shares in open market transactions at a purchase price of $0.635 per share, for aggregate consideration of $292,100.",
+    "On August 11, 2026, the Reporting Person purchased an additional 460,000 Ordinary Shares of the Issuer in open market transactions at a price of $0.635 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004098/0001178913-26-004098-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "L.I.A. Pure Capital Ltd.",
+   "percentOfClass": 19.35,
+   "sharesOwned": 3057488,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000121390026088987/0001213900-26-088987-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Silence Therapeutics Plc",
+   "filer": "Richard Griffiths",
+   "percentOfClass": 7.97,
+   "sharesOwned": 14391498,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Griffiths sold an aggregate of 5,484,320 ADSs in open market transactions between August 10, 2026 and August 12, 2026 for aggregate sales proceeds of $87.7M.",
+    "1 Schedule 1 Transactions in ADSs past 60 days to 13 August 2026 Date Nature of the Transaction Reporting Person Amount of Securities Purchased/Sold Price 08/10/26 Sale Richard Griffiths 2,792,826 $ 16.00 08/10/26 Sale Richard Griffiths 100,000 $ 15."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1846370/000110465926096202/0001104659-26-096202-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Katapult Holdings, Inc.",
+   "filer": "HHCF Series 21 Sub, LLC",
+   "percentOfClass": 0.65,
+   "sharesOwned": 32262,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2095529/000110465926096042/0001104659-26-096042-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HeartBeam, Inc.",
+   "filer": "STROME MARK E",
+   "percentOfClass": 6.8,
+   "sharesOwned": 3764200,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "er and the Fund: Delaware On April 16, 2026, the Fund purchased 750,000 shares of common stock in connection with the issuer's underwritten public offering of 12,500,000 shares of its common stock at $0.80 per share.",
+    "The Fund funded the purchase in the amount of $600,000 with its own funds.",
+    "Shared dispositive power: 3,650,000 During the past 60 days, the Fund effected the following open market transactions with respect to shares of common stock: (a) on July 6, sold 56,393 shares at $0.69 per share; (b) on July 7, sold 14,007 shares at $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1779372/000121390026089158/0001213900-26-089158-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SHARING ECONOMY INTERNATIONAL INC.",
+   "filer": "Huang Ximing",
+   "percentOfClass": 65.6,
+   "sharesOwned": 4103939642,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2133079/000147793226004961/0001477932-26-004961-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OPENLANE, Inc. (f/k/a KAR Auction Services, Inc.)",
+   "filer": "Ignition Acquisition Holdings LP",
+   "percentOfClass": 6.9,
+   "sharesOwned": 8424728,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Stock by Ignition Acquisition Holdings LP in a secondary block trade (the \"Offering\"), and purchase by the Underwriter of the shares of Common Stock, at a price to Ignition Acquisition Holdings LP of $34.36 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1816546/000119312526349538/0001193125-26-349538-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Indivior Pharmaceuticals, Inc.",
+   "filer": "Oaktree Value Opportunities Fund, L.P.",
+   "percentOfClass": 0.32,
+   "sharesOwned": 385037,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "pen market transactions as follows (collectively, the \"Notes Transactions\" and, together with the Common Stock Transactions, the \"Transactions\"): Date Purchase/Sale Principal Amount Price 23-Jun Sale $91,000 118.",
+    "327 9-Jul Purchase $500,000 121."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1625297/000114036126032874/0001140361-26-032874-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MasTec, Inc.",
+   "filer": "Jorge Mas",
+   "percentOfClass": 14.8,
+   "sharesOwned": 11872111,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/920559/000119312526349231/0001193125-26-349231-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MasTec, Inc.",
+   "filer": "Jose Ramon Mas",
+   "percentOfClass": 7.7,
+   "sharesOwned": 6185090,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1079760/000119312526349228/0001193125-26-349228-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Marpai, Inc.",
+   "filer": "Calvin Steven Mitchell",
+   "percentOfClass": 6.9,
+   "sharesOwned": 2050000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "chase 1,300,000 shares of Common Stock (the \"Warrants\"), all of which were purchased by Benchmark on October 30, 2025 in a private placement conducted by the Issuer for an aggregate purchase price of $650,000.",
+    "The Preferred Shares were purchased by the Trust on July 31, 2026 in a private placement conducted by the Issuer for an aggregate purchase price of $3,000,000.",
+    "Mitchell's spouse purchased 29,000 shares for an average price of $2.08 per share at prices ranging from $1.",
+    "90 to $2.26 per share in open market purchases; On July 30, 2026, Mr."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1844392/000175392626001488/0001753926-26-001488-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Matinas BioPharma Holdings, Inc.",
+   "filer": "Sanitam Partners LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Stern caused SternAegis DBP to exercise Warrants to purchase 92,100 shares of Common Stock at a price of $0.6446 per share using the Warrant's cashless exercise mechanism.",
+    "Stern caused (i) AKSLP to exercise Warrants to purchase 344,710 shares of Common Stock and (ii) SternAegis DBP to exercise Warrants to purchase 630,335 shares of Common Stock, each at a price of $0.35 per share using personal funds, as further described in Item 5(c).",
+    "rs\") with certain of the holders of Warrants, including the Reporting Persons, pursuant to which holders agreed to exercise for cash all of their outstanding Warrants at the current exercise price of $0.35 per share in consideration for the Issuer's agreement to issue, in a private placement, new unregistered common stock purchase warrants (the \"New Warrants\").",
+    "ock and acquired New Warrants to purchase 630,335 shares of Common Stock The New Warrants will be exercisable beginning on the date Inducement Stockholder Approval is received at an exercise price of $0.35 per share and will expire on the five-year anniversary of the date Inducement Stockholder Approval is received."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1582554/000092189526002111/0000921895-26-002111-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ONE Group Hospitality, Inc.",
+   "filer": "Jonathan Segal",
+   "percentOfClass": 8,
+   "sharesOwned": 2544259,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1399520/000110465926096005/0001104659-26-096005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "USA Compression Partners, LP",
+   "filer": "Westerman Interests, Inc.",
+   "percentOfClass": 6.3,
+   "sharesOwned": 9072258,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "and J-W Power Company, pursuant to which the Buyer agreed to purchase all of the issued and outstanding capital stock of J-W Energy from Westerman LP for an aggregate purchase price of approximately $860.0 million, subject to certain customary adjustments as set forth in the Purchase Agreement (the \"Acquisition\"), consisting of (i) $430.",
+    "n LP sold an aggregate of 9,072,258 Common Units in a private sale to two purchasers pursuant to an exemption from registration under Rule 144 of the Securities Act of 1933, as amended, at a price of $23.75 per Common Unit, for aggregate gross proceeds of approximately $215,466,127.",
+    "n LP sold an aggregate of 9,072,258 Common Units in a private sale to two purchasers pursuant to an exemption from registration under Rule 144 of the Securities Act of 1933, as amended, at a price of $23.75 per Common Unit."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1522727/000143774926027802/0001437749-26-027802-index.htm"
+  }
+ ]
+}

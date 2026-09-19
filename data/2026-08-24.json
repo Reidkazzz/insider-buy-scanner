@@ -1,0 +1,583 @@
+{
+ "date": "2026-08-24",
+ "generated": "2026-09-19T23:23:10.841Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Securetech Innovations, Inc.",
+    "ticker": "SCTH",
+    "cik": "0001703157"
+   },
+   "owners": [
+    {
+     "name": "SITRA J SCOTT",
+     "roles": [
+      "Director",
+      "President &amp; CEO",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1000,
+   "avgPrice": 100000,
+   "value": 100000000,
+   "tradeDates": [
+    "2026-08-21"
+   ],
+   "sharesAfter": 11390,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1335253/000133525326000006/0001335253-26-000006-index.htm"
+  },
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "Blackstone Private Real Estate Credit &amp; Income Fund",
+    "ticker": "NONE",
+    "cik": "0002049733"
+   },
+   "owners": [
+    {
+     "name": "Blackstone Holdings IV L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP Management (Delaware) L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP Management L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings I L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings I/II GP L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Inc.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Group Management L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "SCHWARZMAN STEPHEN A",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 769893,
+   "avgPrice": 26.14,
+   "value": 20125000,
+   "tradeDates": [
+    "2026-06-23"
+   ],
+   "sharesAfter": 4781.943,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404071/000121390026093080/0001213900-26-093080-index.htm"
+  },
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "Blackstone Private Real Estate Credit &amp; Income Fund",
+    "ticker": "NONE",
+    "cik": "0002049733"
+   },
+   "owners": [
+    {
+     "name": "Blackstone Private Multi-Asset Credit &amp; Income Fund",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Private Credit Strategies LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 769893,
+   "avgPrice": 26.14,
+   "value": 20125000,
+   "tradeDates": [
+    "2026-06-23"
+   ],
+   "sharesAfter": 4781.943,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2057896/000121390026093079/0001213900-26-093079-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Blackstone Private Real Estate Credit &amp; Income Fund",
+    "ticker": "NONE",
+    "cik": "0002049733"
+   },
+   "owners": [
+    {
+     "name": "Blackstone Private Multi-Asset Credit &amp; Income Fund",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Private Credit Strategies LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Private Real Estate Credit &amp; Income Fund (Offshore Strategic Feeder Fund) L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "BREC Offshore Feeder GP, L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 272642,
+   "avgPrice": 26.14,
+   "value": 7126860,
+   "tradeDates": [
+    "2026-08-21"
+   ],
+   "sharesAfter": 28762.803,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2149592/000121390026093082/0001213900-26-093082-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Blackstone Private Real Estate Credit &amp; Income Fund",
+    "ticker": "NONE",
+    "cik": "0002049733"
+   },
+   "owners": [
+    {
+     "name": "Blackstone Holdings IV L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP Management (Delaware) L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings IV GP Management L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings I L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Holdings I/II GP L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Inc.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Blackstone Group Management L.L.C.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "SCHWARZMAN STEPHEN A",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 272642,
+   "avgPrice": 26.14,
+   "value": 7126860,
+   "tradeDates": [
+    "2026-08-21"
+   ],
+   "sharesAfter": 28762.803,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404071/000121390026093085/0001213900-26-093085-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": 104282,
+   "avgPrice": 0.21,
+   "recentTradeValue": 21899,
+   "snippets": [
+    "The aggregate purchase price of the 6,285,065 Shares beneficially owned by Star Equity Fund is approximately $1,237,245, excluding brokerage commissions.",
+    "Star Equity Fund Date Shares of Common Stock Purchased Price Per Share 07/02/2026 14,895 $0.21 07/08/2026 18,714 $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/40570/000191567326000034/0001915673-26-000034-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "CVRx, Inc.",
+   "filer": "Chernett Jorey",
+   "percentOfClass": 5.5,
+   "sharesOwned": 1461750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Chernett were acquired through private transactions using personal funds in the amount of $7,995,772."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1235912/000092189526002298/0000921895-26-002298-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Martin Marietta Materials Inc",
+   "filer": "LNA Holding SRL",
+   "percentOfClass": 15.4,
+   "sharesOwned": 10953543,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2149734/000149315226039879/0001493152-26-039879-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Mitesco, Inc.",
+   "filer": "Valania Brian",
+   "percentOfClass": 7.1,
+   "sharesOwned": 3421078,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Person beneficially owns 3,421,078 shares of Common Stock, consisting of: (i) 215,605 shares acquired on July 29, 2024; (ii) 205,473 shares acquired on July 10, 2026 at $0.08 per share; and (iii) 3,000,000 restricted shares acquired on August 3, 2026 at $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518526003697/0001185185-26-003697-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Suzano S.A.",
+   "filer": "Suzano Holding S.A.",
+   "percentOfClass": 45.5,
+   "sharesOwned": 575579791,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1446113/000199937126018562/0001999371-26-018562-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 2102780,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001610/0001753926-26-001610-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CalciMedica, Inc.",
+   "filer": "Alafi Capital Company LLC",
+   "percentOfClass": 19.9,
+   "sharesOwned": 7220101,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "9 OO Includes 5,112,345 shares of common stock held directly by the Reporting Person, 130,651 warrants to purchase common stock at an exercise price of $7.15, 923,227 warrants to purchase common stock at an exercise price of $0.",
+    "8033 and 923,227 warrants to purchase common stock at an exercise price of $1.00 held by the Reporting Person.",
+    "9 IN Includes 5,112,345 shares of common stock held directly by the Reporting Person, 130,651 warrants to purchase common stock at an exercise price of $7.15, 923,227 warrants to purchase common stock at an exercise price of $0.",
+    "8033 and 923,227 warrants to purchase common stock at an exercise price of $1.00 held by the Reporting Person."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1216017/000091228226001155/0000912282-26-001155-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amer Sports, Inc.",
+   "filer": "Tencent Holdings Limited",
+   "percentOfClass": 2.7,
+   "sharesOwned": 15794146,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "uang River sold an aggregate of 13,871,070 Ordinary Shares and Bright Adventure sold an aggregate of 1,923,076 Ordinary Shares through block trades in the open market at a weighted average price of US$33.86 per Ordinary Share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1988894/000119312526361710/0001193125-26-361710-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BILL Holdings, Inc.",
+   "filer": "Starboard Value LP",
+   "percentOfClass": 10.1,
+   "sharesOwned": 8639900,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 4,597,782 Shares beneficially owned by Starboard V&O Fund is approximately $205,728,347, excluding brokerage commissions (including $69,096,198 paid as consideration for Starboard V&O Fund's entry into certain forward purchase contracts providing for the purchase of 1,614,152 Shares).",
+    "The aggregate purchase price of the 681,182 Shares beneficially owned by Starboard S LLC is approximately $30,538,117, excluding brokerage commissions.",
+    "The aggregate purchase price of the 239,363 Shares beneficially owned by Starboard L Master is approximately $10,731,868, excluding brokerage commissions.",
+    "The aggregate purchase price of the 1,712,590 Shares beneficially owned by Starboard X Master is approximately $71,914,018, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1786352/000092189526002296/0000921895-26-002296-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Bit Digital, Inc",
+   "filer": "Geney Development Limited",
+   "percentOfClass": 12.2,
+   "sharesOwned": 50000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1710350/000121390026093214/0001213900-26-093214-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Blackstone Private Real Estate Credit &amp; Income Fund",
+   "filer": "BCRED X Holdings LLC",
+   "percentOfClass": 47.7,
+   "sharesOwned": 18628294.6,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for BREC-S's investment was $125,000.",
+    "The aggregate purchase price for BMACX's investment was $6,500,000.",
+    "The aggregate purchase price for BREC-S's investment was $626,859.68."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1464695/000121390026093081/0001213900-26-093081-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hertz Global Holdings, Inc.",
+   "filer": "CK Amarillo LP",
+   "percentOfClass": 50.9,
+   "sharesOwned": 181455469,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1852329/000090514826003880/0000905148-26-003880-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Neuronetics, Inc.",
+   "filer": "Chernett Jorey",
+   "percentOfClass": 13.92,
+   "sharesOwned": 10602988,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Chernett were purchased with personal funds for an aggregate purchase price of approximately $20,726,476.",
+    "These shares were purchased in multiple transactions at prices ranging from $3.13 to $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2042077/000092189526002299/0000921895-26-002299-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Global Water Resources, Inc.",
+   "filer": "Cohn Andrew M.",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 20, 2026, the Reporting Persons acquired 139,343 shares of Common Stock for total consideration of $1,233,185.55, pursuant to a Securities Purchase Agreement to which the Reporting Persons and Global Water Resources, Inc.",
+    "On August 20, 2026, the Reporting Persons acquired 139,343 shares of Common Stock for total consideration of $1,233,185.55, pursuant to a Securities Purchase Agreement to which the Reporting Persons and Global Water Resources, Inc."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1696663/000169666326000001/0001696663-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Concentra Group Holdings Parent, Inc.",
+   "filer": "Robert A. Ortenzio",
+   "percentOfClass": 5.3,
+   "sharesOwned": 6748222,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the Repurchase Agreement, the Company agreed to repurchase an aggregate of 1,000,000 shares of the Company's common stock from the Sellers in a privately negotiated transaction at a purchase price of $34.65 per share, for an aggregate purchase price of $34,650,000.",
+    "The purchase price for the Repurchased Shares shall be Thirty-Four Dollars and Sixty-Five Cents ($34.65) per share, for an aggregate purchase price of Thirty-Four Million Six Hundred Fifty Thousand Dollars ($34,650,000) (the Repurchase Price ).",
+    "45 $ 30.85 August 3, 2026 Open Market Sale Indirect The Rocco A.",
+    "65 $ 32.04 *The Reporting Persons undertake to provide to the SEC staff, upon request, full information regarding the number of shares purchased at each price within the ranges set forth in the table above."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2014596/000110465926100320/0001104659-26-100320-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Gossamer Bio, Inc.",
+   "filer": "D. E. Shaw Valence Portfolios, L.L.C.",
+   "percentOfClass": 5.7,
+   "sharesOwned": 27698267,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1009268/000110465926100440/0001104659-26-100440-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DATAVAULT AI INC.",
+   "filer": "Scilex Holding Company",
+   "percentOfClass": 17.2,
+   "sharesOwned": 163766229,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1682149/000119312526363607/0001193125-26-363607-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Fresenius Medical Care AG",
+   "filer": "Fresenius SE &amp; Co. KGaA",
+   "percentOfClass": 25.6,
+   "sharesOwned": 67181358,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1333141/000114036126034192/0001140361-26-034192-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TREDEGAR CORP",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000074/0000807249-26-000074-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Global Water Resources, Inc.",
+   "filer": "Levine Jonathan L",
+   "percentOfClass": 42.9,
+   "sharesOwned": 12833334,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "hedule 13D as previously amended is hereby further amended to add the following paragraphs: On October 6, 2025, Levine Investments Limited Partnership purchased 728,197 shares of the Common Stock for $7,500,435.20, $10.",
+    "On August 20, 2026, Levine Investments Limited Partnership purchased 651,618 shares of the Common Stock for $5,766,819.30, $8.",
+    "On August 20, 2026, Levine Investments Limited Partnership purchased 651,618 shares of the Common Stock for $5,766,819.30, $8."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1434728/000186279126000001/0001862791-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "purchased shares of Class A Common Stock Date Number of Shares of Class A Common Stock Purchased Weighted Average Price Per Share 05 15 2026 2,650 $37.50 Between February 26, 2026 (the date following the most recent Schedule 13D A filed by the Reporting Persons) and August 24, 2026, P.",
+    "Ryan Langston purchased shares of Class A Common Stock Date Number of Shares of Class A Common Stock Purchased Weighted Average Price Per Share 05 29 2026 2,800 $35."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1726978/000172697826000067/0001726978-26-000067-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Quaker Chemical Corporation",
+   "filer": "Gulf Hungary Holding Korlatolt Felelossegu Tarsasag",
+   "percentOfClass": 21.1,
+   "sharesOwned": 3639017,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1783455/000110465926100380/0001104659-26-100380-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HARTE HANKS INC",
+   "filer": "Radoff Bradley Louis",
+   "percentOfClass": 5.7,
+   "sharesOwned": 423447,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/45919/000092189526002295/0000921895-26-002295-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Namib Minerals",
+   "filer": "Mzilikazi Godfrey Khumalo",
+   "percentOfClass": 7.1,
+   "sharesOwned": 4000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "This Amendment is being filed to report (i) the sale of 4,886,996 Ordinary Shares by the Reporting Person in a series of broker assisted, open market transactions for average price of approximately $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2067269/000121390026093201/0001213900-26-093201-index.htm"
+  }
+ ]
+}

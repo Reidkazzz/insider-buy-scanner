@@ -1,0 +1,113 @@
+{
+ "date": "2026-09-01",
+ "generated": "2026-09-19T23:29:42.969Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Aura Minerals Inc.",
+    "ticker": "AUGO",
+    "cik": "0001468642"
+   },
+   "owners": [
+    {
+     "name": "Sousa Mauad Bruno",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 126000,
+   "avgPrice": 89.36,
+   "value": 11259360,
+   "tradeDates": [
+    "2026-08-28"
+   ],
+   "sharesAfter": 417356,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000026/0002117905-26-000026-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "ITT INC.",
+    "ticker": "ITT",
+    "cik": "0000216228"
+   },
+   "owners": [
+    {
+     "name": "Savi Luca",
+     "roles": [
+      "Director",
+      "President and CEO"
+     ]
+    }
+   ],
+   "shares": 5019,
+   "avgPrice": 199.56,
+   "value": 1001592,
+   "tradeDates": [
+    "2026-08-31"
+   ],
+   "sharesAfter": 267373,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/216228/000119312526378510/0001193125-26-378510-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Nutra Pharma Corp",
+   "filer": "Pure Raw Supplies, LLC",
+   "percentOfClass": 100,
+   "sharesOwned": 12000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1119643/000149315226041007/0001493152-26-041007-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Empery Digital Inc.",
+   "filer": "ATG Capital Opportunities Fund LP",
+   "percentOfClass": 16.3,
+   "sharesOwned": 4500000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2079674/000092189526002447/0000921895-26-002447-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Concentra Group Holdings Parent, Inc.",
+   "filer": "Robert A. Ortenzio",
+   "percentOfClass": 5.2,
+   "sharesOwned": 6648222,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2014596/000110465926104329/0001104659-26-104329-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OrthoPediatrics Corp.",
+   "filer": "Squadron Capital LLC",
+   "percentOfClass": 25,
+   "sharesOwned": 6526633,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 24, 2026, SC LLC sold an aggregate 4,000 shares of Common Stock in the open market for a weighted average price of $25.75.",
+    "On August 25, 2026, SC LLC sold an aggregate 16,300 shares of Common Stock in the open market for a weighted average price of $24.74.",
+    "On August 26, 2026, SC LLC sold an aggregate 18,000 shares of Common Stock in the open market for a weighted average price of $24.28.",
+    "On September 1, 2026, SC LLC sold an aggregate 10,131 shares of Common Stock in the open market for a weighted average price of $23.10."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1425450/000119312526378878/0001193125-26-378878-index.htm"
+  }
+ ]
+}

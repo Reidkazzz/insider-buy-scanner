@@ -1,0 +1,482 @@
+{
+ "date": "2026-09-09",
+ "generated": "2026-09-19T23:37:50.248Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Greenwave Technology Solutions, Inc.",
+    "ticker": "GWAV",
+    "cik": "0001589149"
+   },
+   "owners": [
+    {
+     "name": "Meeks Danny",
+     "roles": [
+      "Director",
+      "Chief Executive Officer",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 2152853,
+   "avgPrice": 3.716,
+   "value": 8000002,
+   "tradeDates": [
+    "2026-08-27"
+   ],
+   "sharesAfter": 2188354,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1589149/000149315226042006/0001493152-26-042006-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "PROSPECT CAPITAL CORP",
+    "ticker": "PSEC",
+    "cik": "0001287032"
+   },
+   "owners": [
+    {
+     "name": "Barry John F",
+     "roles": [
+      "Director",
+      "CHIEF EXECUTIVE OFFICER",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1217105,
+   "avgPrice": 2.24,
+   "value": 2726315,
+   "tradeDates": [
+    "2026-09-04"
+   ],
+   "sharesAfter": 90479988.44,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1294357/000129435726000015/0001294357-26-000015-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CIM GROUP, INC.",
+    "ticker": "NONE",
+    "cik": "0001498547"
+   },
+   "owners": [
+    {
+     "name": "RESSLER RICHARD S",
+     "roles": [
+      "Director",
+      "CEO &amp; President",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 526808,
+   "avgPrice": 5.14,
+   "value": 2707794,
+   "tradeDates": [
+    "2026-09-04"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1498547/000149854726000057/0001498547-26-000057-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "So Eric H. L.",
+     "roles": [
+      "Director",
+      "Executive Chair"
+     ]
+    }
+   ],
+   "shares": 95000,
+   "avgPrice": 11.805,
+   "value": 1121475,
+   "tradeDates": [
+    "2026-09-01"
+   ],
+   "sharesAfter": 4265014,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001254/0000912282-26-001254-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CYBIN INC.",
+    "ticker": "CYBN",
+    "cik": "0001833141"
+   },
+   "owners": [
+    {
+     "name": "Glavine Paul",
+     "roles": [
+      "Chief Growth Officer"
+     ]
+    }
+   ],
+   "shares": 90000,
+   "avgPrice": 11.5853,
+   "value": 1042677,
+   "tradeDates": [
+    "2026-08-31"
+   ],
+   "sharesAfter": 4071252,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001246/0000912282-26-001246-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Abits Group Inc",
+   "filer": "ARC Group International Ltd.",
+   "percentOfClass": 22.7,
+   "sharesOwned": 805353,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(the \"Shares\") were acquired for an aggregate of $8,500,000, consisting of $5.0 million cash and a promissory note for $3.",
+    "Arc Group International will pay an additional $5.0 million in cash within 30 days of February 1, 2027, if the Issuer does not acquire additional assets or business operations from a third party (a \"Business Acquisition\") by such date.",
+    "The aggregate purchase price for the Seller Shares shall be $8,500,000, plus the Additional Ordinary Shares or corresponding cash payment set forth in Section 2.",
+    "Company acquires additional assets or business operations from a third party (each, a Business Acquisition ), the Company shall issue additional Ordinary Shares to Deng, having an aggregate value of $5,000,000 (the Additional Ordinary Shares )."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2152924/000149315226042035/0001493152-26-042035-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Hornbeck Offshore Services, Inc.",
+   "filer": "ASOF HOS GP, LLC",
+   "percentOfClass": 23.7,
+   "sharesOwned": 61738413,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2152953/000110465926106410/0001104659-26-106410-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Swvl Holdings Corp",
+   "filer": "Abdalla Ali",
+   "percentOfClass": 38.9,
+   "sharesOwned": 6918145.5,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The securities reported herein were acquired on the Closing Date (as defined below) pursuant to the Securities Purchase Agreement (as defined below) for total consideration of approximately $10 million.",
+    "f August 24, 2026 (the \"Purchase Agreement\"), by and among Swvl Holdings Corp (the \"Issuer\") and Coefficient SWVL Holdings, LLC, Coefficient SWVL Holdings, LLC purchased an aggregate of 6,896,552 for $1.45 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2152744/000110465926106376/0001104659-26-106376-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Odysight.ai Inc.",
+   "filer": "M. Arkin (1999) Ltd.",
+   "percentOfClass": 20.4,
+   "sharesOwned": 4135724,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "purchased 4,132,232 shares of Common Stock from the Issuer for $2,000,000 and received warrants to purchase an aggregate of 6,198,348 shares of Common Stock.",
+    "exercised a warrant in part and acquired 336,135 shares of Common Stock in exchange for $200,000.",
+    "purchased 2,000,000 shares of Common Stock from the Issuer for $1,800,000 and received a warrant to purchase 2,000,000 shares of Common Stock.",
+    "exercised a warrant in part and acquired 192,220 shares of Common Stock in exchange for $1,029,338."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1321178/000117891326004462/0001178913-26-004462-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Blue Laser Fusion, Inc.",
+   "filer": "Shuji Nakamura",
+   "percentOfClass": 24.88,
+   "sharesOwned": 1966347,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "neously with the closing of the Merger, pursuant to which the Reporting Person purchased 9,091 shares of Common Stock in a private placement offering (the \"Private Placement\") at a price per share of $27.50."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1938570/000119312526385846/0001193125-26-385846-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Blue Laser Fusion, Inc.",
+   "filer": "Paul Rudy",
+   "percentOfClass": 6.16,
+   "sharesOwned": 486671,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1938570/000119312526386157/0001193125-26-386157-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Blue Laser Fusion, Inc.",
+   "filer": "Matthew Eitner",
+   "percentOfClass": 100,
+   "sharesOwned": 5000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The securities were acquired by Lucius Partners, LLC using working capital to purchase 5,000,000 shares of Common Stock at a price of $0.0001 per share, for a total purchase price of $500 on March 10, 2022."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1938570/000121390026098514/0001213900-26-098514-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Blue Laser Fusion, Inc.",
+   "filer": "Richard Ogawa",
+   "percentOfClass": 7.28,
+   "sharesOwned": 575508,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "neously with the closing of the Merger, pursuant to which the Reporting Person purchased 7,273 shares of Common Stock in a private placement offering (the \"Private Placement\") at a price per share of $27.50."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1938570/000149315226041924/0001493152-26-041924-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Cybin Inc.",
+   "filer": "Glavine Paul",
+   "percentOfClass": 5.8,
+   "sharesOwned": 4407456,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 31, 2026, the Reporting Person purchased 90,000 Issuer common shares at a purchase price of $11.5853 per share for a total of $1,042,677."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001247/0000912282-26-001247-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Cybin Inc.",
+   "filer": "So Eric H. L.",
+   "percentOfClass": 5.8,
+   "sharesOwned": 4423894,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 1, 2026, the Reporting Person purchased 95,000 common shares of the Issuer at a price of $11.805 per share, for a total purchase price of $1,121,475."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1833141/000091228226001255/0000912282-26-001255-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Fort Technology Inc",
+   "filer": "Nexera Technologies Ltd",
+   "percentOfClass": 71.8,
+   "sharesOwned": 11416863,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "and Common Shares and a warrant to purchase Common Shares received upon the conversion of the August 2025 Convertible Debentures (as defined below) purchased by the Reporting Person for approximately $1,597,653 using working capital.",
+    "t Shares\"), each entitling the holder thereof to acquire one Common Share for no additional consideration upon the achievement of certain pre-determined milestones, at a deemed price per share of CAD $1.198722, representing a post-closing equity interest in the Issuer of approximately 75.",
+    "ment with certain institutional investors pursuant to which, on February 23, 2026, the Reporting Person sold and transferred 714,286 Common Shares to such investors for aggregate consideration of CAD $928,571 (approximately US $680,000).",
+    "The Reporting Person participated in the August 2025 Private Placement and acquired August 2025 Convertible Debentures for gross proceeds of US $1,597,653, representing approximately 858,031 Common Shares on conversion."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092967/000121390026098398/0001213900-26-098398-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "GoPro, Inc.",
+   "filer": "Woodman Nicholas",
+   "percentOfClass": 20.3,
+   "sharesOwned": 46238278,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "on Form 8-K filed with the Securities and Exchange Commission on November 6, 2025), the Woodman Family Trust purchased 1,129,944 shares of Class A Common Stock from the Issuer at a purchase price of $1.77 per share, for an aggregate purchase price of approximately $2.",
+    "man Family Trust, as part of the same investment unit and without the payment of additional cash consideration, a warrant to purchase 19,280,205 shares of Class B Common Stock at an exercise price of $0.778 per share (the \"Warrant\").",
+    "The Woodman Family Trust paid an aggregate purchase price of $15,000,000 for the Note and the Warrant using funds from working capital.",
+    "s provided therein, the Company shall issue and sell to the Buyers, and the Buyers agree to purchase from the Company on the Closing Date (as defined below), Notes in an aggregate principal amount of $20,000,000 and the Warrants for the number of Warrant Shares specified on the Buyer Schedule hereto (the Closing )."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1500435/000110465926106446/0001104659-26-106446-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hyperscale Data, Inc.",
+   "filer": "Ault &amp; Company, Inc.",
+   "percentOfClass": 65.7,
+   "sharesOwned": 317418715,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Ault with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $417,675, including brokerage commissions.",
+    "Horne with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $84,983, including brokerage commissions.",
+    "Nisser with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $46,779, including brokerage commissions.",
+    "Cragun with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $18,654, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1212502/000092189526002517/0000921895-26-002517-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Blue Laser Fusion, Inc.",
+   "filer": "Matthew Eitner",
+   "percentOfClass": 13.4,
+   "sharesOwned": 1000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1938570/000121390026098515/0001213900-26-098515-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Republic Services, Inc.",
+   "filer": "Cascade Investment, L.L.C.",
+   "percentOfClass": 37.9,
+   "sharesOwned": 116166330,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1052192/000110465926106327/0001104659-26-106327-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Luckin Coffee Inc.",
+   "filer": "Centurium Holdings Ltd.",
+   "percentOfClass": 22.1,
+   "sharesOwned": 570974031,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1740904/000110465926106437/0001104659-26-106437-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Chemomab Therapeutics Ltd.",
+   "filer": "HBM Healthcare Investments (Cayman) Ltd.",
+   "percentOfClass": 12.5,
+   "sharesOwned": 80971680,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1534248/000110465926106301/0001104659-26-106301-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CLARION PARTNERS REAL ESTATE INCOME FUND INC.",
+   "filer": "Franklin Templeton, Inc.",
+   "percentOfClass": 68.2,
+   "sharesOwned": 93329,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "88,106 Shares were acquired on April 16, 2026 and a total purchase price of $1,051,085 was paid from FTI's working capital.",
+    ": 0 Shared power to dispose or to direct the disposition of the Shares: 0 On April 16, 2026, FTI purchased 88,106 Shares at a per share price of $11.35 to maintain capitalization and liquidity in th Shares on account of an investor rebalancing its holdings."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1762562/000003877726000254/0000038777-26-000254-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Commerce.com, Inc.",
+   "filer": "Pale Fire Capital SICAV a.s.",
+   "percentOfClass": 8.7,
+   "sharesOwned": 7176109,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 7,176,109 Shares beneficially owned by PFC SICAV is approximately $20,058,951, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1626450/000092189526002516/0000921895-26-002516-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LTD",
+   "filer": "Diana Shipping Inc.",
+   "percentOfClass": 5.47,
+   "sharesOwned": 2383585,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Transaction Date Transaction Type Number of Shares Purchase Price August 27, 2026 Open Market Sales 8,427 $ 26.13 (1) August 28, 2026 Open Market Sales 2,280 $ 26.",
+    "0 September 1, 2026 Open Market Sales 125,000 $ 26.02 (2) September 2, 2026 Open Market Sales 75,000 $ 26.",
+    "64 (3) September 2, 2026 Open Market Sales 75,000 $ 26.73 (4) September 3, 2026 Open Market Sales 75,000 $ 27.",
+    "18 (5) September 4, 2026 Open Market Sales 75,000 $ 27.51 (6) September 4, 2026 Open Market Sales 75,000 $ 27."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000091957426006214/0000919574-26-006214-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Dynatrace, Inc.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 4.9,
+   "sharesOwned": 14425877,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773383/000136157026000019/0001361570-26-000019-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RADCOM LTD",
+   "filer": "Lynrock Lake LP",
+   "percentOfClass": 16.4,
+   "sharesOwned": 2749417,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 2,749,417 Ordinary Shares reported herein is approximately $29,456,569, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1734341/000092189526002520/0000921895-26-002520-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1759774/000162828026061143/0001628280-26-061143-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SunPower Inc.",
+   "filer": "Thurman J. Rodgers",
+   "percentOfClass": 19.5,
+   "sharesOwned": 66307206,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On May 30, 2025, each of the Massey Trust and the Rodgers Trust purchased 150,000 shares of Common Stock at a weighted average price of $1.38, as previously reported on a Form 4 filed with the SEC on June 3, 2025.",
+    "On June 2, 2025, each the Massey Trust and the Rodgers Trust purchased 10,589 shares of Common Stock, each at a weighted average price of $1.49, as previously reported on a Form 4 filed with the SEC on June 4, 2025.",
+    "Subsequently, on June 3, 2025, each of the Massey Trust and the Rodgers Trust purchased 303,000 shares of Common Stock, each at a weighted average price of $1.68, as previously reported on a Form 4 filed with the SEC on June 5, 2025.",
+    "Report on Form 8-K filed with the SEC on April 22, 2026, on April 21, 2026 the Issuer entered into Note Purchase Agreements with each of the Living Trust and the Charitable Trust to issue the trusts $5.0 million principal amount of the 10% Notes and $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1183967/000121390026098417/0001213900-26-098417-index.htm"
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "date": "2026-08-05",
+ "generated": "2026-09-19T23:03:52.760Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "2023 ETF Series Trust",
+    "ticker": "NFRX",
+    "cik": "0001969674"
+   },
+   "owners": [
+    {
+     "name": "Harrison Street Real Assets Fund LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 372856,
+   "avgPrice": 26.82,
+   "value": 9999998,
+   "tradeDates": [
+    "2026-08-04"
+   ],
+   "sharesAfter": 4203172,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000009/0001687898-26-000009-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Apnimed, Inc.",
+    "ticker": "APMD",
+    "cik": "0001745648"
+   },
+   "owners": [
+    {
+     "name": "Morningside Venture Investments Ltd",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 312500,
+   "avgPrice": 16,
+   "value": 5000000,
+   "tradeDates": [
+    "2026-08-03"
+   ],
+   "sharesAfter": 7152713,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1745648/000090514826003483/0000905148-26-003483-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Privacore VPC Asset Backed Credit Fund",
+    "ticker": "NONE",
+    "cik": "0002066579"
+   },
+   "owners": [
+    {
+     "name": "Corbin Capital Partners, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Corbin Capital Partners GP, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Corbin ERISA Opportunity Fund, Ltd.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "CCP 575 Investment Accelerator, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 246548,
+   "avgPrice": 10.14,
+   "value": 2500000,
+   "tradeDates": [
+    "2026-08-03"
+   ],
+   "sharesAfter": 3721745.116,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2111448/000089534526000344/0000895345-26-000344-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Catalyst Acquisition Corp.",
+   "filer": "Catalyst Sponsor LLC",
+   "percentOfClass": 22.2,
+   "sharesOwned": 6020000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Person was $2,725,000.",
+    "On June 26, 2026, the Sponsor surrendered, for no consideration, 2,875,000 Founder Shares, which were canceled, resulting in the Sponsor holding 5,750,000 Founder Shares, at approximately $0.004 per share.",
+    "On July 27, 2026, simultaneously with the consummation of the Issuer's Initial Public Offering (the \"IPO\"), the Sponsor purchased 270,000 units (\"Placement Units\") of the Issuer at $10.",
+    "Founder Share Purchase Agreement between the Issuer and Sponsor On January 7, 2026, the Sponsor paid $25,000 to cover certain of the Issuer's offering costs in exchange for 8,625,000 Founder Shares."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2104391/000121390026085791/0001213900-26-085791-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "ETHAN ALLEN INTERIORS INC",
+   "filer": "DGB Investment, Inc.",
+   "percentOfClass": 4.1,
+   "sharesOwned": 1050000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 775,000 Shares owned directly by DGB Investment is approximately $17,233,047, including brokerage commissions.",
+    "The aggregate purchase price of the Call Options (as defined in Item 6 below) that are exercisable into 275,000 Shares owned directly by DGB Investment is approximately $1,079,555, including brokerage commissions.",
+    "The aggregate purchase price of the 90,000 Shares beneficially owned by Residence Trust is approximately $2,083,749, including brokerage commissions.",
+    "The aggregate purchase price of the 135,000 Shares beneficially owned by the Nieces and Nephews Trust is approximately $3,094,824, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1472520/000119380526001025/0001193805-26-001025-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Yarrow Bioscience, Inc.",
+   "filer": "ORBIMED ADVISORS LLC",
+   "percentOfClass": 9.97,
+   "sharesOwned": 266306,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1055951/000094787126000747/0000947871-26-000747-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CAMP4 THERAPEUTICS CORPORATION",
+   "filer": "5AM Ventures VI, L.P.",
+   "percentOfClass": 4.2,
+   "sharesOwned": 2625145,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In addition, the Issuer issued and sold to certain members of management and the Issuer's co-founders, an additional 39,306 Shares at a purchase price of $1.65 per share.",
+    "In the Second Closing, Ventures VII purchased 3,179,558 Pre-Funded Warrants for a total purchase price of $4.9 million, which was funded by capital contributions from the general and limited partners of Ventures VII."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1753037/000175303726000003/0001753037-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BJs RESTAURANTS INC",
+   "filer": "BJ's Act III, LLC",
+   "percentOfClass": 1.6,
+   "sharesOwned": 349152,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Shaich has sole voting and dispositive power (the \"2018 Trust\"); and - Warrants to purchase 876,949 shares of Common Stock with an exercise price of $26.94 per share for an aggregate purchase price of $35,322,578, which warrants were directly beneficially owned by BJ's Act III, LLC."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1750383/000121390026085704/0001213900-26-085704-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CTS CORP",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/26058/000080724926000060/0000807249-26-000060-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Viper Energy, Inc.",
+   "filer": "Diamondback Energy, Inc.",
+   "percentOfClass": 42.2,
+   "sharesOwned": 142156718,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "any adjustment to the Purchase Price and Buyer shall not be entitled to any further remedy under this Article 8 (i) with respect to any individual Title Defect having a Title Defect Amount less than $100,000 (the Title De Minimis Amount ) and (ii) with respect to any Title Defects which exceed the Title De Minimis Amount, until the sum of all such Title Defect Amounts exceeds 1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926091192/0001104659-26-091192-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GREENLIGHT CAPITAL RE, LTD.",
+   "filer": "EINHORN DAVID",
+   "percentOfClass": 18.8,
+   "sharesOwned": 6148655,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "transactions in the Ordinary Shares during the sixty day period prior to the filing of this Schedule 13D amendment, other than the Trust's sale to the Company of 106,060 Ordinary Shares at a price of $16.1435 per share on August 3, 2026 pursuant to a previously disclosed Ordinary Share Repurchase Agreement dated June 1, 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1240451/000092963826002882/0000929638-26-002882-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ELECTRONIC ARTS INC.",
+   "filer": "PUBLIC INVESTMENT FUND",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "tions, each share of common stock of the Issuer (the \"Common Stock\") issued and outstanding immediately prior to the Effective Time was cancelled and converted automatically into the right to receive $210.00 in cash, without interest (the \"Merger Consideration\").",
+    "on contributed to an indirect parent entity of Parent its Rollover Shares, consisting of 24,807,932 shares of Common Stock with an aggregate value (based on the Merger Consideration) of approximately $5.21 billion in exchange for equity interests in an indirect parent entity of Parent."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/712515/000114036126031415/0001140361-26-031415-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "QuoteMedia, Inc.",
+   "filer": "Harland Group LLC",
+   "percentOfClass": 11.1,
+   "sharesOwned": 10007735,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 3, 2026, Harland Group used cash in the aggregate amount of $165,007 from its working capital to purchase an additional 1,051,000 shares of Common Stock reported herein.",
+    "On August 3, 2026, Harland Group purchased 1,051,000 shares of Common Stock in the open market at a price per share equal to $0.157."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1960107/000119312526335146/0001193125-26-335146-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "InMode Ltd.",
+   "filer": "Moshe Mizrahy",
+   "percentOfClass": 7.9,
+   "sharesOwned": 4299226,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1742692/000119312526335699/0001193125-26-335699-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Royce Micro-Cap Trust, Inc.",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 7.08,
+   "sharesOwned": 3786726,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $40,072,542 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/912147/000106299326004045/0001062993-26-004045-index.htm"
+  }
+ ]
+}

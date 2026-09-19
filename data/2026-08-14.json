@@ -1,0 +1,609 @@
+{
+ "date": "2026-08-14",
+ "generated": "2026-09-19T23:13:25.279Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Audax Private Credit Fund, LLC",
+    "ticker": "NONE",
+    "cik": "0002033362"
+   },
+   "owners": [
+    {
+     "name": "Audax Private Credit Business, LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Audax Institutional Feeder, LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "AUDAX HOLDINGS I LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "AUDAX GROUP LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "101 Huntington Holdings Subsidiary, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Audax Group Parent, LP",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "101 HUNTINGTON HOLDINGS LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 592346,
+   "avgPrice": 24.557,
+   "value": 14546235,
+   "tradeDates": [
+    "2026-08-12"
+   ],
+   "sharesAfter": 259515.243,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1208476/000119312526352140/0001193125-26-352140-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "INTEL CORP",
+    "ticker": "INTC",
+    "cik": "0000050863"
+   },
+   "owners": [
+    {
+     "name": "TAN LIP BU",
+     "roles": [
+      "Director",
+      "CEO"
+     ]
+    }
+   ],
+   "shares": 105263,
+   "avgPrice": 95,
+   "value": 9999985,
+   "tradeDates": [
+    "2026-08-11"
+   ],
+   "sharesAfter": 1314669,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000177/0000050863-26-000177-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Borr Drilling Ltd",
+    "ticker": "BORR",
+    "cik": "0001715497"
+   },
+   "owners": [
+    {
+     "name": "Troim Tor Olav",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 1500000,
+   "avgPrice": 4.0245,
+   "value": 6036750,
+   "tradeDates": [
+    "2026-08-13"
+   ],
+   "sharesAfter": 28685941,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026056941/0001628280-26-056941-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 150000,
+   "avgPrice": 22.8367,
+   "value": 3425500,
+   "tradeDates": [
+    "2026-08-13",
+    "2026-08-14"
+   ],
+   "sharesAfter": 8802531,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000040/0001221359-26-000040-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Braveheart Bio, Inc.",
+   "filer": "AH Bio Fund IV, L.P.",
+   "percentOfClass": 11.4,
+   "sharesOwned": 10232420,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "nd as nominee for AH Bio IV-B, AH Annual 2022, AH Annual 2022-B, AH Annual 2022-QC and CLF III, purchased 40,000,000 shares of the Issuer's Series A Preferred Stock for an aggregate purchase price of $40 million.",
+    "nee for AH Bio IV-B, AH Annual 2022, AH Annual 2022-B, AH Annual 2022-QC and CLF III, also purchased 1,100,000 shares of the Issuer's common stock from the underwriters of the IPO at the IPO price of $18.00 per share, for an aggregate purchase price of $19."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1889476/000188947626000004/0001889476-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Apollo Global Management, Inc.",
+   "filer": "LDB 2025 LLC",
+   "percentOfClass": 0.51,
+   "sharesOwned": 3000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000095014226002356/0000950142-26-002356-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "BioNexus Gene Lab Corp",
+   "filer": "Tan Lee Su-Leng",
+   "percentOfClass": 11.5,
+   "sharesOwned": 338709,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "This produces an aggregate Plan value of $524,998.95 and is not a cash purchase price."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1737523/000152013826000354/0001520138-26-000354-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "MDxHealth SA",
+   "filer": "Bleichroeder LP",
+   "percentOfClass": 33.2,
+   "sharesOwned": 31648563,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The 31,648,563 Shares were acquired on the open market and in transactions with the Issuer by accounts and funds managed by Bleichroeder LP at an aggregate cost of $48,420,542.58.",
+    "ecurities Purchase Agreements\") pursuant to which they purchased in the aggregate 24,229,074 Ordinary Shares (the \"Purchased Shares\") in a registered direct offering for a per-share purchase price of $0.454."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1781002/000117152026000229/0001171520-26-000229-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Hilton Grand Vacations Inc.",
+   "filer": "CAS Investment Partners, LLC",
+   "percentOfClass": 6.5,
+   "sharesOwned": 5070709,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Persons expended an aggregate of approximately $221,578,144 (including commissions) to acquire 5,070,709 shares of Common Stock of the Issuer in various open market transactions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000110465926096713/0001104659-26-096713-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "QVC GROUP, INC.",
+   "filer": "GoldenTree Asset Management LP",
+   "percentOfClass": 17.1,
+   "sharesOwned": 8561765,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Prior to the Plan Effective Date, the Reporting Persons purchased 19,767 shares of Common Stock for $10.25 per share that were settled following the Pan Effective Date.",
+    "From August 7, 2026 to August 13, 2026, the Reporting Persons purchased an aggregate of 674,129 shares of Common Stock for aggregate consideration of $10,342,125.28 using working capital."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1278951/000149315226038541/0001493152-26-038541-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "INNOVATE Corp.",
+   "filer": "Voigt Paul",
+   "percentOfClass": 7.4,
+   "sharesOwned": 1031295,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1006837/000162102026000003/0001621020-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Lincoln International, Inc.",
+   "filer": "Lawrence James Lawson III",
+   "percentOfClass": 31.2,
+   "sharesOwned": 16270715,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2114357/000119312526352320/0001193125-26-352320-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Thunder Bridge Capital Partners V, Ltd.",
+   "filer": "TBCP V, LLC",
+   "percentOfClass": 20.78,
+   "sharesOwned": 7950750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price paid by the Sponsor for the Ordinary Shares beneficially owned by the Reporting Persons was $4,495,000, consisting of $25,000 paid for the Founder Shares and $4,470,000 paid for the Placement Units.",
+    "On August 14, 2026, simultaneously with the consummation of the Issuer's Initial Public Offering (the \"IPO\"), the Sponsor purchased 447,000 units (\"Placement Units\") of the Issuer at $10.",
+    "cription Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on May 20, 2026, 7,503,750 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Securities Subscription Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1339459/000121390026090217/0001213900-26-090217-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 1742699,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001528/0001753926-26-001528-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ABERDEEN GOVERNMENT MARKETS INCOME FUND",
+   "filer": "SIT INVESTMENT ASSOCIATES INC",
+   "percentOfClass": 34.8,
+   "sharesOwned": 11342025,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/811922/000089710126000355/0000897101-26-000355-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Steven Sarracino",
+   "percentOfClass": 8.9,
+   "sharesOwned": 1290178,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1992147/000090883426000438/0000908834-26-000438-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Apollomics Inc.",
+   "filer": "Yi-Kuei Chen",
+   "percentOfClass": 4.97,
+   "sharesOwned": 145171,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "n August 7, 2026, Maxpro entered into a subscription agreement with the Issuer (the \"Subscription Agreement\"), pursuant to which Maxpro agreed to purchase 20,000 Class A Shares at a purchase price of $15.00 per share, for an aggregate purchase price of $300,000, in a private placement by the Issuer (the \"Private Placement\").",
+    "1, pursuant to which Maxpro agreed to purchase 20,000 Class A Shares from the Issuer at a purchase price of $15.00 per share, for an aggregate purchase price of $300,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1944885/000121390026090085/0001213900-26-090085-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Audax Private Credit Fund, LLC",
+   "filer": "Audax Institutional Feeder, LP",
+   "percentOfClass": 29.4,
+   "sharesOwned": 7241215.57,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "reement with the Issuer (the \"Drawdown Subscription Agreement\"), pursuant to which Audax Institutional Feeder, LP subscribed for and agreed to purchase Shares with a capital commitment equal to up to $80,793,257.21, $66,671,743.",
+    "t Business, LP entered into a Drawdown Subscription Agreement pursuant to which Audax Private Credit Business, LP subscribed for and agreed to purchase Shares with a capital commitment equal to up to $2,413,918.69, $1,922,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2075450/000119312526352107/0001193125-26-352107-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Childrens Place, Inc.",
+   "filer": "Mithaq Capital SPC",
+   "percentOfClass": 61.1,
+   "sharesOwned": 13593236,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1041859/000183460026000020/0001834600-26-000020-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Clipper Realty Inc.",
+   "filer": "Levinson Sam",
+   "percentOfClass": 40.9,
+   "sharesOwned": 9899224,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Each of Trapeze, Trapeze D and ECL also purchased shares of Common Stock in the private offering at $13.50 per share in the following amounts: Trapeze purchased 235,659 shares of common stock, Trapeze D purchased 61,482 shares of Common Stock, and ECL purchased 66,335 shares of Common Stock.",
+    "In connection with the Issuer's initial public offering on February 9, 2017, Trapeze, Trapeze D and ECL each purchased shares of Common Stock from the Issuer at $13.50 per share in the following amounts: Trapeze purchased 213,334 shares of Common Stock; Trapeze D purchased 60,000 shares of Common Stock; and ECL purchased 60,000 shares of Common Stock.",
+    "Levinson, Trapeze and Trapeze D each purchased shares of Common Stock in an open market transaction at a price of $11.25 per share in the following amounts: Mr.",
+    "Levinson, Trapeze, Trapeze D and ECL each purchased shares of Common Stock in an open market transaction at a price of $10.75 per share in the following amounts: Mr."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1649096/000153949726002269/0001539497-26-002269-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Curbline Properties Corp.",
+   "filer": "Alexander Otto",
+   "percentOfClass": 6.4,
+   "sharesOwned": 7411219,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Transaction Date Transaction Type Number of Shares Purchase Price August 4, 2026 Open Market Sale 38,788 $30.17 (1) August 5, 2026 Open Market Sale 134,269 $30.",
+    "11 (2) August 6, 2026 Open Market Sale 109,366 $29.79 (3) August 7, 2026 Open Market Sale 20,475 $29.",
+    "76 (4) August 12, 2026 Open Market Sale 96,311 $30.06 (5) August 13, 2026 Open Market Sale 135,612 $30."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2027317/000119312526352538/0001193125-26-352538-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "EXELIXIS, INC.",
+   "filer": "Farallon Capital Management, L.L.C.",
+   "percentOfClass": 5.6,
+   "sharesOwned": 13989010,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "OF SHARES PURCHASED (P) OR SOLD (S) PRICE PER SHARE ($) 8/10/2026 74,000 (P) $52.96 8/7/2026 27,000 (P) $53."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/939767/000090883426000419/0000908834-26-000419-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Empery Digital Inc.",
+   "filer": "Empery Asset Management, LP",
+   "percentOfClass": 15.4,
+   "sharesOwned": 4330345,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1469336/000091957426005367/0000919574-26-005367-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Sphere Entertainment Co.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 80,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000069/0000807249-26-000069-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Madison Square Garden Sports Corp.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 163,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000070/0000807249-26-000070-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Outlook Therapeutics, Inc.",
+   "filer": "GMS Ventures &amp; Investments",
+   "percentOfClass": 16.4,
+   "sharesOwned": 42631142,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "GMS Ventures purchased 2,525,252 Shares and accompanying Warrants to purchase 2,525,252 Shares in the Offering, at a combined purchase price per Share and accompanying Warrant of $0.99, for an aggregate purchase price of approximately $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1804598/000089914026000895/0000899140-26-000895-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Meridian Holdings Inc./NV",
+   "filer": "Anthony Brian Goodman",
+   "percentOfClass": 7.45,
+   "sharesOwned": 943734,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1672837/000147793226005005/0001477932-26-005005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Investcorp Europe Acquisition Corp I",
+   "filer": "Meteora Capital, LLC",
+   "percentOfClass": 18.7784,
+   "sharesOwned": 2000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1857410/000190510626000137/0001905106-26-000137-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NN INC",
+   "filer": "Legion Partners, L.P. I",
+   "percentOfClass": 3.3,
+   "sharesOwned": 2722493,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 2,508,398 Shares owned directly by Legion Partners I is approximately $17,007,242, including brokerage commissions.",
+    "The aggregate purchase price of the 256,591 Shares owned directly by Legion Partners II is approximately $510,673, including brokerage commissions.",
+    "The aggregate purchase price of the 10,905 Shares underlying certain Warrants owned directly by Legion Partners II is approximately $7,909, including brokerage commissions.",
+    "The aggregate purchase price of the 350,474 Shares owned directly by Legion Partners XI is approximately $2,415,574, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1560207/000092189526002197/0000921895-26-002197-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Maase Inc.",
+   "filer": "Golden Brighter Limited",
+   "percentOfClass": 14.89,
+   "sharesOwned": 65862013,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "owing: On August 5, 2026, Golden Brighter Limited disposed of 18,609,988 Class A Ordinary Shares of the Issuer to certain investor in a privately negotiated transaction for a total consideration of US$111,659,928."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1750264/000121390026090314/0001213900-26-090314-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Maase Inc.",
+   "filer": "WJ Management Company Limited",
+   "percentOfClass": 14.57,
+   "sharesOwned": 64439951,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 5, 2026, WJ Management Company Limited disposed of 18,609,988 Class A Ordinary Shares of the Issuer to certain investor in a privately negotiated transaction for a total consideration of US$111,659,928."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1750264/000121390026090315/0001213900-26-090315-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Vertical Aerospace Ltd.",
+   "filer": "Mudrick Capital Management, L.P.",
+   "percentOfClass": 64.2,
+   "sharesOwned": 214698010,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "s (\"MCM\"), and the Company entered into an Amended and Restated Convertible Note Purchase Agreement (the \"A&R Convertible Note Purchase Agreement\"), pursuant to which the Company issued the remaining $35,000,000 in aggregate nominal principal amount of additional Convertible Senior Secured Notes (the \"Additional Notes\") to MCM and MCM purchased such Additional Notes.",
+    "April 20, 2026, between the Issuer and Yorkville (the Original Yorkville Securities Purchase Agreement ); WHEREAS, on May 20, 2026, June 26, 2026 and July 27, 2026, the Issuer issued to the Purchaser $3,417,940.00, $3,224,471.",
+    "t, (a) 171,723,641 Ordinary Shares are issued and outstanding, (b) 27,000 preferred shares are issued and outstanding, (c) 50,000,000 warrants, each exercisable to purchase 1/10th Ordinary Share at US$50.00 per full share, are issued and outstanding, (d) 2,625,000 warrants, each exercisable to purchase 1/10th Ordinary Share at US$100.",
+    "00 per full share, are issued and outstanding, (e) 19,264,935 warrants, each exercisable to purchase 1/10th Ordinary Share at US$115.00 per full share, are issued and outstanding, (f) 7,500,000 Tranche A warrants, each exercisable to purchase one Ordinary Share at US$6."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1655183/000110465926097346/0001104659-26-097346-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Nautilus Biotechnology, Inc.",
+   "filer": "Perceptive Advisors LLC",
+   "percentOfClass": 9.1,
+   "sharesOwned": 11634211,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1808805/000119312526352644/0001193125-26-352644-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Outdoor Holding Co",
+   "filer": "Steven F. Urvan",
+   "percentOfClass": 27.5,
+   "sharesOwned": 37358366,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226038570/0001493152-26-038570-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Solid Biosciences Inc.",
+   "filer": "Perceptive Advisors LLC",
+   "percentOfClass": 11.2,
+   "sharesOwned": 12046579,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1224962/000119312526352656/0001193125-26-352656-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Power REIT",
+   "filer": "POSNER HENRY III",
+   "percentOfClass": 9.3,
+   "sharesOwned": 34000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1042634/000104263426000011/0001042634-26-000011-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SEPTERNA, INC.",
+   "filer": "RA Capital Management, L.P.",
+   "percentOfClass": 11.8,
+   "sharesOwned": 5525324,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1346824/000134682426000228/0001346824-26-000228-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Veradermics, Inc.",
+   "filer": "SR One Capital Management, LLC",
+   "percentOfClass": 4.9,
+   "sharesOwned": 2080119,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In the Sale, SR One Fund II Aggregator sold 217,162 shares of Common Stock and AMZL sold 104,587 shares of Common Stock, in each case at a price of $104.30 per share, for aggregate consideration of approximately $33,558,420."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1853723/000107261326000686/0001072613-26-000686-index.htm"
+  }
+ ]
+}

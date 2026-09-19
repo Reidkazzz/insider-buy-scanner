@@ -1,0 +1,411 @@
+{
+ "date": "2026-08-27",
+ "generated": "2026-09-19T23:26:37.052Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Madison Air Solutions Corp",
+    "ticker": "MAIR",
+    "cik": "0002098430"
+   },
+   "owners": [
+    {
+     "name": "BERTARELLI ERNESTO",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "KC Armada LP",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 8770524,
+   "avgPrice": 24.97,
+   "value": 218999984,
+   "tradeDates": [
+    "2026-08-25"
+   ],
+   "sharesAfter": 46387522,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1137404/000119312526371312/0001193125-26-371312-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Immatics N.V.",
+    "ticker": "IMTX",
+    "cik": "0001809196"
+   },
+   "owners": [
+    {
+     "name": "PERCEPTIVE ADVISORS LLC",
+     "roles": [
+      "Director"
+     ]
+    },
+    {
+     "name": "EDELMAN JOSEPH",
+     "roles": [
+      "Director"
+     ]
+    },
+    {
+     "name": "PERCEPTIVE LIFE SCIENCES MASTER FUND LTD",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 863060,
+   "avgPrice": 8.69,
+   "value": 7499991,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 11246516,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1164426/000119312526371237/0001193125-26-371237-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "JATT III Acquisition Corp",
+    "ticker": "JTTT",
+    "cik": "0002145659"
+   },
+   "owners": [
+    {
+     "name": "JATT Ventures III L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Sidhu Someit",
+     "roles": [
+      "Director",
+      "CEO and Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 234000,
+   "avgPrice": 10,
+   "value": 2340000,
+   "tradeDates": [
+    "2026-08-27"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2145659/000121390026094460/0001213900-26-094460-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Commerce.com, Inc.",
+   "filer": "Pale Fire Capital SICAV a.s.",
+   "percentOfClass": 6.5,
+   "sharesOwned": 5396328,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 5,396,328 Shares beneficially owned by PFC SICAV is approximately $15,514,203, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1626450/000092189526002350/0000921895-26-002350-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Reliance Global Group, Inc.",
+   "filer": "GNK Holdings LLC",
+   "percentOfClass": 9.6,
+   "sharesOwned": 153188,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "During that period, an aggregate of 156,098 Shares were purchased for aggregate consideration of approximately $410,747, and an aggregate of 2,910 Shares were sold for aggregate proceeds of approximately $7,068, in each case excluding brokerage commissions.",
+    "The net aggregate consideration for the 153,188 Shares was approximately $403,678, representing an average purchase price of approximately $2.64 per Share.",
+    "Date Transaction # of Shares Weighted Average Price per Share Price Range August 18, 2026 Purchase 39,072 $2.3022 $2.",
+    "3500 $2.35 August 19, 2026 Purchase 41,416 $2."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2152497/000109690626001319/0001096906-26-001319-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 3334139,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The New Transaction is set forth below: Entity Trade Date Transaction Type Number of Shares of Common Stock Price 3i, LP 08-25-2026 Purchase 132,702 $ 0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001647/0001753926-26-001647-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Amarin Corporation PLC/UK",
+   "filer": "Sarissa Capital Management LP",
+   "percentOfClass": 6.09,
+   "sharesOwned": 25743900,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/897448/000089914026000972/0000899140-26-000972-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 60.93,
+   "sharesOwned": 2404532.8,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "83 $11.21 BBH* Class S Units of Beneficial Interest Purchase 8/26/2026 147,453."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003261/0000929638-26-003261-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Addex Therapeutics Ltd.",
+   "filer": "Timothy Mark Dyer",
+   "percentOfClass": 8.98,
+   "sharesOwned": 19095510,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574232/000110465926101798/0001104659-26-101798-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "American Strategic Investment Co.",
+   "filer": "Bellevue Capital Partners, LLC",
+   "percentOfClass": 62.1,
+   "sharesOwned": 1964853,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "26-$6.77 (1) Unless otherwise indicated, these shares were purchased in multiple transactions at the price ranges set forth in the column labelled Price Range."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1595527/000095014226002447/0000950142-26-002447-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BNB Plus Corp.",
+   "filer": "KGPLA Holdings LLC",
+   "percentOfClass": 19.99,
+   "sharesOwned": 1548337,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/744452/000147793226005292/0001477932-26-005292-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Bluerock Private Real Estate Fund",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 5.12,
+   "sharesOwned": 7322660,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $107,845,238 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1551047/000106299326004669/0001062993-26-004669-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Power REIT",
+   "filer": "Bradley &amp; Daytona Railway and Land Co. LLC",
+   "percentOfClass": 4.8,
+   "sharesOwned": 16110,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "SINCE JUNE 26, 2026 Date of Securities Average Price Per Trading Range of Transactions Transaction Description Transaction Purchased* Share** Min Max Purchase of Series A Preferred Stock 6/29/2026 62 $9.88 $9.",
+    "79 $9.96 Purchase of Series A Preferred Stock 6/30/2026 293 $9.",
+    "03 Purchase of Series A Preferred Stock 7/01/2026 50 $10.02 $10.",
+    "00 $10.04 Purchase of Series A Preferred Stock 7/08/2026 25 $9."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2005138/000200513826000009/0002005138-26-000009-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Catalyst Bancorp, Inc.",
+   "filer": "Stilwell Activist Fund, L.P.",
+   "percentOfClass": 9,
+   "sharesOwned": 364085,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Alcott has expended a total of $16,686.50 to acquire 1,000 shares of Common Stock.",
+    "Since we last reported purchases of Common Stock, Stilwell Activist Investments has expended $246,303.25 to acquire 15,495 shares of Common Stock.",
+    "Alcott an option to purchase up to 50,000 shares of Common Stock (the \"Option\") beneficially owned by the Stilwell Group, at a purchase price of $17.37 per Option share (subject to adjustment), subject to certain terms and conditions set forth therein.",
+    "5000 $990.00 Purchase of Common Stock 07/06/26 15 16."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1849867/000092189526002340/0000921895-26-002340-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Turtle Beach Corporation",
+   "filer": "DC VGA LLC",
+   "percentOfClass": 3.8,
+   "sharesOwned": 674706,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 13, 2026, the Reporting Persons sold 115,016 shares of Common Stock in the open market at a weighted average price of $12.9030.",
+    "On August 14, 2026, the Reporting Persons sold 19,438 shares of Common Stock in the open market at a weighted average price of $12.8507.",
+    "On August 25, 2026, the Reporting Persons sold 143,136 shares of Common Stock in the open market at a weighted average price of $12.8612.",
+    "On August 26, 2026, the Reporting Persons sold 54,043 shares of Common Stock in the open market at a weighted average price of $12.8583."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2016004/000119312526371811/0001193125-26-371811-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ETHAN ALLEN INTERIORS INC",
+   "filer": "DGB Investment, Inc.",
+   "percentOfClass": 4.1,
+   "sharesOwned": 1050000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 1,050,000 Shares owned directly by DGB Investment is approximately $22,865,537, including brokerage commissions.",
+    "The aggregate purchase price of the 90,000 Shares beneficially owned by Residence Trust is approximately $2,083,749, including brokerage commissions.",
+    "The aggregate purchase price of the 135,000 Shares beneficially owned by the Nieces and Nephews Trust is approximately $3,094,824, including brokerage commissions.",
+    "certain over-the-counter American-style call options (the \"Call Options\") that gave DGB Investment the right to purchase up to 275,000 Shares, of which 150,000 Shares had a strike price of $20.7561 and 125,000 Shares had a strike price of $20."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1472520/000092189526002351/0000921895-26-002351-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LTD",
+   "filer": "Diana Shipping Inc.",
+   "percentOfClass": 10.13,
+   "sharesOwned": 4416292,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Transaction Date Transaction Type Number of Shares Purchase Price August 25, 2026 Open Market Sales 75,000 $ 26.62 (1) August 25, 2026 Open Market Sales 75,000 $ 26.",
+    "52 (2) August 25, 2026 Open Market Sales 75,000 $ 26.50 (3) August 25, 2026 Open Market Sales 75,000 $ 26.",
+    "51 (4) August 25, 2026 Open Market Sales 348,256 $ 26.56 (5) 1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000091957426005792/0000919574-26-005792-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Masonglory Ltd",
+   "filer": "Fung &amp; Tun Limited",
+   "percentOfClass": 37.5,
+   "sharesOwned": 1312500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ld, and Fung & Tun Limited purchased from the Controlling Shareholders a total of two (2) OrdinaryShares (representing the entire issued share capital of the Company), at an aggregate consideration US$0.0002."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2108417/000121390026094111/0001213900-26-094111-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TRANSACT TECHNOLOGIES INC",
+   "filer": "Charles M. Gillman",
+   "percentOfClass": 5.1,
+   "sharesOwned": 521841,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 521,841 Shares is approximately $2,453,646, excluding brokerage commissions.",
+    "Date Action Quantity Price 07-01-2026 Purchase of Common Stock 62,064 $5.80 06-30-2026 Purchase of Common Stock 37,936 $5.",
+    "76 06-29-2026 Purchase of Common Stock 1,603 $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1386979/000121465926010987/0001214659-26-010987-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MKDWELL Tech Inc.",
+   "filer": "Ming-Chia Huang",
+   "percentOfClass": 76.4,
+   "sharesOwned": 26340340,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2033096/000149315226040345/0001493152-26-040345-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Immatics N.V.",
+   "filer": "Perceptive Advisors LLC",
+   "percentOfClass": 7.6,
+   "sharesOwned": 11418016,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 26, 2026, the Master Fund purchased 863,060 Ordinary Shares at a price per share of $8.69 in the Issuer's underwritten offering."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1809196/000119312526371236/0001193125-26-371236-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Kimbell Royalty Partners, LP",
+   "filer": "Rivercrest Capital Partners LP",
+   "percentOfClass": 7.3,
+   "sharesOwned": 8000179,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1657788/000149315226040406/0001493152-26-040406-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Scholastic Corporation",
+   "filer": "Iole Lucchese",
+   "percentOfClass": 5.2,
+   "sharesOwned": 955019,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Share Purchase Agreement\") pursuant to which the Estate agreed to sell and the Issuer agreed to purchase 289,624 Common Shares in a privately negotiated transaction for an aggregate cash amount of $11,515,537.13 or $39."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1676522/000119312526371238/0001193125-26-371238-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MarineMax, Inc.",
+   "filer": "Renata Kellnerova",
+   "percentOfClass": 8.1,
+   "sharesOwned": 1790680,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1057060/000121390026094424/0001213900-26-094424-index.htm"
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "date": "2026-08-04",
+ "generated": "2026-09-19T23:02:09.361Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "AppTech Payments Corp.",
+    "ticker": "APCX",
+    "cik": "0001070050"
+   },
+   "owners": [
+    {
+     "name": "LORD ALBERT L",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 20000,
+   "avgPrice": 2900,
+   "value": 58000000,
+   "tradeDates": [
+    "2026-08-03"
+   ],
+   "sharesAfter": 1040000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826005941/0001683168-26-005941-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "East West Ave Acquisition Corp.",
+    "ticker": "EWAV",
+    "cik": "0002100704"
+   },
+   "owners": [
+    {
+     "name": "Space Summit Capital LLC",
+     "roles": [
+      "Manager of the LP"
+     ]
+    },
+    {
+     "name": "Space Summit Opportunity Fund I LP",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1087000,
+   "avgPrice": 10,
+   "value": 10870000,
+   "tradeDates": [
+    "2026-07-31"
+   ],
+   "sharesAfter": 1087000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2100704/000184671826000015/0001846718-26-000015-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Goosehead Insurance, Inc.",
+    "ticker": "GSHD",
+    "cik": "0001726978"
+   },
+   "owners": [
+    {
+     "name": "Durable Capital Partners LP",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 36256,
+   "avgPrice": 61.9247,
+   "value": 2245140,
+   "tradeDates": [
+    "2026-07-31"
+   ],
+   "sharesAfter": 2570260,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1798849/000119312526333105/0001193125-26-333105-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Entera Bio Ltd.",
+   "filer": "BIOTECHNOLOGY VALUE FUND L P",
+   "percentOfClass": 5.3,
+   "sharesOwned": 9171741,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "defined below) and 6,101,406 Warrants (as defined below) owned directly by BVF were purchased pursuant to the April Securities Purchase Agreement (as defined below) for an aggregate of approximately $5,196,294.",
+    "and 6,265,789 July Pre-Funded Warrants (as defined below) owned directly by BVF were purchased pursuant to the July Securities Purchase Agreement (as defined below) for an aggregate of approximately $28,570,417.",
+    "962,963 Shares, 2,145,437 April Pre-Funded Warrants and 4,662,600 Warrants owned directly by BVF2 were purchased pursuant to the April Securities Purchase Agreement for an aggregate of approximately $3,970,927.",
+    "5,722,517 Shares and 4,632,931 July Pre-Funded Warrants owned directly by BVF2 were purchased pursuant to the July Securities Purchase Agreement for an aggregate of approximately $21,124,998."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/918923/000092189526001957/0000921895-26-001957-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "XWELL, Inc.",
+   "filer": "Bruce Bernstein",
+   "percentOfClass": 6.9,
+   "sharesOwned": 602556,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Between November 30, 2022 and December 1, 2022, the Reporting Person expended approximately $21,097 of his personal funds to purchase 7,065 shares of common stock."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1665472/000110465926090388/0001104659-26-090388-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Mobile Infrastructure Corp",
+   "filer": "Manuel Chavez, III",
+   "percentOfClass": 2.1,
+   "sharesOwned": 867337,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1879349/000149315226036078/0001493152-26-036078-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SHARING ECONOMY INTERNATIONAL INC.",
+   "filer": "Johnny Chen",
+   "percentOfClass": 11.5,
+   "sharesOwned": 724224643,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2136079/000147793226004692/0001477932-26-004692-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Evofem Biosciences, Inc.",
+   "filer": "HUB Cyber Security Ltd.",
+   "percentOfClass": 9.99,
+   "sharesOwned": 14709204,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Evofem Notes are convertible, and the Purchase Rights are exercisable, at $0.",
+    "Based on the aggregate outstanding balance of the Evofem Notes acquired by HUB (approximately $5,373,556), the Evofem Notes would be convertible into approximately 348,932,233 shares of Common Stock, without giving effect to the Beneficial Ownership Limitations.",
+    "0154 per share price and, based on the aggregate amount of the June Purchase Rights acquired (approximately $10,153,890 and July Purchase Rights acquired (approximately $4,000,000)), would be exercisable for approximately 659,343,507 and 259,740,260 shares of Common Stock, respectively.",
+    "The aggregate purchase price paid by HUB for the Evofem Notes and the June Purchase Rights was approximately $49,331,891, which was paid solely through the issuance of securities of HUB, and not in cash."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1618835/000121390026084888/0001213900-26-084888-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SHARING ECONOMY INTERNATIONAL INC.",
+   "filer": "Huang Ximing",
+   "percentOfClass": 65.6,
+   "sharesOwned": 4103939641,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2133079/000147793226004693/0001477932-26-004693-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "MAXCYTE, INC.",
+   "filer": "RIVER GLOBAL INVESTORS LLP",
+   "percentOfClass": 0.8,
+   "sharesOwned": 834100,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1287098/000148618026000003/0001486180-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Star Fashion Culture Holdings Limited",
+   "filer": "Pingting Zhang",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2003061/000121390026084908/0001213900-26-084908-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Star Fashion Culture Holdings Limited",
+   "filer": "Pingting Zhang",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "\") , pursuant to which the Company desires to issue and sell to such Purchaser, and such Purchaser desires to purchase from the Company 2,000,000 Class B Ordinary Shares for a total purchase price of $2,600,000, which is attached as Exhibit 1 hereto, and is incorporated herein by reference."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2003061/000121390026084909/0001213900-26-084909-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OceanPal Inc.",
+   "filer": "Abra Marinvest Inc.",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1771346/000091957426004787/0000919574-26-004787-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Korro Bio, Inc.",
+   "filer": "Atlas Venture Fund XI, L.P.",
+   "percentOfClass": 4.9,
+   "sharesOwned": 706556,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1708269/000170826926000005/0001708269-26-000005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Iridium Communications Inc.",
+   "filer": "Baralonco Limited",
+   "percentOfClass": 9.44,
+   "sharesOwned": 10000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1473963/000119312526333495/0001193125-26-333495-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1871638/000204830926000007/0002048309-26-000007-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Broad Street Realty, Inc.",
+   "filer": "CF Flyer Mezz Holdings LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/764897/000110465926090533/0001104659-26-090533-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Resideo Technologies, Inc.",
+   "filer": "CD&amp;R Channel Holdings II, L.P.",
+   "percentOfClass": 19.7,
+   "sharesOwned": 33478322,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2044245/000110465926090354/0001104659-26-090354-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Neuronetics, Inc.",
+   "filer": "Chernett Jorey",
+   "percentOfClass": 15.22,
+   "sharesOwned": 10588988,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Chernett were purchased with personal funds for an aggregate purchase price of approximately $20,682,236.",
+    "These shares were purchased in multiple transactions at prices ranging from $1.77 to $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2042077/000119380526001017/0001193805-26-001017-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Core Scientific, Inc.",
+   "filer": "Situational Awareness LP",
+   "percentOfClass": 4.4,
+   "sharesOwned": 14089395,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1839341/000091957426004796/0000919574-26-004796-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MacKenzie Realty Capital, Inc.",
+   "filer": "DIXON ROBERT E",
+   "percentOfClass": 7.7,
+   "sharesOwned": 213265,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The total amount of funds required by BPLT to purchase its shares was $87,774.79."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1103016/000158232826000009/0001582328-26-000009-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wearable Devices Ltd.",
+   "filer": "J.B.D Innovation Ltd.",
+   "percentOfClass": 17.42,
+   "sharesOwned": 381361,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "saction for the purchase and sale of 1,000,000 Ordinary Shares (or Ordinary Share equivalents in lieu thereof) and warrants to purchase up to 1,000,000 Ordinary Shares at a combined purchase price of $3.285 per share and accompanying warrant (the \"Private Placement\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2092834/000121390026085176/0001213900-26-085176-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Fidelity Multi-Strategy Credit Fund",
+   "filer": "FMR LLC",
+   "percentOfClass": 53.4,
+   "sharesOwned": 3070730.63,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626001481/0000315066-26-001481-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Fortune Brands Innovations, Inc.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 5.3,
+   "sharesOwned": 6357492,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1519751/000136157026000013/0001361570-26-000013-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GALECTIN THERAPEUTICS INC",
+   "filer": "Richard E. Uihlein",
+   "percentOfClass": 49.3,
+   "sharesOwned": 54673646,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126031060/0001140361-26-031060-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HF Sinclair Corporation",
+   "filer": "REH Advisors Inc.",
+   "percentOfClass": 5.1,
+   "sharesOwned": 8881662,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 2, 2026, the Issuer entered into a Stock Purchase Agreement (the \"Twenty-Second Purchase Agreement\") with the Reporting Person to repurchase 2,375,000 shares of Common Stock, for $89.41 per share, for the aggregate purchase price of $212,348,750 in a privately negotiated transaction (the \"Twenty-Third Repurchase Transaction\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000119312526333438/0001193125-26-333438-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MGT Capital Investments, Inc.",
+   "filer": "Project Nickel LLC",
+   "percentOfClass": 51.66,
+   "sharesOwned": 3250131126,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1001601/000149315226036048/0001493152-26-036048-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Stratus Properties Inc.",
+   "filer": "Oasis Management Co Ltd.",
+   "percentOfClass": 8.4,
+   "sharesOwned": 666575,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1317904/000090266426003314/0000902664-26-003314-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OceanPal Inc.",
+   "filer": "Papatrifon Eleftherios",
+   "percentOfClass": 1.25,
+   "sharesOwned": 23529,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1869467/000091957426004788/0000919574-26-004788-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OceanPal Inc.",
+   "filer": "Semiramis Paliou",
+   "percentOfClass": 3.74,
+   "sharesOwned": 70082,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1869467/000091957426004789/0000919574-26-004789-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PEOPLES FINANCIAL CORP /MS/",
+   "filer": "Stilwell Value Partners VII, L.P.",
+   "percentOfClass": 17.2,
+   "sharesOwned": 795745,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Since we last reported purchases of Common Stock, Stilwell Value Partners VII has expended $104,391.84 to acquire 4,692 shares of Common Stock.",
+    "Since we last reported purchases of Common Stock, Stilwell Activist Investments has expended $1,164,012.44 to acquire 52,918 shares of Common Stock.",
+    "2500 $45,687.50 Purchase of Common Stock 07/02/26 507 21.",
+    "2500 $10,773.75 Purchase of Common Stock 07/13/26 200 21."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/770460/000092189526001942/0000921895-26-001942-index.htm"
+  }
+ ]
+}

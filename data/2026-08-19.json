@@ -1,0 +1,348 @@
+{
+ "date": "2026-08-19",
+ "generated": "2026-09-19T23:19:04.554Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CCH Holdings Ltd",
+    "ticker": "CCHH",
+    "cik": "0002074123"
+   },
+   "owners": [
+    {
+     "name": "Goh Kok E",
+     "roles": [
+      "Director",
+      "Chairman and CEO and COO"
+     ]
+    }
+   ],
+   "shares": 5220000,
+   "avgPrice": 0.276,
+   "value": 1440720,
+   "tradeDates": [
+    "2026-07-24"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2074123/000121390026091415/0001213900-26-091415-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 63586,
+   "avgPrice": 22.5925,
+   "value": 1436566,
+   "tradeDates": [
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19"
+   ],
+   "sharesAfter": 8866117,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000042/0001221359-26-000042-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "ADDENTAX GROUP CORP.",
+    "ticker": "ATXG",
+    "cik": "0001650101"
+   },
+   "owners": [
+    {
+     "name": "HONG ZHIWANG",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 218750,
+   "avgPrice": 4.8,
+   "value": 1050000,
+   "tradeDates": [
+    "2026-08-18"
+   ],
+   "sharesAfter": 225174,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1650101/000149315226039156/0001493152-26-039156-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Global Investment Ventures LLC",
+   "percentOfClass": 4.7,
+   "sharesOwned": 624198,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "GIV acquired the Shares in multiple transactions using its working capital for an aggregate purchase price of approximately $12 million."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1835856/000153026126000003/0001530261-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Futurewave Acquisition Corp",
+   "filer": "Futurewave Capital Solutions Ltd",
+   "percentOfClass": 30.8,
+   "sharesOwned": 3955625,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Subscription Agreement, the Sponsor acquired an aggregate of 3,700,125 Ordinary Shares (the \"Founder Shares\") for an aggregate purchase price of $25,000.",
+    "the closing of the IPO and the full exercise of the underwriters' over-allotment option, the Sponsor purchased 255,500 private placement units (the \"Private Units\") for an aggregate purchase price of $2,555,000.",
+    "The aggregate purchase price paid by the Sponsor for the Founder Shares and the Private Units was $2,580,000.",
+    "Except for the Sponsor's purchase on June 26, 2026 of 255,500 Private Units, each containing one Ordinary Share, at a purchase price of $10.00 per Private Unit, the Reporting Persons have not effected any transaction in the Ordinary Shares during the past 60 days."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2116105/000182912626009075/0001829126-26-009075-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Profusa, Inc.",
+   "filer": "NorthView Sponsor I, LLC",
+   "percentOfClass": 49.9,
+   "sharesOwned": 301991,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1890761/000121390026091840/0001213900-26-091840-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "OceanLight Acquisition Corp",
+   "filer": "OceanLight Capital Sponsor Ltd",
+   "percentOfClass": 33.53,
+   "sharesOwned": 5144750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "suer, on May 29, 2026, pursuant to a Securities Subscription Agreement, the Issuer issued an aggregate of 4,933,500 ordinary shares as Founder Shares to the Sponsor for an aggregate purchase price of $25,000.",
+    "Simultaneously with the consummation of the Issuer's initial public offering, the Sponsor purchased 211,250 private placement units (the \"Private Units\") of the Issuer at $10.00 per Private Unit.",
+    "26, the Issuer and the Sponsor entered into a Securities Subscription Agreement, pursuant to which the Sponsor purchased 4,933,500 ordinary shares as Founder Shares for an aggregate purchase price of $25,000.",
+    "In connection with the IPO, the Issuer and the Sponsor entered into a Private Placement Units Purchase Agreement pursuant to which the Sponsor agreed to purchase 211,250 Private Units at $10.00 per Private Unit simultaneously with the consummation of the IPO and up to an additional 7,500 Private Units if the underwriters exercise the over-allotment option in full or in part."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2137679/000182912626009072/0001829126-26-009072-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Pelican Acquisition II Corp",
+   "filer": "Pelican II Capital Solutions Ltd",
+   "percentOfClass": 26.36,
+   "sharesOwned": 3186500,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "er, on March 20, 2026, pursuant to a Securities Subscription Agreement, the Issuer issued an aggregate of 2,875,000 ordinary shares as Founder Shares to the Sponsor for an aggregate purchase price of $25,000.",
+    "Simultaneously with the consummation of the Issuer's initial public offering, the Sponsor purchased 311,500 private placement units (\"Private Placement Units\") of the Issuer at $10.00 per Private Placement Unit, as more fully described in Item 6 of this Schedule 13D, which information is incorporated herein by reference.",
+    "sor entered into a Securities Subscription Agreement, pursuant to which the Issuer issued an aggregate of 2,875,000 ordinary shares as Founder Shares to the Sponsor for an aggregate purchase price of $25,000.",
+    "On July 23, 2026, the Issuer and the Sponsor entered into a Private Placement Units Purchase Agreement, pursuant to which the Sponsor committed to purchase 311,500 Private Placement Units at $10.00 per Private Placement Unit simultaneously with the consummation of the Issuer's initial public offering."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2122392/000182912626009073/0001829126-26-009073-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 2050200,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "thereof: On August 17, 2026, the Issuer and 3i, LP entered into a letter agreement (the \"Letter Agreement\"), pursuant to which the Issuer issued to 3i, LP 1,500 shares of Series B Preferred Stock at $1,000 per share and (b) Warrants to purchase 1,153,847 shares of Common Stock at an initial exercise price of $0.",
+    "23708 per share for no additional consideration, for an aggregate purchase price of $1,500,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001562/0001753926-26-001562-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aurora Innovation, Inc.",
+   "filer": "Uber Technologies, Inc.",
+   "percentOfClass": 10.9,
+   "sharesOwned": 186473411,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1828108/000155278126000453/0001552781-26-000453-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "WEAVE COMMUNICATIONS, INC.",
+   "filer": "Crosslink Capital, Inc.",
+   "percentOfClass": 5.3,
+   "sharesOwned": 4272209,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1104329/000110432926000018/0001104329-26-000018-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CYPHERPUNK TECHNOLOGIES INC.",
+   "filer": "Winklevoss Capital Fund, LLC",
+   "percentOfClass": 19.9,
+   "sharesOwned": 24854613,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "y amended and supplemented as follows: Pre-Funded Warrant Exercise On August 17, 2026, WTI exercised Pre-Funded Warrants to purchase an aggregate of 16,570,852 shares of the Issuer's Common Stock for $0.001 a share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1509745/000208572626000002/0002085726-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Camp4 Therapeutics Corporation",
+   "filer": "Polaris Management Co. VII, L.L.C.",
+   "percentOfClass": 4.8,
+   "sharesOwned": 3023161,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1736730/000119312526357272/0001193125-26-357272-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Zenas BioPharma, Inc.",
+   "filer": "Enavate Sciences GP, LLC",
+   "percentOfClass": 4.9,
+   "sharesOwned": 3245404,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1953107/000195310726000015/0001953107-26-000015-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Fidelity Multi-Strategy Credit Fund",
+   "filer": "FMR LLC",
+   "percentOfClass": 52.2,
+   "sharesOwned": 3082424.46,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002262/0000315066-26-002262-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Fortune Brands Innovations, Inc.",
+   "filer": "PICTET ASSET MANAGEMENT SA",
+   "percentOfClass": 4.9,
+   "sharesOwned": 5887646,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1519751/000136157026000014/0001361570-26-000014-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "dLocal Ltd",
+   "filer": "GENERAL ATLANTIC, L.P.",
+   "percentOfClass": 21.4,
+   "sharesOwned": 36814136,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 17, 2026, GA DO sold an aggregate of 9,842,559 Class A common shares in open market transactions at an average price of $13.60 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1017645/000095014226002390/0000950142-26-002390-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Kinetik Holdings Inc.",
+   "filer": "ISQ Global Fund II GP LLC",
+   "percentOfClass": 18.9,
+   "sharesOwned": 18098785,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1904934/000090514826003817/0000905148-26-003817-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Silexion Therapeutics Corp",
+   "filer": "Moringa Sponsor, LP",
+   "percentOfClass": 25,
+   "sharesOwned": 1391790,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1849192/000121390026091845/0001213900-26-091845-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OceanFirst Financial Corp.",
+   "filer": "WPGG 14 Orion Investments, L.P.",
+   "percentOfClass": 6.6,
+   "sharesOwned": 6415008,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1004702/000114036126033762/0001140361-26-033762-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OFFICE PROPERTIES INCOME TRUST",
+   "filer": "REDWOOD CAPITAL MANAGEMENT, LLC",
+   "percentOfClass": 18,
+   "sharesOwned": 3961992,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "2029 Notes and the DIP Claims, on June 17, 2026, the effective date of the Plan (the \"Effective Date\"), the Redwood Funds received, in the aggregate, a combination of consideration consisting of: (i) $71,902,000 aggregate principal amount of the Issuer's 10."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1456772/000091957426005634/0000919574-26-005634-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Wheeler Real Estate Investment Trust, Inc.",
+   "filer": "Stilwell Value Partners VII, L.P.",
+   "percentOfClass": 49.99,
+   "sharesOwned": 2433708,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On July 22, 2021, the Issuer distributed to its shareholders (the \"Rights Offering\") non-transferable subscription rights (the \"Rights\") to purchase up to $30 million in aggregate principal amount of 7% Senior Subordinated Convertible Notes due in 2031 (\"Notes\").",
+    "Offering, each holder of the Issuer's common stock as of the record date received one Right for each eight shares of the Issuer's Common Stock owned, with each Right entitling such holder to purchase $25.",
+    "On August 19, 2021, each of Stilwell Value Partners VII, Stilwell Activist Investments and Stilwell Activist Fund exercised their Rights and acquired Notes in the principal amount of $4,125,000, $18,249,925 and $2,624,950, respectively."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1113303/000092189526002262/0000921895-26-002262-index.htm"
+  }
+ ]
+}

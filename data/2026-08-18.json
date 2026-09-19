@@ -1,0 +1,459 @@
+{
+ "date": "2026-08-18",
+ "generated": "2026-09-19T23:17:26.617Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "MapLight Therapeutics, Inc.",
+    "ticker": "MLPT",
+    "cik": "0001770069"
+   },
+   "owners": [
+    {
+     "name": "Catalyst4, Inc.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 4400000,
+   "avgPrice": 11.38,
+   "value": 50072000,
+   "tradeDates": [
+    "2026-08-14"
+   ],
+   "sharesAfter": 25306689,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1900201/000190020126000005/0001900201-26-000005-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "AB Private Lending Fund",
+    "ticker": "AB-Lend",
+    "cik": "0001982701"
+   },
+   "owners": [
+    {
+     "name": "PM Alpha II DAC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 53060,
+   "avgPrice": 24.99,
+   "value": 1325965,
+   "tradeDates": [
+    "2026-03-02"
+   ],
+   "sharesAfter": 1182938.648,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1982701/000214676126000002/0002146761-26-000002-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Advasa Holdings, Inc.",
+   "filer": "Kosugi Asamitsu",
+   "percentOfClass": 47.76,
+   "sharesOwned": 232638232,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Parties acknowledge and agree that Taiji Ito acquired 5 shares of Company Common Stock upon the formation of the Company for a total purchase price of $5.00, and, immediately following the Closing, such shares of Company Common Stock shall be redeemed by the Corporation for a purchase price of $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2084227/000149315226038950/0001493152-26-038950-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Advasa Holdings, Inc.",
+   "filer": "Tatsuya Akimoto",
+   "percentOfClass": 27.81,
+   "sharesOwned": 135454900,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Parties acknowledge and agree that Taiji Ito acquired 5 shares of Company Common Stock upon the formation of the Company for a total purchase price of $5.00, and, immediately following the Closing, such shares of Company Common Stock shall be redeemed by the Corporation for a purchase price of $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2084227/000149315226038983/0001493152-26-038983-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Katapult Holdings, Inc.",
+   "filer": "BasePoint Group Inc.",
+   "percentOfClass": 26.8,
+   "sharesOwned": 23414790,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2150855/000215085526000002/0002150855-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "BlossomHill Therapeutics, Inc.",
+   "filer": "ORBIMED ADVISORS LLC",
+   "percentOfClass": 8.9,
+   "sharesOwned": 2714279,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "f the IPO, OrbiMed Advisors and OrbiMed GP, pursuant to their authority under the limited partnership agreement of OPI VIII, caused OPI VIII to purchase 625,000 Shares in the IPO at purchase price of $16.00 per Share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1839970/000094787126000813/0000947871-26-000813-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Braveheart Bio, Inc.",
+   "filer": "ORBIMED ADVISORS LLC",
+   "percentOfClass": 17.2,
+   "sharesOwned": 12175159,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Genesis\"), caused Genesis to purchase 273,333 Shares in the IPO, in each case at purchase price of $18.00 per Share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2131524/000094787126000814/0000947871-26-000814-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Conexeu Sciences Inc.",
+   "filer": "Jeffrey Sharpe",
+   "percentOfClass": 5.4,
+   "sharesOwned": 1500000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "orting Person, entered into a consulting services agreement pursuant to which the Reporting Person was granted 2,000,000 Performance Warrants to acquire shares of Common Stock at an exercise price of $0.001 per share, with a term of five years.",
+    "On December 23, 2025, the Reporting Person exercised the vested 500,000 Performance Warrants in full, acquiring 500,000 shares of Common Stock at an exercise price of $0.001 per share, for aggregate consideration of $500."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2066836/000106299326004475/0001062993-26-004475-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SunScout Holding Ltd",
+   "filer": "Cywinski Friedrich Edwin",
+   "percentOfClass": 27.5,
+   "sharesOwned": 6600000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Friedrich Edwin Cywinski transferred 46,875 ordinary shares of SunScout Limited, a New Zealand company, to the Issuer in satisfaction of AE Equity Limited's obligation of US$659,340 in respect of its 6,600,000 Class A Ordinary Shares and in consideration for the issue to it of 7,500,000 Class B Ordinary Shares."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148537/000214853726000004/0002148537-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SunScout Holding Ltd",
+   "filer": "Cywinski Marc",
+   "percentOfClass": 23.2,
+   "sharesOwned": 5360000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Marc Cywinski transferred 46,875 ordinary shares of SunScout Limited, a New Zealand company, to the Issuer in satisfaction of Solerin Equity Limited's obligation of US$535,464 in respect of its 5,360,000 Class A Ordinary Shares and in consideration for the issue to it of 7,500,000 Class B Ordinary Shares."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2147707/000214770726000002/0002147707-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "HeartSciences Inc.",
+   "filer": "Digital Currency Group, Inc.",
+   "percentOfClass": 9.4,
+   "sharesOwned": 411522,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "22 Shares reported herein pursuant to the Subscription Agreement dated as of August 12, 2026, by and between the Issuer and Fortitude (the \"Subscription Agreement\") for an aggregate purchase price of $999,998.46."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1652536/000121390026091367/0001213900-26-091367-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Katapult Holdings, Inc.",
+   "filer": "William Allan Jones",
+   "percentOfClass": 21.8,
+   "sharesOwned": 18502578,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2150301/000110465926098368/0001104659-26-098368-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Katapult Holdings, Inc.",
+   "filer": "KMJ Group Holdings, LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2149926/000110465926098440/0001104659-26-098440-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Suja Life, Inc.",
+   "filer": "Paine Schwartz Food Chain Fund V GP, Ltd.",
+   "percentOfClass": 62.77,
+   "sharesOwned": 24245169,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Suja Life Aggregator\") purchased an aggregate of 920,641 shares of Class A Common Stock in open market transactions, for which it paid an aggregate of $5,924,881.39, including brokerage commissions (the \"Open Market Purchases\").",
+    "8/10/2026 111,929 $6.43 1 Open Market Purchase PSP Suja Life Aggregator, L.",
+    "8/11/2026 108,440 $6.09 2 Open Market Purchase PSP Suja Life Aggregator, L.",
+    "8/12/2026 111,929 $6.13 3 Open Market Purchase PSP Suja Life Aggregator, L."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033641/0001140361-26-033641-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SKYE BIOSCIENCE, INC.",
+   "filer": "5AM Partners VII, LLC",
+   "percentOfClass": 25.9,
+   "sharesOwned": 9619519,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "and the Investors agreed to purchase, immediately after to the Effective Time, shares of Common Stock, and, as applicable, shares of Non-Voting Common Stock, for an aggregate purchase price of up to $72.9 million (the \"Concurrent Financing\").",
+    "has agreed to invest up to $10 million to purchase shares of Non-Voting Common Stock in the Concurrent Financing.",
+    "ately entered into a subscription agreement pursuant to which, prior to the closing of the Transaction, Redx intends to issue series A shares in the capital of Redx for an aggregate purchase price of $36.0 million (the \"Series A Financing\"), which shares will be part of the Scheme Shares under the Scheme of Arrangement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1873545/000187354526000007/0001873545-26-000007-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 51.69,
+   "sharesOwned": 1649839.57,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "22 $11.15 BBH* Class S Units of Beneficial Interest Purchase 8/17/2026 89,605."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003124/0000929638-26-003124-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Banzai International, Inc.",
+   "filer": "Alco Investment Company",
+   "percentOfClass": 0.4,
+   "sharesOwned": 13556,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2003690/000175392626001551/0001753926-26-001551-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KE Holdings Inc.",
+   "filer": "Baihui Partners L.P.",
+   "percentOfClass": 24.7,
+   "sharesOwned": 849601280,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1866019/000110465926098042/0001104659-26-098042-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Garg Vishal",
+   "percentOfClass": 13.7,
+   "sharesOwned": 2029224,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1835856/000119380526001110/0001193805-26-001110-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Birkenstock Holding plc",
+   "filer": "CB Beteiligungs GmbH &amp; Co. KG",
+   "percentOfClass": 10.2,
+   "sharesOwned": 16763510,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1977102/000119312526355386/0001193125-26-355386-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MapLight Therapeutics, Inc.",
+   "filer": "Catalyst4, Inc.",
+   "percentOfClass": 49.9,
+   "sharesOwned": 27536011,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Item 3 of the Original Schedule 13D is amended as follows: The aggregate purchase price for the shares acquired in the PIPE Offering (as defined below) by the Reporting Persons was $83,400,153.82.",
+    "The purchase price per share of voting common stock is $11.38 per share (the \"Purchase Price\") and the purchase price for the Pre-Funded Warrants is the Purchase Price minus $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1900201/000110465926098444/0001104659-26-098444-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Cerebras Systems, Inc.",
+   "filer": "Eclipse Continuity GP I, LLC",
+   "percentOfClass": 0.2,
+   "sharesOwned": 546645,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2021728/000119312526355477/0001193125-26-355477-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SunScout Holding Ltd",
+   "filer": "Cywinski Marc",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2147707/000214770726000003/0002147707-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "percentOfClass": null,
+   "sharesOwned": null,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the 1,285,347 shares of Class A Common Stock and accompanying warrants acquired by the Reporting Person was approximately $5 million.",
+    "The combined purchase price per share of Class A Common Stock and accompanying Warrant was $3.89."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1956439/000162828026057810/0001628280-26-057810-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Ensysce Biosciences, Inc.",
+   "filer": "Bob Gene Gower",
+   "percentOfClass": 6.1,
+   "sharesOwned": 1206576,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "United States of America On August 7, 2026, personal funds in the amount of $198,000 were used to purchase 400,000 shares of Common Stock at a price per share of $0.495, which purchase triggered the filing of this amended statement on Schedule 13D.",
+    "and Related Amendments to Senior Secured Convertible Notes by which outstanding convertible promissory notes with outstanding principal amounts, together with accrued and unpaid interest, aggregating $246,169.00 were converted into 508,614 shares of Common Stock and a warrant to purchase up to 254,307 share of Common Stock with a per share exercise price of $0.",
+    "connection with the Conversion described above in Item 3, the Reporting Person was issued a warrant (the \"Warrant\") to purchase up to 254,307 shares of Common Stock with a per share exercise price of $0.484."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226038943/0001493152-26-038943-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HUMACYTE, INC.",
+   "filer": "Fresenius Medical Care Holdings, Inc.",
+   "percentOfClass": 4.9,
+   "sharesOwned": 13603235,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/42872/000110465926098152/0001104659-26-098152-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KE Holdings Inc.",
+   "filer": "Propitious Global Holdings Limited",
+   "percentOfClass": 24.7,
+   "sharesOwned": 849601280,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1870503/000110465926098032/0001104659-26-098032-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PILGRIMS PRIDE CORP",
+   "filer": "Wesley Mendonca Batista",
+   "percentOfClass": 82.1,
+   "sharesOwned": 195450659,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1467955/000121390026091376/0001213900-26-091376-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NYLI CBRE Global Infrastructure Megatrends Term Fund",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 5.63,
+   "sharesOwned": 2928750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $38,560,994 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1855066/000106299326004497/0001062993-26-004497-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "World Acceptance Corporation",
+   "filer": "Prescott General Partners LLC",
+   "percentOfClass": 28.5,
+   "sharesOwned": 1330943,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 14, 2026, the Reporting Persons sold shares of Common Stock to the Issuer pursuant to its share repurchase program at a price of $187.69 per share effected via DWAC transfer as follows: (i) Prescott Associates: 72,460 shares (ii) Idoya Partners: 42,091 shares (iii) Prescott International Partners L."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1538653/000110465926098328/0001104659-26-098328-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "YY Group Holding Limited",
+   "filer": "Yinan Ren",
+   "percentOfClass": 48.33,
+   "sharesOwned": 3787379,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148796/000118518526003586/0001185185-26-003586-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TPG Inc.",
+   "filer": "TPG GP A, LLC",
+   "percentOfClass": 55.8,
+   "sharesOwned": 210848910,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1903793/000094787126000818/0000947871-26-000818-index.htm"
+  }
+ ]
+}

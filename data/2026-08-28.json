@@ -1,0 +1,517 @@
+{
+ "date": "2026-08-28",
+ "generated": "2026-09-19T23:27:34.793Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "GOLDMAN SACHS GROUP INC",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "GOLDMAN SACHS &amp; CO. LLC",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "GOLDMAN SACHS ASSET MANAGEMENT, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "Broad Street Principal Investments, L.L.C.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS OFFSHORE INVESTMENTS, SLP",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "West Street Life Sciences I, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS EMP OFFSHORE INVESTMENTS, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    },
+    {
+     "name": "WSLS EMP ONSHORE INVESTMENTS, L.P.",
+     "roles": [
+      "Former 10% Owner"
+     ]
+    }
+   ],
+   "shares": 585000,
+   "avgPrice": 17.5812,
+   "value": 10285000,
+   "tradeDates": [
+    "2026-08-05",
+    "2026-08-06"
+   ],
+   "sharesAfter": 85000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000088698226000522/0000886982-26-000522-index.htm"
+  },
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "WALSH COLIN",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 585000,
+   "avgPrice": 17.5812,
+   "value": 10285000,
+   "tradeDates": [
+    "2026-08-05",
+    "2026-08-06"
+   ],
+   "sharesAfter": 85000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000186617426000011/0001866174-26-000011-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Klarna Group plc",
+    "ticker": "KLAR",
+    "cik": "0002003292"
+   },
+   "owners": [
+    {
+     "name": "Siemiatkowski Sebastian",
+     "roles": [
+      "Director",
+      "Chief Executive Officer"
+     ]
+    }
+   ],
+   "shares": 692506,
+   "avgPrice": 14.3669,
+   "value": 9949164,
+   "tradeDates": [
+    "2026-08-26"
+   ],
+   "sharesAfter": 25344322,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2003292/000209710726000004/0002097107-26-000004-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Optimum Communications, Inc.",
+    "ticker": "OPTU",
+    "cik": "0001702780"
+   },
+   "owners": [
+    {
+     "name": "SUBIN NEIL S",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "MILFAM LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 3032354,
+   "avgPrice": 0.8095,
+   "value": 2454822,
+   "tradeDates": [
+    "2026-07-29",
+    "2026-07-30",
+    "2026-07-31",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-24",
+    "2026-08-25"
+   ],
+   "sharesAfter": 19549309,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1728825/000121390026095292/0001213900-26-095292-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "American Assets Trust, Inc.",
+    "ticker": "AAT",
+    "cik": "0001500217"
+   },
+   "owners": [
+    {
+     "name": "RADY ERNEST S",
+     "roles": [
+      "Director",
+      "Executive Chairman",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 100000,
+   "avgPrice": 22.54,
+   "value": 2254000,
+   "tradeDates": [
+    "2026-08-27",
+    "2026-08-28"
+   ],
+   "sharesAfter": 9045846,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1500217/000122135926000053/0001221359-26-000053-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Blackstone Private Equity Strategies Fund L.P.",
+    "ticker": "NONE",
+    "cik": "0001930054"
+   },
+   "owners": [
+    {
+     "name": "Patel Viral",
+     "roles": [
+      "Director",
+      "Chief Executive Officer"
+     ]
+    }
+   ],
+   "shares": 51084,
+   "avgPrice": 39.1515,
+   "value": 2000000,
+   "tradeDates": [
+    "2026-08-28"
+   ],
+   "sharesAfter": 151273.598,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1930054/000119312526374650/0001193125-26-374650-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "BIOMERICA INC",
+   "filer": "BRC Group Holdings, Inc.",
+   "percentOfClass": 10.03,
+   "sharesOwned": 460080,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 460,080 shares of Common Stock was $736,128 (the \"Purchased Shares\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/73290/000121390026095193/0001213900-26-095193-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Expion Energy, Inc.",
+   "filer": "Five Narrow Lane, LP",
+   "percentOfClass": 9.99,
+   "sharesOwned": 96317,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "FNL (together with the other purchasers) may also elect to purchase additional shares of the Company's convertible preferred stock (the \"AIR Preferred Stock\") with an aggregate stated value of up to $91,000,000, representing up to 91,000 shares of AIR Preferred Stock (the \"Additional Investment Right\").",
+    "nversion of shares of Preferred Stock with respect to which the actual sale price of the Conversion Shares (including any brokerage commissions) giving rise to such purchase obligation was a total of $10,000 under clause (A) of the immediately preceding sentence, the Corporation shall be required to pay such Holder $1,000.",
+    "tock having a total purchase price of $11,000 to cover a Buy-In with respect to an attempted exercise of shares of Common Stock with an aggregate sale price giving rise to such purchase obligation of $10,000, under clause (A) of the immediately preceding sentence the Company shall be required to pay the Holder $1,000.",
+    "Floor Price means $0.72 (subject to adjustment for reverse and forward stock splits, recapitalizations, and similar transactions following the date of the Purchase Agreement)."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000330/0001903596-26-000330-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Gouverneur Bancorp, Inc./MD/",
+   "filer": "Rosenberg J. David",
+   "percentOfClass": 5.1,
+   "sharesOwned": 54452,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 18, 2026, the Reporting Person purchased 2,000 shares for a purchase price of $19.85 per share.",
+    "On August 19, 2026, the Reporting Person purchased 2,027 shares for a purchase price of $19.60 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1978811/000167873126000003/0001678731-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "iOThree Limited",
+   "filer": "Lianyi Holding Limited",
+   "percentOfClass": 34.12,
+   "sharesOwned": 1034483,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Lianyi Holding Limited: Hong Kong Yu Chen: China Lianyi Holding Limited purchased 1,034,483 Ordinary Shares at US$0.87 per share, for an aggregate purchase price of US$900,000, pursuant to a Securities Purchase Agreement, dated January 10, 2026."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148790/000121390026095166/0001213900-26-095166-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VNET Group, Inc.",
+   "filer": "PJ Millennium Limited Partnership",
+   "percentOfClass": 11.4,
+   "sharesOwned": 195127260,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "asers\"), pursuant to which the Sellers agreed to sell, and the Purchasers agreed to acquire, an aggregate of 650,424,192 Class A Ordinary Shares (the \"Sale Shares\") at an aggregate consideration of US$942,182,804, or US$1.",
+    "The aggregate consideration allocated to the Seller B Shares Closing under the Share Purchase Agreement was US$282,654,841.",
+    "t to the Share Purchase Agreement, US$84,796,452 of the deposit previously paid by the Purchasers was treated as part of the consideration payable at the Seller B Shares Closing, and the balance of US$197,858,389 was payable to Seller B at the Seller B Shares Closing.",
+    "The Share Purchase Agreement provides for the purchase by the Purchasers of an aggregate of 650,424,192 Class A Ordinary Shares at US$1.4486 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2150447/000110465926102589/0001104659-26-102589-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "SharonAI Holdings Inc.",
+   "filer": "Situational Awareness LP",
+   "percentOfClass": 21.1,
+   "sharesOwned": 8070950,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The amount of funds used in purchasing the Issuer's Class A Ordinary Common Stock was $523,882,863.18.",
+    "brenner: 8,070,950 Shulman: 8,070,950 On June 30, 2026, the Fund exercised prefunded warrants to purchase 3,700,000 shares of the Issuer's Class A Ordinary Common Stock from the Issuer for a price of $0.0001 per share.",
+    "Pursuant to the Purchase Agreement, the Fund acquired a prefunded warrant (the \"Prefunded Warrant\") to purchase 6,374,823 shares of Class A Ordinary Common Stock for a purchase price of $0.0001 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Nautilus Biotechnology, Inc.",
+   "filer": "AH Bio Fund II, L.P.",
+   "percentOfClass": 5.6,
+   "sharesOwned": 7094691,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1725721/000172572126000006/0001725721-26-000006-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "First US Bancshares, Inc.",
+   "filer": "Charles C. Anderson",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/901213/000165495426007974/0001654954-26-007974-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CBL &amp; ASSOCIATES PROPERTIES INC",
+   "filer": "Amster Howard",
+   "percentOfClass": 7.8,
+   "sharesOwned": 2406467,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/904853/000090485326000005/0000904853-26-000005-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Lufax Holding Ltd",
+   "filer": "An Ke Technology Company Limited",
+   "percentOfClass": 44.9,
+   "sharesOwned": 967011824,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Lufax agreed to pay US$29,377,672.86 to PAOH as consideration for such extension."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1844293/000119312526375051/0001193125-26-375051-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Autolus Therapeutics plc",
+   "filer": "Renata Kellnerova",
+   "percentOfClass": 5.6,
+   "sharesOwned": 14782275,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1730463/000121390026095283/0001213900-26-095283-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TuHURA Biosciences, Inc.",
+   "filer": "James A. Bianco, M.D.",
+   "percentOfClass": 4.6,
+   "sharesOwned": 3085519,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1198554/000089706926001732/0000897069-26-001732-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Boost Run Inc.",
+   "filer": "Sean Goodrich",
+   "percentOfClass": 10.28,
+   "sharesOwned": 5136121,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "5% of the Sponsor's 4,007,222 Private Warrants) at a purchase price of $1.75 per Founder Share, for an aggregate purchase price of $2,227,548."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226040611/0001493152-26-040611-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "C3is Inc.",
+   "filer": "Imperial Petroleum Inc.",
+   "percentOfClass": 80.5,
+   "sharesOwned": 6136475,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1951067/000119312526374929/0001193125-26-374929-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MEDIROM Healthcare Technologies Inc.",
+   "filer": "Kouji Eguchi",
+   "percentOfClass": 25.11,
+   "sharesOwned": 2031558,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Eguchi's (i) grant of stock options to purchase 36,500 common shares at an exercise price of $1.74, which options were granted to Mr."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1836369/000119312526375039/0001193125-26-375039-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "L.I.A. Pure Capital Ltd.",
+   "percentOfClass": 19.35,
+   "sharesOwned": 3057488,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000121390026094703/0001213900-26-094703-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENERAL DYNAMICS CORPORATION",
+   "filer": "Longview Asset Management, LLC",
+   "percentOfClass": 10,
+   "sharesOwned": 27096788,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526374975/0001193125-26-374975-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "The Gabelli Healthcare &amp; WellnessRx Trust",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 14.32,
+   "sharesOwned": 2155133,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $20,771,553 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Vista Energy, S.A.B. de C.V.",
+   "filer": "Miguel Matias Galuccio",
+   "percentOfClass": 6.1,
+   "sharesOwned": 6739892,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1703610/000119312526374608/0001193125-26-374608-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Siebert Financial Corp.",
+   "filer": "Gloria E. Gebbia",
+   "percentOfClass": 42,
+   "sharesOwned": 17060603,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1692471/000121390026094978/0001213900-26-094978-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Quantum-Si Inc",
+   "filer": "ROTHBERG JONATHAN M",
+   "percentOfClass": 7.2,
+   "sharesOwned": 14376415,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1816431/000114036126034869/0001140361-26-034869-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rezolve AI plc",
+   "filer": "Daniel Maurice Wagner",
+   "percentOfClass": 13.8,
+   "sharesOwned": 55029792,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Bradley Wickens exercised his pre-existing contractual right to acquire 1,566,697 Ordinary Shares at $1.48 per share.",
+    "Wickens over 2,025,496 Ordinary Shares held directly by DBLP at $3.00 per share expired undexercised for no consideration."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1920294/000119312526374868/0001193125-26-374868-index.htm"
+  }
+ ]
+}

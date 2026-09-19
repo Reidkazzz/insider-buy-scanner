@@ -1,0 +1,592 @@
+{
+ "date": "2026-08-07",
+ "generated": "2026-09-19T23:06:38.917Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Braveheart Bio, Inc.",
+    "ticker": "BRVE",
+    "cik": "0002131524"
+   },
+   "owners": [
+    {
+     "name": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Forbion Growth III Management B.V.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Forbion Ventures Fund VII Cooperatief U.A.",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Forbion Ventures VII Management B.V.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 3600000,
+   "avgPrice": 18,
+   "value": 64800000,
+   "tradeDates": [
+    "2026-08-07"
+   ],
+   "sharesAfter": 10185478,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2131524/000119312526340528/0001193125-26-340528-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Attovia Therapeutics, Inc.",
+    "ticker": "ATTO",
+    "cik": "0002058707"
+   },
+   "owners": [
+    {
+     "name": "Redmile Group, LLC",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Green Jeremy",
+     "roles": [
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Redmile Biopharma Investments III, L.P.",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 600000,
+   "avgPrice": 17,
+   "value": 10200000,
+   "tradeDates": [
+    "2026-08-06"
+   ],
+   "sharesAfter": 1182854,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2058707/000110465926092867/0001104659-26-092867-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "MA Specialty Credit Income Fund",
+    "ticker": "SCISX",
+    "cik": "0002015849"
+   },
+   "owners": [
+    {
+     "name": "MA Eagle II Holdings Fund",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 404694,
+   "avgPrice": 24.71,
+   "value": 10000000,
+   "tradeDates": [
+    "2026-08-06"
+   ],
+   "sharesAfter": 3568254.14,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2049114/000094562126000995/0000945621-26-000995-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Braveheart Bio, Inc.",
+    "ticker": "BRVE",
+    "cik": "0002131524"
+   },
+   "owners": [
+    {
+     "name": "Murdoch Travis",
+     "roles": [
+      "Director",
+      "CEO and President"
+     ]
+    }
+   ],
+   "shares": 83333,
+   "avgPrice": 18,
+   "value": 1499994,
+   "tradeDates": [
+    "2026-08-07"
+   ],
+   "sharesAfter": 2940670,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2131524/000147083126000798/0001470831-26-000798-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Braveheart Bio, Inc.",
+    "ticker": "BRVE",
+    "cik": "0002131524"
+   },
+   "owners": [
+    {
+     "name": "Viehbacher Christopher",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 83333,
+   "avgPrice": 18,
+   "value": 1499994,
+   "tradeDates": [
+    "2026-08-07"
+   ],
+   "sharesAfter": 609519,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2131524/000147083126000801/0001470831-26-000801-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "OBSIDIAN ENERGY LTD.",
+   "filer": "Kernwood Ltd",
+   "percentOfClass": 6.1,
+   "sharesOwned": 4083414,
+   "recentTradeShares": 50500,
+   "avgPrice": 12.785,
+   "recentTradeValue": 645643,
+   "snippets": [
+    "common shares of the Issuer since the date of the most recent Schedule 13D amendment filed with the Securities and Exchange Commission on October 21, 2025 , at an approximate total purchase price of $5,298,738.78, on the dates and in the amounts specified below: Date No."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1719611/000091228226001051/0000912282-26-001051-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "ACRES Commercial Realty Corp.",
+   "filer": "Andrew Fentress",
+   "percentOfClass": 7.99,
+   "sharesOwned": 1074654,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1332551/000121390026086671/0001213900-26-086671-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "ACRES Commercial Realty Corp.",
+   "filer": "Mark Fogel",
+   "percentOfClass": 10.76,
+   "sharesOwned": 1447218,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1332551/000121390026086672/0001213900-26-086672-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "ACRES Commercial Realty Corp.",
+   "filer": "Martin Reasoner",
+   "percentOfClass": 11.41,
+   "sharesOwned": 1535506,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1332551/000121390026086681/0001213900-26-086681-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "AIRWA INC.",
+   "filer": "Stifano Mario",
+   "percentOfClass": 9.5,
+   "sharesOwned": 100000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the shares was approximately $46,000 Item 4.",
+    ", Limited announced by the Issuer on July 27, 2026 and completed on July 30, 2026, with $30 million of the purchase price paid in USDT (Tether).",
+    "Recent Transactions: The following open-market transactions in the Common Stock were executed by the Reporting Person within the past 60 days: * July 28, 2026: 25,000 shares purchased at $1.01 per share * July 28, 2026: 25,000 shares purchased at $0.",
+    "9654 per share * July 29, 2026: 15,000 shares purchased at $0.2997 per share * July 29, 2026: 20,000 shares purchased at $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1674440/000214920826000001/0002149208-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Hepion Pharmaceuticals, Inc.",
+   "filer": "Black Global 5 LLC",
+   "percentOfClass": 11.1,
+   "sharesOwned": 10000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "rities Purchase Agreement, Black Global purchased 10,000,000 shares of Common Stock together with one warrant to purchase up to an additional 10,000,000 shares of Common Stock at an exercise price of $0.06 per share for an aggregate purchase price of $500,000.",
+    "As of the date hereof, Black Global directly owns 10,000,000 shares of Common Stock and holds one warrant to purchase up to an additional 10,000,000 shares of Common Stock at an exercise price of $0.06 per share.",
+    "tock together with one warrant to purchase, subject to the Beneficial Ownership Limitations contained therein, up to an additional 10,000,000 shares of Common Stock for an aggregate purchase price of $500,000 in a private placement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2146838/000214683826000001/0002146838-26-000001-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Churchill Capital Corp XIII",
+   "filer": "Churchill Sponsor XIII LLC",
+   "percentOfClass": 25.47,
+   "sharesOwned": 14150000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Persons was $3,525,000.",
+    "On August 3, 2026, simultaneously with the consummation of the Issuer's Initial Public Offering (the \"IPO\"), the Sponsor purchased 350,000 units (\"Placement Units\") of the Issuer at $10.",
+    "ase Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on January 13, 2026, 14,375,000 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Founder Share Purchase Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2124749/000121390026086736/0001213900-26-086736-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Cocrystal Pharma, Inc.",
+   "filer": "OPKO HEALTH, INC.",
+   "percentOfClass": 29.6,
+   "sharesOwned": 5692916,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "OPKO entered into a Securities Purchase Agreement with the Issuer pursuant to which OPKO purchased 5,474,053 shares of Common Stock for a total purchase price of $5,000,000.",
+    "On July 31, 2026, OPKO and Issuer entered into the Securities Purchase Agreement pursuant to which OPKO purchased $5,000,000 of Common Stock from the Issuer.",
+    "s prior to the filing of this Schedule 13D, OPKO acquired a total of 5,474,053 shares of Common Stock on July 31, 2026, pursuant to the Securities Purchase Agreement for a per share purchase price of $0.9134 and a total purchase price of $5,000,000.",
+    "In the last 60 days prior to the filing of this Schedule 13D, FGIT acquired a total of 85,000 shares of Common Stock on the open market at prices ranging from $0.87 to $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1412486/000094480926000002/0000944809-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "VerifyMe, Inc.",
+   "filer": "Stedham Adam H",
+   "percentOfClass": 8.4,
+   "sharesOwned": 1171674,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1723447/000089183926000327/0000891839-26-000327-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "2023 ETF Series Trust",
+   "filer": "Harrison Street Private Wealth LLC",
+   "percentOfClass": 97.2,
+   "sharesOwned": 4203172,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The shares of NFRX were purchased by VCRRX as a portfolio holding for an aggregate price of $9,999,997.92.",
+    "VCRRX transacted in shares of NFRX as follows: On August 4, 2026, VCRRX purchased from an authorized participant 372,856 shares at an average price of $26.82 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1969674/000154282626000006/0001542826-26-000006-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ACRES Commercial Realty Corp.",
+   "filer": "ACRES Share Holdings, LLC",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1332551/000121390026086686/0001213900-26-086686-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 47.27,
+   "sharesOwned": 1382303.55,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "09 $10.79 Credit Partners Class S Units of Beneficial Interest Purchase 7/29/2026 20,464.",
+    "96 $10.96 BBH* Class S Units of Beneficial Interest Purchase 7/29/2026 28,060.",
+    "08 $10.96 BBH* Class S Units of Beneficial Interest Purchase 8/4/2026 21,550.",
+    "58 $10.99 BBH* Class S Units of Beneficial Interest Purchase 8/5/2026 227,066."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826002925/0000929638-26-002925-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Arcus Biosciences, Inc.",
+   "filer": "Gilead Sciences, Inc.",
+   "percentOfClass": 24.7,
+   "sharesOwned": 31424760,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Gilead acquired from the Issuer 2,200,000 shares of Common Stock in the Issuer's public offering (the \"2020 Public Offering\") at the public offering price of $27.50 per share.",
+    "The total consideration paid by Gilead for these shares of Common Stock was $60,500,000, and such consideration was obtained from the available cash resources of Gilead.",
+    "red into the Purchase Agreement (as defined below) pursuant to which Gilead agreed to purchase an initial 5,963,029 shares of the Issuer's Common Stock (the \"Initial Purchase\") at a purchase price of $33.54 per share (the \"Initial Purchase Price\"), which purchase occurred on July 13, 2020.",
+    "The total consideration for the Initial Purchase was $199,999,992.66, and such consideration was obtained from the available cash resources of Gilead."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1724521/000110465926092737/0001104659-26-092737-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aurora Innovation, Inc.",
+   "filer": "Index Ventures Growth III (Jersey), L.P.",
+   "percentOfClass": 2.2,
+   "sharesOwned": 37658409,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 5, 2026, Index Growth III and Yucca sold 177,085 shares and 2,697 shares, respectively, of the Issuer's Class A Common Stock in open market transactions for an average price of $7.0746 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1828108/000119312526340465/0001193125-26-340465-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Battalion Oil Corporation",
+   "filer": "GEN IV INVESTMENT OPPORTUNITIES, LLC",
+   "percentOfClass": 14.14,
+   "sharesOwned": 3494258,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "11 shares of Series A-1 Preferred Stock for an aggregate purchase price of $19,000,000 (the \"Purchase Price\").",
+    "on the date of this Agreement, Seller hereby sells and transfers to the Company, and the Company agrees to purchase and acquire from Seller, (a) the Series A Repurchase Shares at a price per share of $ 1,685.2505 and (b) the Series A-1 Repurchase Shares at a price per share of $1,572.",
+    "0604, for an aggregate purchase price of $ 19,000,000.00 (the Purchase Price and such transactions, the Repurchase )."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926092824/0001104659-26-092824-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Cannae Holdings, Inc.",
+   "filer": "CARRONADE CAPITAL MANAGEMENT, LP",
+   "percentOfClass": 7.8,
+   "sharesOwned": 3395965,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 2,947,370 Shares beneficially owned by Carronade is approximately $53,983,128, excluding brokerage commissions.",
+    "The aggregate purchase price of the 448,595 Shares held in the Managed Accounts is approximately $7,224,577, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1866872/000092189526002009/0000921895-26-002009-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "HWH INTERNATIONAL INC.",
+   "filer": "Heng Fai Ambrose Chan",
+   "percentOfClass": 84.7,
+   "sharesOwned": 6584319,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1261725/000149315226036495/0001493152-26-036495-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Cocrystal Pharma, Inc.",
+   "filer": "Phillip Frost, M.D.",
+   "percentOfClass": 13.9,
+   "sharesOwned": 2784719,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 3, 2026, the Reporting Persons purchased 75,000 shares of the Issuer's common stock in the open market at $0.9412 per share.",
+    "On August 5, 2026, the Reporting Persons purchased an additional 10,000 shares of the Issuer's common stock in the open market at $0.9816 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1412486/000149315226036650/0001493152-26-036650-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Corebridge Financial, Inc.",
+   "filer": "Nippon Life Insurance Company",
+   "percentOfClass": 27.4,
+   "sharesOwned": 121989527,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1889539/000119312526340229/0001193125-26-340229-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "DWS Municipal Income Trust",
+   "filer": "Sit Investment Associates, Inc.",
+   "percentOfClass": 24.1,
+   "sharesOwned": 9432271,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/839533/000089710126000346/0000897101-26-000346-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Gran Tierra Energy Inc.",
+   "filer": "Equinox Partners Investment Management LLC",
+   "percentOfClass": 13.5,
+   "sharesOwned": 4781471,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate amount of funds used for the purchase of the Shares held by the Reporting Persons is approximately $25,511,601.87, including commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/938552/000114036126031878/0001140361-26-031878-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Evogene Ltd.",
+   "filer": "L.I.A. Pure Capital Ltd.",
+   "percentOfClass": 15.98,
+   "sharesOwned": 2524400,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1574565/000121390026086674/0001213900-26-086674-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Franklin BSP Lending Fund",
+   "filer": "FRANKLIN RESOURCES INC",
+   "percentOfClass": 38.7,
+   "sharesOwned": 75000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Holdco\"), a wholly-owned subsidiary of FRI, acquired 75,000 Class I shares, (\"Shares\") on January 29, 2026, using its own working capital, for a purchase price of $750,000.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877726000219/0000038777-26-000219-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Shoulder Innovations, Inc.",
+   "filer": "Gilde Healthcare Holding B.V.",
+   "percentOfClass": 10.7,
+   "sharesOwned": 2212207,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1420106/000119312526340485/0001193125-26-340485-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KIDZ AI Inc.",
+   "filer": "Luo Hui",
+   "percentOfClass": 39.1,
+   "sharesOwned": 8283314,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2022308/000109489126000277/0001094891-26-000277-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LOEWS CORP",
+   "filer": "Andrew H. Tisch",
+   "percentOfClass": 7.3,
+   "sharesOwned": 15024959,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/60086/000114036126031842/0001140361-26-031842-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LOEWS CORP",
+   "filer": "James S. Tisch",
+   "percentOfClass": 8.4,
+   "sharesOwned": 17267750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/60086/000114036126031845/0001140361-26-031845-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Quantum Cyber N.V.",
+   "filer": "Lazar David E.",
+   "percentOfClass": 94.3,
+   "sharesOwned": 477000000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1932843/000182912626008487/0001829126-26-008487-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Vertical Aerospace Ltd.",
+   "filer": "Mudrick Capital Management, L.P.",
+   "percentOfClass": 55,
+   "sharesOwned": 105401051,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Since April 20, 2026, the Company has caused MCM, on behalf of certain of the Reporting Persons, to purchase $15,000,000 in Additional Notes.",
+    "\") entered into among MCM, the Company and certain other parties thereto, MCM agreed in principle, subject to further negotiation and the execution of definitive agreements, to purchase the remaining $35,000,000 Additional Notes that have not been yet been purchased under the Convertible Note Purchase Agreement on the amended terms set forth in the Term Sheet.",
+    "eet with the Company, pursuant to which MCM, on behalf of certain of the Reporting Persons, agreed in principle, subject to further negotiation and the execution of definitive agreements, to purchase $35 million of Additional Notes from the Company (the \"Convertible Notes Purchase\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1655183/000110465926092862/0001104659-26-092862-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rithm Property Trust Inc.",
+   "filer": "Rithm Capital Corp.",
+   "percentOfClass": 17.1,
+   "sharesOwned": 1447680,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ally owns 1,447,680 shares of Common Stock, including 544,154 Warrant Shares that the Reporting Person has the right to acquire upon exercise of the Warrants at an exercise price per Warrant Share of $32.16, representing approximately 17."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1556593/000110465926092724/0001104659-26-092724-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Symbotic Inc.",
+   "filer": "Walmart Inc.",
+   "percentOfClass": 39.9,
+   "sharesOwned": 76350823,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1837240/000112329226001073/0001123292-26-001073-index.htm"
+  }
+ ]
+}

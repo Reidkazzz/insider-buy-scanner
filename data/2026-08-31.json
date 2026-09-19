@@ -1,0 +1,278 @@
+{
+ "date": "2026-08-31",
+ "generated": "2026-09-19T23:28:31.178Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Privacore VPC Asset Backed Credit Fund",
+    "ticker": "NONE",
+    "cik": "0002066579"
+   },
+   "owners": [
+    {
+     "name": "BANKERS LIFE &amp; CASUALTY CO",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 493097,
+   "avgPrice": 10.14,
+   "value": 5000000,
+   "tradeDates": [
+    "2026-08-28"
+   ],
+   "sharesAfter": 5967859.035,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/903939/000090393926000028/0000903939-26-000028-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "TDH Holdings, Inc.",
+    "ticker": "PETZ",
+    "cik": "0001684425"
+   },
+   "owners": [
+    {
+     "name": "Liu Dandan",
+     "roles": [
+      "Director",
+      "CEO and Chair",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 2969692,
+   "avgPrice": 1.2,
+   "value": 3563630,
+   "tradeDates": [
+    "2026-08-27"
+   ],
+   "sharesAfter": 5069389,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766147/000121390026095705/0001213900-26-095705-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Etoiles Capital Group Co., Ltd",
+   "filer": "Etoiles Zeneo Investment Ltd",
+   "percentOfClass": 68.08,
+   "sharesOwned": 10287000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "90% of the issued Class A equity interests in the Company, at the consideration of US$125,642, US$117,949, US$120,513, US$120,513 and US$125,642, respectively."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2058349/000121390026095550/0001213900-26-095550-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "LeonaBio, Inc.",
+   "filer": "Sermonix Pharmaceuticals, Inc.",
+   "percentOfClass": 36.9,
+   "sharesOwned": 5502402,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1620463/000165556626000003/0001655566-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Southern Cross Acquisition II Corp.",
+   "filer": "Southern Cross Acquisition II Sponsor Corp.",
+   "percentOfClass": 27.75,
+   "sharesOwned": 3025800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On May 26, 2026, the Issuer issued 2,875,000 ordinary shares as founder shares to the Sponsor for an aggregate purchase price of $25,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2133239/000192998026000515/0001929980-26-000515-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Starfighters Space, Inc.",
+   "filer": "Richard William Svetkoff",
+   "percentOfClass": 23.85,
+   "sharesOwned": 13119179,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "le lists all transactions completed by the Reporting Person in the Common Stock since May 8, 2026, which were sold through the Reporting Person's broker in open market transactions 5/8/26 Sold 75,000 $5.7232 per share; 5/11/26 Sold 100,000 $5."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1947016/000149315226040788/0001493152-26-040788-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CAMP4 THERAPEUTICS CORPORATION",
+   "filer": "5AM Ventures VI, L.P.",
+   "percentOfClass": 3.2,
+   "sharesOwned": 2033270,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1753037/000175303726000007/0001753037-26-000007-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hyperscale Data, Inc.",
+   "filer": "Ault &amp; Company, Inc.",
+   "percentOfClass": 57.7,
+   "sharesOwned": 186963677,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Ault with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $320,964, including brokerage commissions.",
+    "Horne with personal funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $33,770, including brokerage commissions.",
+    "rectly by Ault & Company with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is approximately $3,270,070, including brokerage commissions.",
+    "The purchase price of the 4,000 shares of Series H Convertible Preferred Stock owned directly by Ault & Company, which are currently convertible into 13,333,333 Class A Shares is $4,000,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1212502/000119380526001166/0001193805-26-001166-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Hims &amp; Hers Health, Inc.",
+   "filer": "Andrew Dudum",
+   "percentOfClass": 9.4,
+   "sharesOwned": 22610002,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1837796/000119312526377305/0001193125-26-377305-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "The Gap, Inc.",
+   "filer": "William S. Fisher",
+   "percentOfClass": 14.6,
+   "sharesOwned": 51210063,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1217081/000110465926103992/0001104659-26-103992-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NATHANS FAMOUS, INC.",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000078/0000807249-26-000078-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "STRATTEC SECURITY CORP",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000079/0000807249-26-000079-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Grove Collaborative Holdings, Inc.",
+   "filer": "HCI Grove, LLC",
+   "percentOfClass": 2.6,
+   "sharesOwned": 1111110,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841761/000119380526001164/0001193805-26-001164-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "filer": "Hyperscale Data, Inc.",
+   "percentOfClass": 38.2,
+   "sharesOwned": 1155462,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "&C that were purchased directly by A&C with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $18,824.80, including brokerage commissions.",
+    "were purchased directly by Alpha Fund with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $105,815.32, including brokerage commissions.",
+    "ere purchased directly by Ault Lending with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases is $2,549,290.10, including brokerage commissions.",
+    "owned by Ault Lending that were purchased by Ault Lending pursuant to the Stock Purchase Agreement (the \"January Purchase Agreement\") with JLA Realty Associates LLC (\"JLA\") dated January 16, 2026, is $1,800,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/896493/000092189526002441/0000921895-26-002441-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JAPAN SMALLER CAPITALIZATION FUND, INC.",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 7.73,
+   "sharesOwned": 2190551,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $17,898,526 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/859796/000106299326004742/0001062993-26-004742-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Klaviyo, Inc.",
+   "filer": "Shopify Strategic Holdings 3 LLC",
+   "percentOfClass": 20.83,
+   "sharesOwned": 33405047,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1835830/000119312526377123/0001193125-26-377123-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TDH Holdings, Inc.",
+   "filer": "Dandan Liu",
+   "percentOfClass": 49.11,
+   "sharesOwned": 5069389,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Liu purchased an aggregate 2,969,692 common shares of the Company from certain shareholders for an aggregate purchase price of $3,563,630.40."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1766147/000121390026095704/0001213900-26-095704-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Suja Life, Inc.",
+   "filer": "Paine Schwartz Food Chain Fund V GP, Ltd.",
+   "percentOfClass": 67.6,
+   "sharesOwned": 26107565,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Suja Life Aggregator\") purchased an aggregate of 827,248 shares of Class A Common Stock in open market transactions, for which it paid an aggregate of $7,890,116.38, including brokerage commissions (the \"Open Market Purchases\").",
+    "P 8/26/2026 233,624 $9.59 Open Market Purchase $9.",
+    "P 8/27/2026 233,624 $9.12 Open Market Purchase $8.",
+    "P 8/28/2026 185,000 $9.33 Open Market Purchase $9."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035129/0001140361-26-035129-index.htm"
+  }
+ ]
+}

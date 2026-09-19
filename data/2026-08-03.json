@@ -1,0 +1,280 @@
+{
+ "date": "2026-08-03",
+ "generated": "2026-09-19T22:59:58.941Z",
+ "defaultMinUsd": 10000000,
+ "form4": [],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Valion Bio, Inc.",
+   "filer": "3i, LP",
+   "percentOfClass": 9.9,
+   "sharesOwned": 446759,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "uant to the Note Purchase Agreement, on December 10, 2025, the Issuer issued to 3i, LP the Note and Warrants to purchase up to an aggregate of 4,553,213 shares of Common Stock at an exercise price of $2.2310 per share for an aggregate purchase price of $16,253,147.",
+    "tock issuable upon conversion in full of the shares of Series C Preferred Stock issued in connection with the same tranche closing (each, a \"Tranche Closing\") for an aggregate purchase price of up to $75,000,000 (the \"Series C Preferred Offering\") in several Tranche Closings.",
+    "Purchase Agreement, on December 10, 2025, the Issuer issued to 3i, LP 6,000 shares of Series C Preferred Stock and Warrants to purchase up to 1,452,264 shares of Common Stock at an exercise price of $2.2310 per share for an aggregate purchase price of $6,000,000.",
+    "tock equal to 30% of the shares of Common Stock issuable upon conversion in full of the shares of Series B Preferred Stock issued at the same Tranche Closing, for an aggregate purchase price of up to $8,400,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1841619/000175392626001299/0001753926-26-001299-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Bluerock Private Real Estate Fund",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 5.03,
+   "sharesOwned": 7201382,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $106,365,405 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1551047/000106299326003985/0001062993-26-003985-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Sonos, Inc.",
+   "filer": "Coliseum Capital Management, LLC",
+   "percentOfClass": 15.3,
+   "sharesOwned": 18070762,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "asing the Common Stock by the Reporting Persons and a separate account investment advisory client of CCM (the \"Separate Account\") were as follows: Purchaser Source of Fund Amounts CCP Working Capital $171,513,406.75 CCC IV Working Capital $32,376,075.",
+    "46 Separate Account Working Capital $38,313,508.49 The Reporting Persons acquired the Common Stock for investment purposes, and such purposes were made in the Reporting Persons' ordinary course of business."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1409751/000119312526330596/0001193125-26-330596-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "JBDI Holdings Ltd",
+   "filer": "Neo Chin Heng",
+   "percentOfClass": 46,
+   "sharesOwned": 394791,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1964314/000149315226035789/0001493152-26-035789-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "JBDI Holdings Ltd",
+   "filer": "Ng Eng Guan",
+   "percentOfClass": 46,
+   "sharesOwned": 394791,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1964314/000149315226035792/0001493152-26-035792-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "LogicMark, Inc.",
+   "filer": "Chia-Lin Simmons",
+   "percentOfClass": 8.3,
+   "sharesOwned": 74965,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1566826/000121390026084715/0001213900-26-084715-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Market Technology Acquisition Corp",
+   "filer": "Market Technology Acquisition Sponsor LLC",
+   "percentOfClass": 26,
+   "sharesOwned": 7285833,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Persons was $4,550,000.",
+    "On July 23, 2026, the Sponsor purchased 452,500 units (\"Placement Units\") of the Issuer at $10.",
+    "rchase Agreement between the Issuer and Sponsor In connection with the organization of the Issuer, on April 28, 2026, 7,666,667 Class B Ordinary Shares were purchased by the Sponsor for the amount of $25,000, pursuant to the Founder Share Purchase Agreement."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2133136/000121390026084729/0001213900-26-084729-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ASA Gold and Precious Metals Limited",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 32.16,
+   "sharesOwned": 5903701,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $173,266,631 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1230869/000106299326003983/0001062993-26-003983-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rush Street Interactive, Inc.",
+   "filer": "BLUHM NEIL",
+   "percentOfClass": 46.5,
+   "sharesOwned": 100085274,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1373161/000110465926089956/0001104659-26-089956-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BlackRock ESG Capital Allocation Term Trust",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 15.88,
+   "sharesOwned": 15798219,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $234,847,146 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1864843/000106299326003987/0001062993-26-003987-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TransCode Therapeutics, Inc.",
+   "filer": "DEFJ, LLC",
+   "percentOfClass": 83.9,
+   "sharesOwned": 14134481,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1297567/000110465926089819/0001104659-26-089819-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MapLight Therapeutics, Inc.",
+   "filer": "Catalyst4, Inc.",
+   "percentOfClass": 47.9,
+   "sharesOwned": 20906689,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the following information: During the last 60 days, the Reporting Persons acquired 1,209,225 Shares of the Issuer in multiple open market transactions for an aggregate purchase price of approximately $15.3 million, including commissions, as further disclosed in Item 5(c) of this Schedule 13D, which is incorporated by reference herein.",
+    "These shares were purchased in multiple transactions at prices ranging from $10.295 to $12."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1900201/000110465926089960/0001104659-26-089960-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Ellomay Capital Ltd.",
+   "filer": "O.Y. Nofar Energy Ltd.",
+   "percentOfClass": 75,
+   "sharesOwned": 10340946,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/946394/000117891326003747/0001178913-26-003747-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Franklin BSP Lending Fund",
+   "filer": "FRANKLIN RESOURCES INC",
+   "percentOfClass": 46.6,
+   "sharesOwned": 75000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Holdco\"), a wholly-owned subsidiary of FRI, acquired 75,000 Class I shares, (\"Shares\") on January 29, 2026, using its own working capital, for a purchase price of $750,000.00."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877726000218/0000038777-26-000218-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MYERS INDUSTRIES INC",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000059/0000807249-26-000059-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENESCO INC",
+   "filer": "Radoff Bradley Louis",
+   "percentOfClass": 4.3,
+   "sharesOwned": 480000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 535,000 Shares directly owned by Jumana Capital is approximately $16,438,218, including brokerage commissions.",
+    "1478 07/01/2026 JUMANA CAPITAL INVESTMENTS LLC Purchase of Common Stock 10,000 $33.8160 06/30/2026 Purchase of Common Stock 11,479 $34.",
+    "2463 07/01/2026 Purchase of Common Stock 3,521 $34.4400 07/02/2026 EX-99."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/18498/000092189526001927/0000921895-26-001927-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "International General Insurance Holdings Ltd.",
+   "filer": "Oman International Development &amp; Investment Co. SAOG",
+   "percentOfClass": 21.4,
+   "sharesOwned": 9115138,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Person effected the following sales of Common Shares during the past sixty days: Date Amount of Common Price Per Common Share Where and How Effected Shares Sold May 26, 2026 40,000 $25.00 Open Market May 27, 2026 20,000 $25.",
+    "00 Open Market June 11, 2026 80,000 $25.08 Open Market June 12, 2026 100,000 $25.",
+    "17 Open Market June 15, 2026 7,636 $25.00 Open Market June 18, 2026 24,256 $25.",
+    "00 Open Market June 22, 2026 68,108 $25.00 Open Market June 29, 2026 3,583 $26."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1794338/000110465926089607/0001104659-26-089607-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KUSTOM ENTERTAINMENT, INC.",
+   "filer": "Martin Ryan Todd",
+   "percentOfClass": 43,
+   "sharesOwned": 260000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1342958/000214802926000003/0002148029-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "KUSTOM ENTERTAINMENT, INC.",
+   "filer": "Martin Ryan Todd",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1342958/000214802926000004/0002148029-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "lululemon athletica inc.",
+   "filer": "Dennis J. Wilson",
+   "percentOfClass": 8.4,
+   "sharesOwned": 9576564,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1407029/000119312526330833/0001193125-26-330833-index.htm"
+  }
+ ]
+}

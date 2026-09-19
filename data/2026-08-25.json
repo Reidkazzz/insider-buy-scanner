@@ -1,0 +1,407 @@
+{
+ "date": "2026-08-25",
+ "generated": "2026-09-19T23:24:24.615Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "John Hancock Marathon Asset-Based Lending Fund",
+    "ticker": "N/A",
+    "cik": "0001885778"
+   },
+   "owners": [
+    {
+     "name": "Manulife Private Credit Plus Fund",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 438596,
+   "avgPrice": 20.52,
+   "value": 9000000,
+   "tradeDates": [
+    "2025-12-01"
+   ],
+   "sharesAfter": 3394958.354,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1885778/000198885526000011/0001988855-26-000011-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Alpha Metallurgical Resources, Inc.",
+    "ticker": "AMR",
+    "cik": "0001704715"
+   },
+   "owners": [
+    {
+     "name": "Gorzynski Michael",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    },
+    {
+     "name": "Percy Rockdale LLC",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    },
+    {
+     "name": "MG Capital Management Ltd.",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    },
+    {
+     "name": "CONTINENTAL GENERAL INSURANCE CO",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    },
+    {
+     "name": "Continental Insurance Group, Ltd.",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    },
+    {
+     "name": "Continental General Holdings LLC",
+     "roles": [
+      "Director",
+      "10% Owner",
+      "See Remarks"
+     ]
+    }
+   ],
+   "shares": 10000,
+   "avgPrice": 208.9169,
+   "value": 2089169,
+   "tradeDates": [
+    "2026-08-21"
+   ],
+   "sharesAfter": 654025,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1704715/000092189526002305/0000921895-26-002305-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Phunware, Inc.",
+   "filer": "Goldenwise Capital Group Ltd",
+   "percentOfClass": 7,
+   "sharesOwned": 1438755,
+   "recentTradeShares": 11113,
+   "avgPrice": 1.0178,
+   "recentTradeValue": 11311,
+   "snippets": [
+    "The aggregate amount of funds used for the purchase of the securities reported herein was ap proximately USD $2,760,396, including brokerage commissions.",
+    "txt TRANSACTION TRANSACTIONS IN COMMON STOCK AND OPTIONS DURING THE PAST 60 DAYS COMMON STOCK Date Shares Price Transaction 06/23/2026 800 $1.89 Purchase 06/24/2026 18,727 $1.",
+    "89 Purchase 06/29/2026 2,000 $1.89 Purchase 06/30/2026 4,437 $2.",
+    "05 Purchase 07/07/2026 23,000 $2.01 Purchase 07/08/2026 20,229 $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1989386/000198938626000011/0001989386-26-000011-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "CHARTER COMMUNICATIONS, INC.",
+   "filer": "Cox Enterprises, Inc.",
+   "percentOfClass": 27.9,
+   "sharesOwned": 46153885,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Transaction Agreement: (a) in consideration of the equity sale, the Issuer paid $3.",
+    "5 billion in cash to CCEH; (b) in consideration of the contribution, Charter Holdings (i) paid to CCEH approximately $724 million in cash and (ii) issued to CCEH convertible preferred units of Charter Holdings with an aggregate liquidation preference of $6.",
+    "875% coupon and 33,586,045 Charter Holdings Class C Common Units priced at $353.64 per share; and (c) in consideration of the $1."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1091667/000110465926100879/0001104659-26-100879-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Moleculin Biotech, Inc.",
+   "filer": "Foster Jonathan P.",
+   "percentOfClass": 6.3,
+   "sharesOwned": 1288207,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "oster purchased 293,333 shares of Common Stock and Series I Common Stock Purchase Warrants (\"Common Warrants\") to purchase up to 879,999 shares of Common Stock, at a combined public offering price of $0.75 per one share of Common Stock and three accompanying Common Warrants, for an aggregate purchase price of approximately $219,999.",
+    "Foster acquired 293,333 shares of Common Stock and Common Warrants to purchase 879,999 shares of Common Stock pursuant to the Issuer's public offering at a combined purchase price of $0.75 per one share of Common Stock and three accompanying Common Warrants."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1545414/000143774926028927/0001437749-26-028927-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Xponential Fitness, Inc.",
+   "filer": "Fund 1 Investments, LLC",
+   "percentOfClass": 9.9,
+   "sharesOwned": 4170610,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 4,170,610 Shares beneficially owned by the Reporting Person is approximately $25,854,365, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1959730/000119380526001136/0001193805-26-001136-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "House of Doge Inc.",
+   "filer": "Much Wow Ltd.",
+   "percentOfClass": 10.1,
+   "sharesOwned": 7718866,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1903595/000215171126000002/0002151711-26-000002-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Moleculin Biotech, Inc.",
+   "filer": "KLEMP WALTER V",
+   "percentOfClass": 9.9,
+   "sharesOwned": 2070761,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "emp purchased 533,333 shares of Common Stock and Series I Common Stock Purchase Warrants (\"Common Warrants\") to purchase up to 1,599,999 shares of Common Stock, at a combined public offering price of $0.75 per one share of Common Stock and three accompanying Common Warrants, for an aggregate purchase price of approximately $399,999.",
+    "Klemp acquired 533,333 shares of Common Stock and Common Warrants to purchase 1,599,999 shares of Common Stock pursuant to the Issuer's public offering at a combined purchase price of $0.75 per one share of Common Stock and three accompanying Common Warrants."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/938419/000143774926028926/0001437749-26-028926-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Nu-Med Plus, Inc.",
+   "filer": "Fred Tejada",
+   "percentOfClass": 9.7,
+   "sharesOwned": 8131250,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1543637/000157587226000616/0001575872-26-000616-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ADAMAS TRUST, INC.",
+   "filer": "Amster Howard",
+   "percentOfClass": 4.9,
+   "sharesOwned": 4381764,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1273685/000090485326000004/0000904853-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "AMG BBH Asset-Backed Credit Fund, LLC",
+   "filer": "BROWN BROTHERS HARRIMAN &amp; CO",
+   "percentOfClass": 56.94,
+   "sharesOwned": 2038790.89,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "24 $11.18 BBH* Class S Units of Beneficial Interest Purchase 8/24/2026 6,696."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097545/000092963826003202/0000929638-26-003202-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Better Home &amp; Finance Holding Co",
+   "filer": "Steven Sarracino",
+   "percentOfClass": 8.9,
+   "sharesOwned": 1290178,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1992147/000090883426000459/0000908834-26-000459-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "WhiteFiber, Inc.",
+   "filer": "Bit Digital, Inc.",
+   "percentOfClass": 59.9,
+   "sharesOwned": 27043750,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1710350/000121390026093678/0001213900-26-093678-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Identiv, Inc. (INVE)",
+   "filer": "Bleichroeder LP",
+   "percentOfClass": 19.9,
+   "sharesOwned": 5247467,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1781002/000142050626001958/0001420506-26-001958-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Civeo Corp",
+   "filer": "ENGINE CAPITAL, L.P.",
+   "percentOfClass": 4,
+   "sharesOwned": 409947,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 409,947 Shares beneficially owned by Engine Capital is approximately $9,695,403, including brokerage commissions.",
+    "The aggregate purchase price of the 34,285 Shares beneficially owned by Engine Jet is approximately $810,516, including brokerage commissions.",
+    "The aggregate purchase price of the 37,247 Shares beneficially owned by Engine Lift is approximately $881,453, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1590584/000092189526002312/0000921895-26-002312-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SONIDA SENIOR LIVING, INC.",
+   "filer": "Conversant Dallas Parkway (A) LP",
+   "percentOfClass": 15.9,
+   "sharesOwned": 7826361,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1850901/000089534526000375/0000895345-26-000375-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GENCO SHIPPING &amp; TRADING LTD",
+   "filer": "Diana Shipping Inc.",
+   "percentOfClass": 11.62,
+   "sharesOwned": 5064548,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Transaction Date Transaction Type Number of Shares Purchase Price August 21, 2026 Open Market Sales 75,000 $ 26.93 (1) August 21, 2026 Open Market Sales 375,000 $ 26.",
+    "59 (2) August 24, 2026 Open Market Sales 75,000 $ 27.22 (3) August 24, 2026 Open Market Sales 75,000 $ 26.",
+    "94 (4) August 24, 2026 Open Market Sales 75,000 $ 26.65 (5) August 24, 2026 Open Market Sales 75,000 $ 26.",
+    "54 (6) August 24, 2026 Open Market Sales 75,000 $ 26.50 (7) August 24, 2026 Open Market Sales 375,000 $ 26."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1318885/000091957426005709/0000919574-26-005709-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Edesa Biotech, Inc.",
+   "filer": "Velan Capital Master Fund LP",
+   "percentOfClass": 8,
+   "sharesOwned": 1081385,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Pursuant to the Purchase Agreement (as defined in the initial Schedule 13D), Velan Master purchased 421,875 Shares and 366 Preferred Shares (as defined in the initial Schedule 13D) for $4,470,000.",
+    "The aggregate purchase price of the 140,000 Shares Velan Master purchased in the open market is approximately $238,294, excluding brokerage commissions.",
+    "The aggregate purchase price of the 445,100 Shares and 445,100 New Warrants (as defined and described below) that Velan Master purchased in the Offering (as defined and described below) is $2,448,050.",
+    "Pursuant to the Purchase Agreement, Velan Horizon purchased 15,625 Shares and 7 Preferred Shares for $100,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1540159/000092189526002310/0000921895-26-002310-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "EDESA BIOTECH, INC.",
+   "filer": "Pardeep Nijhawan Medicine Professional Corporation",
+   "percentOfClass": 7.8,
+   "sharesOwned": 1164676,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326005738/0001171843-26-005738-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Freightos Limited",
+   "filer": "M&amp;G Investment Management Limited",
+   "percentOfClass": 18.18,
+   "sharesOwned": 9866094,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1927719/000119312526364388/0001193125-26-364388-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Ming Shing Group Holdings Ltd",
+   "filer": "Lam Chi Ming",
+   "percentOfClass": 62.4,
+   "sharesOwned": 8094865,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2028403/000202840326000012/0002028403-26-000012-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "LeonaBio, Inc.",
+   "filer": "Perceptive Advisors LLC",
+   "percentOfClass": 19.99,
+   "sharesOwned": 1889403,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1620463/000119312526365096/0001193125-26-365096-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Workhorse Group Inc.",
+   "filer": "Motive GM Holdings II LLC",
+   "percentOfClass": 65.4,
+   "sharesOwned": 8129800,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "al ownership of the Reporting Persons as a result of the acquisition by MGMH II of warrants to purchase an aggregate of 1,500,000 shares of the Company's Common Stock, with an exercise price equal to $10.00 per share (the \"Warrants\").",
+    "ndment (each as defined below), the Issuer issued to MGMH II the Warrants, consisting of (i) a warrant to purchase 750,000 shares of Common Stock issued in connection with the additional borrowing of $10,000,000 made pursuant to that certain Omnibus Amendment No.",
+    "2\"), and (ii) a warrant to purchase 750,000 shares of Common Stock issued in connection with the additional borrowing of $10,000,000 made pursuant to that certain Amendment No."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2097390/000209739026000006/0002097390-26-000006-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Suja Life, Inc.",
+   "filer": "Paine Schwartz Food Chain Fund V GP, Ltd.",
+   "percentOfClass": 65.5,
+   "sharesOwned": 25280317,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "(\"Suja Life Aggregator\") purchased an aggregate of 1,035,148 shares of Class A Common Stock in open market transactions, for which it paid an aggregate of $8,544,733.39, including brokerage commissions (the \"Open Market Purchases\").",
+    "P 8/19/2026 189,300 $ 7.11 Open Market Purchase $6.",
+    "P 8/20/2026 189,300 $ 7.63 Open Market Purchase $7.",
+    "P 8/21/2026 189,300 $ 7.96 Open Market Purchase 7."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126034359/0001140361-26-034359-index.htm"
+  }
+ ]
+}
