@@ -1,0 +1,505 @@
+{
+ "date": "2026-09-21",
+ "generated": "2026-09-22T03:43:09.535Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Globalstar, Inc.",
+    "ticker": "GSAT",
+    "cik": "0001366868"
+   },
+   "owners": [
+    {
+     "name": "Monroe James III",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 361600,
+   "avgPrice": 82.52,
+   "value": 29839232,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1366868/000137966426000002/0001379664-26-000002-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Enhanced Group Inc.",
+    "ticker": "ENHA",
+    "cik": "0001956439"
+   },
+   "owners": [
+    {
+     "name": "Apeiron Investment Group Ltd.",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Enhanced Holdings LP",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    },
+    {
+     "name": "Angermayer Christian",
+     "roles": [
+      "Director",
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 6080047,
+   "avgPrice": 1.15,
+   "value": 6992054,
+   "tradeDates": [
+    "2026-09-17"
+   ],
+   "sharesAfter": 43343818,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1845872/000119312526397056/0001193125-26-397056-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "de Oliveira Andre Luis Duarte",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 309111,
+   "avgPrice": 17.98,
+   "value": 5557816,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 553173,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004621/0001292814-26-004621-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "de Souza Cintia Scovine Barcelos",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 60093,
+   "avgPrice": 17.98,
+   "value": 1080472,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 275197,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004617/0001292814-26-004617-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Pedras Carlos Henrique Villela",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 55850,
+   "avgPrice": 17.98,
+   "value": 1004183,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 163646,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004615/0001292814-26-004615-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+   "filer": "Takeover Time 2026 LLC",
+   "percentOfClass": 62.5,
+   "sharesOwned": 1846000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Person purchased 1,846,000 shares for $84,995.46 using personal funds contributed by its sole member, Natasha Ovsepyan.",
+    "On September 17, 2026, Takeover Time 2026 LLC purchased 1,846,000 shares of Class A common stock for an aggregate purchase price of $84,995.46, at an average price of approximately $0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Regents Partners Income Fund IV, LP",
+   "filer": "ECKLER JOE M JR",
+   "percentOfClass": 5,
+   "sharesOwned": 0.05,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1135423/000113542326000003/0001135423-26-000003-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "HealthStream, Inc.",
+   "filer": "WJRJJ Ventures, LLC",
+   "percentOfClass": 9.6,
+   "sharesOwned": 2800000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Frist (the \"Selling Shareholder\"), under which (i) the Company agreed to issue to WJRJJ 1,355,932 shares of Common Stock, for an aggregate cash purchase price of approximately $40.0 million, or a purchase price of $29.",
+    "50 per share, and (ii) the Selling Shareholder agreed to sell to WJRJJ 144,068 shares of Common Stock for an aggregate cash purchase price of approximately $4.25 million, or a purchase price of $29.",
+    "WJRJJ previously purchased 1,300,000 shares of the Company's common stock on the open market for an aggregate purchase price of approximately $36.7 million, excluding brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "PDS Biotechnology Corporation",
+   "filer": "Nant Capital, LLC",
+   "percentOfClass": 19.9,
+   "sharesOwned": 20336335,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The price per share of Common Stock and accompanying Common Warrant to purchase one-half of one share of Common Stock is $0.2825.",
+    "The price per Pre-Funded Warrant and accompanying Common Warrant to purchase one-half of one share of Common Stock is $0.28217.",
+    "Investors, will be obligated to purchase and the Issuer will be obligated to issue to Nant Capital shares of Comon Stock or Pre-Funded Warrants in lieu thereof for an aggregate subscription amount of $10,000,000.",
+    "The purchase price per share of Common Stock at the Milestone Closing is equal to $0.22, subject to adjustment for stock splits, stock dividends, stock combinations and similar transactions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1675758/000119312526397073/0001193125-26-397073-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Rainmaker Worldwide Inc.",
+   "filer": "Kelly Michelle White",
+   "percentOfClass": 16.9,
+   "sharesOwned": 17123475,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "to Kelly Michelle White personally for no cash consideration; the sale on September 25, 2025 of 300,000 shares at $0.0569 per share; the gift on October 6, 2025 of 2,000,000 shares for no consideration; 2752128 Ontario Ltd.",
+    "also holds a fully vested stock option to purchase 100,000 shares of Common Stock, currently exercisable at $0.0347 per share and expiring July 1, 2027."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226043552/0001493152-26-043552-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Enhanced Group Inc.",
+   "filer": "Apeiron Investment Group Ltd.",
+   "percentOfClass": 34.3,
+   "sharesOwned": 48697705,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "edule 13D is hereby amended and supplemented as follows: On September 17, 2026, the Reporting Persons purchased an aggregate of 6,080,047 shares of Class A Common Stock for aggregate consideration of $7,000,000.",
+    "In addition, from September 2, 2026 to September 9, 2026 the Reporting Persons purchased an aggregate of 312,820 shares of Class A Common Stock for aggregate consideration of approximately $496,128.",
+    "On September 17, 2026, the Reporting Persons purchased an aggregate of 6,080,047 shares of Class A Common Stock for $1.15 per share pursuant to a privately negotiated transaction."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526397057/0001193125-26-397057-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "BlackRock ESG Capital Allocation Term Trust",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 12.66,
+   "sharesOwned": 12588023,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $187,126,237 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1864843/000106299326005029/0001062993-26-005029-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "CEA Industries Inc.",
+   "filer": "YZILabs Management Ltd.",
+   "percentOfClass": 19.99,
+   "sharesOwned": 9749745,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "2,150,481 Shares beneficially owned by YZi Labs were acquired in connection with the PIPE at a price of $10.10 per Share.",
+    "In connection with the closing of the PIPE, YZi Labs also originally acquired (i)7,750,510 Pre-Funded Warrants at a price of $10.09999 per Pre-Funded Warrant, (ii) 9,900,991 Stapled Warrants at a price of $15.",
+    "5,418,633 Shares beneficially owned by YZi Labs were acquired through the exercise of 5,418,633 of the Pre-Funded Warrants at an exercise price of $0.00001 per Share.",
+    "2,180,631 Shares beneficially owned by YZi Labs were acquired through the exercise of 2,180,631 of the Strategic Advisor Warrants at an exercise price of $0.00001 per Share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1482541/000092189526002598/0000921895-26-002598-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "GameStop Corp.",
+   "filer": "Cohen Ryan",
+   "percentOfClass": 8.7,
+   "sharesOwned": 44233306,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Cohen purchased an aggregate of 1,150,680 Shares at a weighted average price of $22.9375 per Share in multiple transactions at prices ranging from $22."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1767470/000092189526002607/0000921895-26-002607-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RTB Digital, Inc.",
+   "filer": "Dorsett Jason Christopher",
+   "percentOfClass": 29.9,
+   "sharesOwned": 4193028,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2146263/000214626326000004/0002146263-26-000004-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Seadrill Ltd",
+   "filer": "Elliott Investment Management L.P.",
+   "percentOfClass": 5.8,
+   "sharesOwned": 3643112,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1791786/000091957426006414/0000919574-26-006414-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TOP SHIPS INC.",
+   "filer": "Family Trading Inc.",
+   "percentOfClass": 37.55,
+   "sharesOwned": 2930718,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1786648/000117184326006133/0001171843-26-006133-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Mistras Group, Inc.",
+   "filer": "Stephanie Athena Foglia",
+   "percentOfClass": 17.4,
+   "sharesOwned": 5532313,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "by stockholders who properly exercise and perfect appraisal rights under Section 262 of the General Corporation Law of the State of Delaware) will be cancelled and converted into the right to receive $20.35 per share in cash, without interest and subject to any applicable withholding taxes (the \"Merger Consideration\")."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2082289/000110465926109294/0001104659-26-109294-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JACK IN THE BOX INC",
+   "filer": "GreenWood Investors LLC",
+   "percentOfClass": 7.1,
+   "sharesOwned": 1352490,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2096490/000090266426003887/0000902664-26-003887-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Kinetik Holdings Inc.",
+   "filer": "ISQ Global Fund II GP LLC",
+   "percentOfClass": 18.4,
+   "sharesOwned": 17618164,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1904934/000090514826004247/0000905148-26-004247-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SYNTEC OPTICS HOLDINGS, INC.",
+   "filer": "Al Kapoor",
+   "percentOfClass": 73.56,
+   "sharesOwned": 29631090,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1890832/000149315226043480/0001493152-26-043480-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Lincoln Bain Capital Total Credit Fund",
+   "filer": "Lincoln National Corporation",
+   "percentOfClass": 13.9,
+   "sharesOwned": 5378832.59,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ich LFI acts as investment adviser, acquired Class I Shares of the Issuer automatically, and without investment discretion, pursuant to the Issuer's dividend reinvestment plan at a price per share of $10.15 in the amounts and for the aggregate purchase price as set forth below: Shares acquired Aggregate purchase price 1: LVIP Global Growth Allocation Managed Risk Fund: 67,682.",
+    "84 $19,476.27 On September 08, 2026, LNL acquired Class A Shares of the Issuer automatically, and without investment discretion, pursuant to the Issuer's dividend reinvestment plan at a price per share of $9.",
+    "76 and for the aggregate purchase price of $63.83.",
+    "On September 08, 2026, LNL acquired Class D Shares of the Issuer automatically, and without investment discretion, pursuant to the Issuer's dividend reinvestment plan at a price per share of $9.76 and for the aggregate purchase price of $67."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2054992/000119312526396333/0001193125-26-396333-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MARINEMAX INC",
+   "filer": "Renata Kellnerova",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1057060/000121390026101887/0001213900-26-101887-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "MasterCraft Boat Holdings, Inc.",
+   "filer": "Gary W. Rollins",
+   "percentOfClass": 2.9,
+   "sharesOwned": 719895,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1638290/000110465926109327/0001104659-26-109327-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rainmaker Worldwide Inc.",
+   "filer": "Michael John O'Connor",
+   "percentOfClass": 16.2,
+   "sharesOwned": 16319992,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "transfer on July 17, 2025 of 16,518,432 shares from Larchwood to Michael John O'Connor personally for no cash consideration; the sale on August 21, 2025 of 611,330 shares in a private transaction at $0.0347 per share; the sale on December 29, 2025 of 1,000,000 shares in a private transaction at $0.",
+    "O'Connor also holds a fully vested stock option granted by the Issuer on January 8, 2024 to purchase 264,000 shares of Common Stock at an exercise price of $0.0347 per share."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2055656/000149315226043601/0001493152-26-043601-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Priority Technology Holdings, Inc.",
+   "filer": "Thomas C. Priore",
+   "percentOfClass": 56.5,
+   "sharesOwned": 46566776,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "mited Guaranty and Equity Commitment Letter Parent expects to fund the payment of the aggregate Merger Consideration and related fees and expenses through a combination of: (i) equity financing up to $160 million from funds advised by Searchlight Capital Partners, L.",
+    "means the commitment of the Affiliates of the Investor that are party to the Commitment Letter to purchase Series A Preferred Unit Holdings Interests having an aggregate initial stated value of up to $160,000,000 (but not less than $150,000,000), subject to the Commitment Letter and the Equity Documentation."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1746475/000121390026101765/0001213900-26-101765-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SIONNA THERAPEUTICS, INC.",
+   "filer": "RA Capital Management, L.P.",
+   "percentOfClass": 14.3,
+   "sharesOwned": 6476193,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1346824/000134682426000239/0001346824-26-000239-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RPC INC",
+   "filer": "Gary W. Rollins",
+   "percentOfClass": 14.4,
+   "sharesOwned": 31813229,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1005788/000110465926109328/0001104659-26-109328-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Rollins Inc",
+   "filer": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
+   "percentOfClass": 33.3,
+   "sharesOwned": 160238857,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1005788/000110465926109332/0001104659-26-109332-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Silicon Valley Acquisition Corp.",
+   "filer": "Silicon Valley Acquisition Sponsor LLC",
+   "percentOfClass": 24.2,
+   "sharesOwned": 7090950,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "he Issuer consummated its initial public offering (\"IPO\") and in connection with the consummation, Sponsor purchased an aggregate of 425,000 private placement units for an aggregate purchase price of $4,250,000."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2101202/000121390026101879/0001213900-26-101879-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SPRUCE POWER HOLDING CORP",
+   "filer": "STEEL PARTNERS HOLDINGS L.P.",
+   "percentOfClass": 17.8,
+   "sharesOwned": 3429380,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1772720/000092189526002614/0000921895-26-002614-index.htm"
+  }
+ ]
+}
