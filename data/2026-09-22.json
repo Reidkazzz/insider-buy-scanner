@@ -1,0 +1,437 @@
+{
+ "date": "2026-09-22",
+ "generated": "2026-09-23T03:43:19.117Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Alvarez Denise Aguiar",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 130596,
+   "avgPrice": 17.98,
+   "value": 2348116,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 6002223,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2126543/000129281426004635/0001292814-26-004635-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Paris Roberto de Jesus",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 96702,
+   "avgPrice": 17.98,
+   "value": 1738702,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 367829,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004658/0001292814-26-004658-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "TriplePoint Venture Growth BDC Corp.",
+    "ticker": "TPVG",
+    "cik": "0001580345"
+   },
+   "owners": [
+    {
+     "name": "Labe James",
+     "roles": [
+      "Director",
+      "Chief Executive Officer"
+     ]
+    }
+   ],
+   "shares": 313865,
+   "avgPrice": 4.7061,
+   "value": 1477081,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": null,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1594983/000159498326000015/0001594983-26-000015-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Fernandes Oswaldo Tadeu",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 79782,
+   "avgPrice": 17.98,
+   "value": 1434480,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 348575,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004654/0001292814-26-004654-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Ramalho Miranda Jose Augusto",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 63719,
+   "avgPrice": 17.98,
+   "value": 1145668,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 220933,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004646/0001292814-26-004646-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Machado Silvana Rosa",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 62048,
+   "avgPrice": 17.98,
+   "value": 1115623,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 235449,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004660/0001292814-26-004660-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Marcilio Juliano Ribeiro",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 60779,
+   "avgPrice": 17.98,
+   "value": 1092806,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 329067,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004642/0001292814-26-004642-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Favarao Vinicius Urias",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 60492,
+   "avgPrice": 17.98,
+   "value": 1087646,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 341683,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004664/0001292814-26-004664-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Tescarolo Marcos Valerio",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 57012,
+   "avgPrice": 17.98,
+   "value": 1025076,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 296836,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004652/0001292814-26-004652-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "BANK BRADESCO",
+    "ticker": "BBD",
+    "cik": "0001160330"
+   },
+   "owners": [
+    {
+     "name": "Bueno Julio Cesar",
+     "roles": [
+      "Executive Officer"
+     ]
+    }
+   ],
+   "shares": 56355,
+   "avgPrice": 17.98,
+   "value": 1013263,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 336549,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004650/0001292814-26-004650-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "MBody AI Ltd.",
+   "filer": "Regan McMillan McGee",
+   "percentOfClass": 44.9,
+   "sharesOwned": 6860097,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "TriplePoint Venture Growth BDC Corp.",
+   "filer": "TriplePoint Capital LLC",
+   "percentOfClass": 5.68,
+   "sharesOwned": 2312354.22,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On August 6, 2025, TPC announced a discretionary share purchase program (the \"TPC Purchase Plan\") to acquire up to $14 million of the Issuer's outstanding shares of common stock at prices below the then-current NAV per share for a 12-month period subject to certain trading parameters and limitations.",
+    "In connection with the TPC Purchase Plan, on December 11, 2025, TPC purchased 24,590 shares of the Issuer's common stock at a volume-weighted average purchase price of $6.6771 per share for an aggregate gross purchase price of $164,504.",
+    "On March 5, 2014, in connection with the Issuer's initial public offering, Madera acquired 128,666 shares of the Issuer's common stock at the initial public offering price of $15.00 per share, using available cash on hand.",
+    "On March 22, 2024, Michael Gontar purchased 17,594 shares of the Issuer's common stock on the open market at a price of $9.23 per share, for a total purchase price of approximately $163,583, using available cash on hand."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1334117/000121390026102233/0001213900-26-102233-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Aeries Technology, Inc.",
+   "filer": "Bhisham Khare",
+   "percentOfClass": 10.5,
+   "sharesOwned": 581828,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626010323/0001829126-26-010323-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "ZTO Express (Cayman) Inc.",
+   "filer": "Alibaba Group Holding Limited",
+   "percentOfClass": 6.1,
+   "sharesOwned": 46941287,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926109479/0001104659-26-109479-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "XBP Global Holdings, Inc.",
+   "filer": "Cantor Fitzgerald, L.P.",
+   "percentOfClass": 7.2,
+   "sharesOwned": 1014197,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "the sale by the Issuer in a private placement (the \"Private Placement\") of an aggregate of 2,275,245 shares (the \"Shares\") of the Issuer's Common Stock, at a weighted purchase price of approximately $2.66 per Share, for aggregate gross proceeds to the Issuer of approximately $6.",
+    "All purchases made by CFS were made at a per share price of $2.55."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1024896/000121390026102187/0001213900-26-102187-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Group 1 Automotive, Inc.",
+   "filer": "Conifer Management, L.L.C.",
+   "percentOfClass": 12.7,
+   "sharesOwned": 1512290,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $40,526,828.72, excluding commissions, was paid to acquire the shares of Common Stock purchased since Amendment No.",
+    "For the Account of Acacia Conservation Fund, LP : Date Quantity Purchase or Sale Volume-Weighted Average Price per Share Low Price per Share High Price per Share 9/9/2026 47,353 Purchase $282.4808 (1) $280.",
+    "03 (1) $286.58 (1) 9/10/2026 36,647 Purchase $280.",
+    "72 (1) 9/17/2026 28,000 Purchase $266.0621 (1) $260."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1773994/000090514826004248/0000905148-26-004248-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "NEWAMSTERDAM PHARMA COMPANY N.V.",
+   "filer": "Frazier Life Sciences X, L.P.",
+   "percentOfClass": 6.1,
+   "sharesOwned": 7329857,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "Reporting Person Name Date of Event Type of Transaction Number of Shares Weighted Average Price Low Price High Price FLSPF 9/8/2026 Purchase 92,220 $25.1950 $24.",
+    "68 $25.50 FLS XI 9/8/2026 Purchase 1,210 $25.",
+    "50 FLS XII 9/8/2026 Purchase 6,570 $25.1950 $24.",
+    "68 $25.50 FLSPF 9/9/2026 Purchase 119,619 $22."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1790879/000123191926001215/0001231919-26-001215-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Funko, Inc.",
+   "filer": "Fund 1 Investments, LLC",
+   "percentOfClass": 9.8,
+   "sharesOwned": 5497413,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase price of the 5,497,413 Shares beneficially owned by the Reporting Person is approximately $39,523,665, including brokerage commissions."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1959730/000092189526002624/0000921895-26-002624-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "TENNANT CO",
+   "filer": "GAMCO INVESTORS, INC. ET AL",
+   "percentOfClass": 0,
+   "sharesOwned": 0,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The Reporting Persons used an aggregate of approximately $10,626,024 to purchase the additional Securities reported as beneficially owned in Item 5 since the most recent filing on Schedule 13D.",
+    "AC used approximately $62,620 of working capital to purchase the additional Securities reported by it."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/807249/000080724926000086/0000807249-26-000086-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PodcastOne, Inc.",
+   "filer": "LiveOne, Inc.",
+   "percentOfClass": 68.8,
+   "sharesOwned": 20804235,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "In connection with the sale of the Bridge Notes, the holders of the Bridge Notes, including the Reporting Person, received warrants to purchase shares of common stock at an exercise price of $3.00 per share (the \"Bridge Warrants\").",
+    "s\"), pursuant to which (i) the Reporting Person sold to the Purchasers its Original Issue Discount Senior Secured Convertible Debentures (the \"Initial Debentures\") in an aggregate principal amount of $16.75 million for an aggregate cash purchase price of $15.",
+    "ions (as defined below), the Reporting Person may sell at its option to the Purchasers its additional Original Issue Discount Senior Secured Convertible Debentures in an aggregate principal amount of $11,000,000 on substantially the same terms as the Initial Debentures (the \"Additional Debentures\" and collectively with the Initial Debentures, the \"Debentures\"), in a private placement transaction."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1491419/000121390026102325/0001213900-26-102325-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VAIL RESORTS INC",
+   "filer": "Oasis Management Co Ltd.",
+   "percentOfClass": 7.4,
+   "sharesOwned": 2622562,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $373 million (excluding commissions) was paid to acquire the shares of Common Stock held by the Oasis Fund.",
+    "Hudson were purchased with his personal funds in open market transactions for an aggregate purchase price of approximately $0.2 million (excluding commissions)."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1317904/000090266426003894/0000902664-26-003894-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VISTA CREDIT STRATEGIC LENDING CORP.",
+   "filer": "The Saudi National Bank",
+   "percentOfClass": 6.5,
+   "sharesOwned": 3345230.41,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "784 shares of Common Stock of the Issuer for an aggregate purchase price of $12,460,043.43 in a private placement transaction with the Issuer pursuant to the Subscription Agreement, following the receipt by SNB of a drawdown notice on June 17, 2026.",
+    "784 shares of Common Stock for a purchase price of $19.13066 per share and an aggregate purchase price of $12,460,043."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1761489/000119312526397892/0001193125-26-397892-index.htm"
+  }
+ ]
+}
