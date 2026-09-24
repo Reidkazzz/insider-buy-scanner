@@ -1,0 +1,303 @@
+{
+ "date": "2026-09-23",
+ "generated": "2026-09-24T03:43:20.313Z",
+ "defaultMinUsd": 10000000,
+ "form4": [
+  {
+   "form": "4",
+   "issuer": {
+    "name": "CapsoVision, Inc",
+    "ticker": "CV",
+    "cik": "0001378325"
+   },
+   "owners": [
+    {
+     "name": "HARARI ELIYAHOU ET AL",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 1757469,
+   "avgPrice": 5.69,
+   "value": 9999999,
+   "tradeDates": [
+    "2026-09-18"
+   ],
+   "sharesAfter": 878734,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1378325/000100916526000009/0001009165-26-000009-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Cascade Real Assets Fund",
+    "ticker": "CRAFX",
+    "cik": "0002114459"
+   },
+   "owners": [
+    {
+     "name": "Nesbitt Stephen Lane",
+     "roles": [
+      "Director",
+      "President"
+     ]
+    }
+   ],
+   "shares": 500000,
+   "avgPrice": 10,
+   "value": 5000000,
+   "tradeDates": [
+    "2026-09-21"
+   ],
+   "sharesAfter": 500000,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/2114459/000121390026102533/0001213900-26-102533-index.htm"
+  },
+  {
+   "form": "4/A",
+   "issuer": {
+    "name": "CapsoVision, Inc",
+    "ticker": "cv",
+    "cik": "0001378325"
+   },
+   "owners": [
+    {
+     "name": "Shen Ching Hang",
+     "roles": [
+      "10% Owner"
+     ]
+    }
+   ],
+   "shares": 878734,
+   "avgPrice": 5.69,
+   "value": 4999996,
+   "tradeDates": [
+    "2026-09-15"
+   ],
+   "sharesAfter": 7279261,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1378325/000210230426000004/0002102304-26-000004-index.htm"
+  },
+  {
+   "form": "4",
+   "issuer": {
+    "name": "Kayne Anderson BDC, Inc.",
+    "ticker": "KBDC",
+    "cik": "0001747172"
+   },
+   "owners": [
+    {
+     "name": "ROBO JAMES L",
+     "roles": [
+      "Director"
+     ]
+    }
+   ],
+   "shares": 114961,
+   "avgPrice": 13.0892,
+   "value": 1504742,
+   "tradeDates": [
+    "2026-09-22",
+    "2026-09-23"
+   ],
+   "sharesAfter": 514961,
+   "plan10b5_1": false,
+   "url": "https://www.sec.gov/Archives/edgar/data/1747172/000118325426000006/0001183254-26-000006-index.htm"
+  }
+ ],
+ "sc13d": [
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "Cheer Holding, Inc.",
+   "filer": "Lioness Ltd",
+   "percentOfClass": 100,
+   "sharesOwned": 500000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "d between Lioness and Bing Zhang (the \"Seller\"), Lioness purchased from the Seller all 500,000 Class B Shares, constituting all issued and outstanding Class B Shares, for aggregate consideration of US$500.00.",
+    "The funds used by Lioness to pay the US$500.00 purchase price were derived from its working capital.",
+    "er 16, 2026, pursuant to the Purchase Agreement, Lioness purchased from the Seller all 500,000 Class B Shares, constituting all issued and outstanding Class B Shares, for aggregate consideration of US$500.00.",
+    "On September 22, 2026, Lioness acquired 500,000 Class B Shares from Bing Zhang in a privately negotiated transaction for aggregate consideration of US$500.00, or US$0."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1738758/000109690626001424/0001096906-26-001424-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D",
+   "subject": "URSB Bancorp, Inc.",
+   "filer": "SEIDMAN &amp; ASSOCIATES LLC ET AL",
+   "percentOfClass": 2.21,
+   "sharesOwned": 51642,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate purchase cost of the 126,045 Shares beneficially owned in the aggregate by the Reporting Persons is approximately $1,373,442.34, including brokerage commissions.",
+    "htm Exhibit 2 Transactions in the Securities of the Issuer During the Past Sixty Days Entity Transaction Date Shares Purchased Cost Per Share SAL 9/18/2026 4,733 $60,129.10 $12."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1026081/000092189526002628/0000921895-26-002628-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Caesarstone Ltd.",
+   "filer": "Mifalei Sdot-Yam Agricultural Cooperative Society Ltd.",
+   "percentOfClass": 30.19,
+   "sharesOwned": 10440000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1504379/000149315226043894/0001493152-26-043894-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "PEARSON PLC",
+   "filer": "Cevian Capital II GP LTD",
+   "percentOfClass": 19.4,
+   "sharesOwned": 116765346,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1365341/000090266426003927/0000902664-26-003927-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VNET Group, Inc.",
+   "filer": "Sheng Chen",
+   "percentOfClass": 24.8,
+   "sharesOwned": 423652371,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/1541680/000110465926109971/0001104659-26-109971-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "RTB Digital, Inc.",
+   "filer": "Dorsett Jason Christopher",
+   "percentOfClass": 30,
+   "sharesOwned": 4204028,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "United States of America On September 21, 2026, the Reporting Person used $91,520 of personal funds to purchase 11,000 shares of Common Stock at $8.32 per share.",
+    "On September 21, 2026, the Reporting Person purchased 11,000 shares of Common Stock in an open-market transaction at $8.32 per share using personal funds."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2146263/000214626326000006/0002146263-26-000006-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Pinnacle Acquisition Corporation",
+   "filer": "Steven Kenneth Hudson",
+   "percentOfClass": 25.67,
+   "sharesOwned": 6475000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2147714/000121390026102693/0001213900-26-102693-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "JAPAN SMALLER CAPITALIZATION FUND, INC.",
+   "filer": "Saba Capital Management, L.P.",
+   "percentOfClass": 8.8,
+   "sharesOwned": 2494542,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "A total of approximately $21,684,119 was paid to acquire the Common Shares reported herein."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/859796/000106299326005061/0001062993-26-005061-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Swarmer, Inc",
+   "filer": "Serhii Kupriienko",
+   "percentOfClass": 28.7,
+   "sharesOwned": 4674528,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "On September 21, 2026, the Reporting Person acquired 235,163 shares of common stock upon the exercise of stock options and paid the aggregate exercise price of $2.35 from personal funds."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2114246/000110465926109988/0001104659-26-109988-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Perspective Therapeutics, Inc.",
+   "filer": "Lantheus Holdings, Inc.",
+   "percentOfClass": 7.7,
+   "sharesOwned": 8739011,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "eptember 22, 2026, Lantheus Alpha sold 167,149, 92,442, 65,500, 13,450, 750,000, 215,974 and 1,396,987 shares of Common Stock, respectively, on the open market for an average sales price per share of $3.1472, $3."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526399446/0001193125-26-399446-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Pinnacle Acquisition Corp",
+   "filer": "PAC Sponsor, LLC",
+   "percentOfClass": 20.71,
+   "sharesOwned": 5225000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2148398/000121390026102692/0001213900-26-102692-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "VNET Group, Inc.",
+   "filer": "PJ Millennium Limited Partnership",
+   "percentOfClass": 38.1,
+   "sharesOwned": 650424192,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "The aggregate consideration allocated to the Seller A Shares Closing under the Share Purchase Agreement was US$659,527,963.",
+    "to the Share Purchase Agreement, US$197,858,389 of the deposit previously paid by the Purchasers was treated as part of the consideration payable at the Seller A Shares Closing, and the balance of US$461,669,574 was paid to Seller A at the Seller A Shares Closing."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/2150447/000110465926109779/0001104659-26-109779-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "Pinnacle Acquisition Corp",
+   "filer": "AVR Capital Holdings, LLC",
+   "percentOfClass": 24.68,
+   "sharesOwned": 6225000,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [],
+   "url": "https://www.sec.gov/Archives/edgar/data/2123955/000121390026102694/0001213900-26-102694-index.htm"
+  },
+  {
+   "form": "SCHEDULE 13D/A",
+   "subject": "SPRUCE POWER HOLDING CORP",
+   "filer": "STEEL PARTNERS HOLDINGS L.P.",
+   "percentOfClass": 18.1,
+   "sharesOwned": 3482160,
+   "recentTradeShares": null,
+   "avgPrice": null,
+   "recentTradeValue": null,
+   "snippets": [
+    "ROAD SUITE 500 HOUSTON TX 77024 Item 3 is hereby amended and restated to read as follows: The aggregate purchase price of the 3,482,160 Shares owned directly by SP Strategic Holdings is approximately $12,260,505, including brokerage commissions.",
+    "Lee for total consideration of $107,671.",
+    "5 Class of Security Securities Purchased Price ($) Date of Purchase SP STRATEGIC HOLDINGS LLC Common Stock 1 52,780 $2.04 09/21/2026 1 Shares purchased pursuant to SPA."
+   ],
+   "url": "https://www.sec.gov/Archives/edgar/data/1772720/000092189526002635/0000921895-26-002635-index.htm"
+  }
+ ]
+}
